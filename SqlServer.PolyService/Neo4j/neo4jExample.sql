@@ -1,13 +1,14 @@
 -------------------------------------------------------------------
 ---	Creating temp table that from Person table in Table Storage ---
 -------------------------------------------------------------------
+drop table #PhoneTemp
 
 Declare @numbers nvarchar(max),
 		@idoc int
 
 Set @numbers = dbo.Json2Xml(
-					  dbo.TableStorage().Returns('ActorID, PhoneNum')
-										.FromTable('Person')
+					  dbo.TableStorage().Returns('ActorID, Actor, PhoneNum')
+										.FromTable('PhoneBook')
 										.Get()
 							 )
 							 
@@ -16,6 +17,7 @@ SELECT * INTO #PhoneTemp
 FROM
 	OPENXML(@idoc,'/ROOT/value',2)
 		WITH (actor_id int  'ActorID',
+			  actor nvarchar(max) 'Actor',
 			  phone_num nvarchar(max) 'PhoneNum'
 			)
 EXEC sp_xml_removedocument @idoc;
@@ -57,7 +59,7 @@ MovieData(movie, director, director_id) AS (
 -- Joining data from Neo4j and Table Storage
 SELECT t1.movie, t1.director, t2.phone_num
 FROM MovieData AS t1
-	JOIN #PhoneTemp AS t2 On t2.actor_id = t1.director_id
+	JOIN #PhoneTemp AS t2 On t2.actor = t1.director
 
 -- removing document
 EXEC sp_xml_removedocument @idoc;
@@ -93,7 +95,7 @@ ActorData(coactor_id, co_actor) AS (
 -- Joining data from Neo4j and Table Storage
 SELECT t1.co_actor, t2.phone_num
 FROM ActorData AS t1
-	JOIN #PhoneTemp AS t2 On t1.coactor_id = t2.actor_id
+	JOIN #PhoneTemp AS t2 On t1.co_actor = t2.actor
 
 -- removing document
 EXEC sp_xml_removedocument @idoc;
@@ -132,7 +134,8 @@ ActorData(actor_id, actor, movie_count) AS (
 -- Joining data from Neo4j and Table Storage
 SELECT t1.actor, t1.movie_count, t2.phone_num
 FROM ActorData AS t1
-	JOIN #PhoneTemp AS t2 On t1.actor_id = t2.actor_id
+	JOIN #PhoneTemp AS t2 On t1.actor = t2.actor
+ORDER BY movie_count desc
 
 -- removing document
 EXEC sp_xml_removedocument @idoc;
