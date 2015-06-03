@@ -1,0 +1,182 @@
+{
+  "value": [
+      {
+        "@search.action": "upload",
+        "movieId": "95",
+        "movie": "The Birdcage",
+        "review": "Shaking a layer of dust off its well-worn marabou, \"La Cage aux Folles\" returns to the screen as \"The Birdcage,\" an American remake with plenty of new pizazz. This material still shows its age (as it did even in the 1979 French-language version), but it has been tarted up with giddy ingenuity.
+
+Staged by Mike Nichols in a tame, AIDS-free universe where homosexuality simply means wacky fashion sense, it now features political satire, Robin Williams in a devilishly debonair mode, Nathan Lane in outlandish drag and plenty of dialogue in the irresistible voice of Elaine May. When a reporter from The National Enquirer starts pestering these characters, one of them has this to say about the news hound: \"My God, he's put on so much weight since the Simpson trial!\"
+
+The French film, based on the stage play by Jean Poiret, obviously didn't have that. But to an astonishing degree, \"The Birdcage\" amounts to a line-by-line copy, though Ms. May often takes the original punch line and adds significantly more punch. For instance, when the story's transvestite character has a tantrum and refuses to perform at the drag nightclub of the title, he's told in the French film that there's a large crowd waiting for him to go on. New version, set in South Beach in Miami instead of St. Tropez: \"There's 150 people out there, half of them are Kennedys, and they're all waiting for you!\"
+
+The plot, as dizzyingly farcical as ever: Armand (Mr. Williams) and Albert (Mr. Lane) are a gay couple who have together raised Armand's son, Val (Dan Futterman). Now, to their chagrin, Val wants to get married. And to a girl -- and a girl (Calista Flockhart) whose father is a prominent conservative politician. The film makers have had great fun turning the father, played with deadpan wickedness by Gene Hackman, into a buffoonish Pat Buchanan who frets over which clergyman should marry Val and his daughter. The Pope? \"Too controversial.\" Billy Graham? \"Too liberal.\"
+
+The film revolves around a single event, the meeting of these colossally incompatible future in-laws. Senator Keeley and his snobbish wife (Dianne Wiest plays her hilariously, wondering if South Beach is anything like Palm Beach) are hoping that Val's family will be highly respectable, since they're trapped in the midst of a nasty political scandal. Armand and Albert, for their part, want to do Val a favor by temporarily straightening up their act. That means purging their apartment of homoerotic bric-a-brac and bringing in new props, like a nice set of books. When Mrs. Keeley takes a good look at them, she wonders why they're Nancy Drew.
+
+Meanwhile, Armand gives Albert the obligatory lessons in he-manly behavior. And Albert, who minces extravagantly, is even taught how to walk like John Wayne. (Where the French film accepted the Wayne stride as a masculine ideal, this new version finds it interestingly peculiar.) Mr. Nichols puts his film through these paces with dependable comic agility, and rises to the requisite frantic pitch when the two families meet for dinner. Regrettably, Armand and Albert's wildly campy houseboy (Hank Azaria) has set out the pornographic china. \"Why, it looks like young men playing leapfrog!\" sweetly exclaims Mrs. Keeley. \"Is it Greek?\"
+
+\"The Birdcage\" augments such mock-naughty gags with topical references to abortion, gays in the military (Alexander the Great is mentioned) and some sneaky jabs at Senator Keeley's anti-Semitism. It even presents gay characters who think Bob Dole is cute. But it still has little footing in the real world. The gay nightclub setting is watered down with shots of a heterosexual audience, and Armand and Albert seem even less like actual lovers than their Fre"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "97",
+        "movie": "Unforgiven",
+        "review": "TIME has been good to Clint Eastwood. If possible, he looks even taller, leaner and more mysteriously possessed than he did in Sergio Leone's seminal \"Fistful of Dollars\" a quarter of a century ago. The years haven't softened him. They have given him the presence of some fierce force of nature, which may be why the landscapes of the mythic, late 19th-century West become him, never more so than in his new \"Unforgiven.\"
+
+As written by David Webb Peoples and directed by Mr. Eastwood, \"Unforgiven\" is a most entertaining western that pays homage to the great tradition of movie westerns while surreptitiously expressing a certain amount of skepticism. Mr. Eastwood has learned a lot from his mentors, including the great Don Siegel (\"Two Mules for Sister Sara\" and \"The Beguiled,\" among others), a director with no patience for sentimentality.
+
+The time is the 1880's. The principal setting is Big Whiskey, a forlorn hamlet in that vast American no-man's land of high plains edged by mountains, somewhere between St. Louis and San Francisco but not on any map.
+
+Late one night a couple of cowboys are on the second floor of the saloon with the girls. Suddenly one of the cowboys whips out his knife and slashes the face of Delilah, the prostitute he's with. It seems that she made a rude comment about his anatomy. Instead of arresting the cowboys, Little Bill Daggett, the sheriff, allows them to get off with the understanding that they hand over six horses to the saloon keeper.
+
+Strawberry Alice, the victim's best friend, is outraged. \"We may be whores,\" she says, \"but we aren't horses.\" Alice, Delilah and the other girls pool their savings and offer a bounty of $1,000 to anybody who will murder the cowboys.
+
+Thus \"Unforgiven\" becomes an epic about the revenge of whores. It's not sending up the women. Rather it's equating Old Western codes of honor with the handful of men who set out to collect the bounty, motivated in varying degrees by economic necessity, greed and half-baked notions of glory.
+
+Chief among the bounty hunters is the aging Bill Munny (Mr. Eastwood), a widower trying to support his two young children on an unsuccessful hog farm. Munny has been keeping to himself in recent years. He's still trying to live down his notorious career as a gun-crazy outlaw, a man who used to shoot women, children -- anybody -- just for the hell of it.
+
+There is something creepy about him now, especially about the way he keeps harping on how his wife \"saved\" him, his distaste for violence and his need to be true to his pledge never to pick up a gun again. He has something of the manner of the mild-mannered clerk who comes into the office on Monday morning and shoots everyone in sight.
+
+When a young fellow who styles himself the Schofield Kid (Jaimz Woolvett) asks Munny to join him to win the bounty, Munny at first refuses. Then he changes his mind, apparently because he is desperately hard up, but with Munny you can't be sure. Along the way to Big Whiskey, they are joined by Ned Logan (Morgan Freeman), who rode with Munny in the outlaw days and appears to trust him.
+
+Also en route to Big Whiskey for the same purpose is English Bob (Richard Harris). He's a dandyish former outlaw who, when first seen, is aboard a train, reading about the assassination of President James A. Garfield and explaining to anyone who will listen why America would be better off with a king. His admiring companion is W. W. Beauchamp (Saul Rubinek), whom English Bob introduces as \"my biographer,\" the author of a penny dreadful about the outlaw titled \"The Duke of Death.\"
+
+Little Bill Daggett (Gene Hackman) is ready for the bounty hunters as they arrive in Big Whiskey. He immediately spot"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "100",
+        "movie": "Johnny Mnemonic",
+        "review": "Keanu Reeves is not supposed to be a robot or an android or any other humanoid form in \"Johnny Mnemonic,\" but from his robotic delivery you'd never guess he's meant to be a flesh-and-blood man with a memory chip implanted in his brain. The date is 2021, and Johnny is an overambitious courier whose head contains more gigabytes than he can handle. He has 24 hours to get rid of the excess information or his head will explode. That is a problem, because he has only part of the access code he needs to download the memory. (This is what happens if you misplace your PIN number.) And there is the more immediate danger that Johnny's head will be lopped off before he can get the rest of the code. A ruthless pharmaceutical company wants the information and sends Japanese hit men to chop off Johnny's head and preserve it cryogenically.
+
+Though the film was written by the cyberpunk master William Gibson from his own story and was directed by the artist Robert Longo, \"Johnny Mnemonic\" looks and feels like a shabby imitation of \"Blade Runner\" and \"Total Recall.\" It is a disaster in every way. There is little tension in the story despite the ever-present threat of an exploding brain. The special effects that take us on a tour of the information superhighway -- traveling inside the circuits of Johnny's brain, or viewing his search for information while wearing virtual reality headgear -- look no better than a CD-ROM. Visually, the rest of the film looks murky, as if the future were one big brown-toned mud puddle.
+
+Ice-T, a good actor who has had bad luck with his roles, is relegated to the stereotypical part of J-Bone, the leader of the Lo-Teks, an inner-city street gang based in what is known as the Free City of Newark. The Lo-Teks are stuck in the 1990's with banks of televisions and satellites instead of new toys. Dina Meyer plays Johnny's tough-cookie bodyguard, Jane. Dolph Lundgren plays a Jesus-obsessed hit man who wears a robe and carries a shepherd's staff.
+
+Henry Rollins, varying only slightly from his spoken-word performances, plays a ranting doctor trying to cure Nerve Attenuation Syndrome, a disease that causes people to shake as if their circuits were overloaded. Nerve Attenuation Syndrome, he explains, is caused by information overload. Think of \"Johnny Mnemonic\" as a carrier.
+
+\"Johnny Mnemonic\" is rated R (Under 17 requires accompanying parent or adult guardian). There is a lot of unconvincing violence, including a body sliced in three by the laser. JOHNNY MNEMONIC
+
+Directed by Robert Longo; written by William Gibson, based on his short story; director of photography, Francois Protat; edited by Ronald Sanders; music by Brad Fiedel; production designer, Nilo Rodis Jamero; produced by Don Carmody; released by Tri-Star Pictures and Peter Hoffman. Running time: 98 minutes. This film is rated R. WITH: Keanu Reeves (Johnny), Dolph Lundgren (Street Preacher), Ice-T (J-Bone), Dina Meyer (Jane) and Henry Rollins (Spider)."
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "105",
+        "movie": "Cloud Atlas",
+        "review": "Mitchel's  500 plus page book garnered several literary prizes and a huge following after it was first published in 2004, but many would have said that the novel's unique structure where multiple stories in different time periods are told chronologically from past to future and then back again was impossible to adapt to the big screen.
+The Wachowskis (with Lana receiving her first screen credit here) and Tykwer (Run Lola Run, The International) figured out they could streamline the narrative by cross cutting between the different epochs and casting the same actors in a multitude of roles. Although this helps to make the whole pill easier to swallow, it also makes it harder to invest in each narrative, while seeing the actors transformed from old to young, black to white, and occasionally gender bended from male to female, tends to dilute the overall dramatic tension.
+STORY: Andy and Lana Wachowski: 7 Revelations From the 'New Yorker' Profile
+A brief prologue features an old man, Zachry (Tom Hanks), telling a story around a campfire, and from hereon in the film reveals how each plotline is in fact a tale told-or read or seen in a movie by the next one (this is also a process used in the book). 
+They are, in ascending order: an 1849 Pacific sea voyage where a crooked doctor (Hanks), a novice sailor (Jim Sturgess) and an escaped slave (David Gyasi) cross paths; a saga of dualing composers (Jim Broadbent, Ben Wishaw) set in 1936 Cambridge; a San Francisco set 70s thriller about a rogue journalist (Halle Berry) taking on a nuclear power chief (Hugh Grant); a 2012-set comedy about a down-on-his-luck London book editor (Broadbent); a sci fi love story about an indentured wage slave (Doona Bae) and the rebel (Sturgess) who rescues her, set in \"Neo Seoul\" in 2144; and a 24th century-set tale of tribal warfare, where Zachry teams up with a visiting explorer (Berre) in search of a groundbreaking, planet shaking discovery.
+VIDEO: New 'Cloud Atlas' Trailer Features Many Different Tom Hanks
+Despite their myriad differences, the half-dozen plot strands are coherently tied together via sharp editing by Alexander Berner (Resident Evil), who focuses on each separate story early on, and then mixes them up in several crescendo-building montages where movement and imagery are matched together across time. As if such links weren't explicit enough, the characters all share a common birthmark, and have a tendency to repeat the same feel good proverbs (ex. \"By each crime, and every kindness, we build our future\") at various intervals.
+Yet while the directorial trio does their best to ensure that things flow together smoothly enough and that their underlying message basically, no matter what the epoch, we are all of the same soul and must fight for freedom is heard extremely loud and incredibly clear, there are so many characters and plots tossed about that no one storyline feels altogether satisfying. As history repeats itself and the same master vs. slave scenario keeps reappearing, everything gets homogenized into a blandish whole, the impact of each story softened by the constant need to connect the dots.
+PHOTOS: Toronto Film Festival Opening Day: 'Looper' Premiere, 'American Beauty' Reading
+Of all the pieces of the puzzle, the ones that feel the most effective are the 70s investigative drama, which has shades of Alan Pakula and Fincher's Zodiac, and the futuristic thriller, where the Wachowskis show they can still come up with some nifty set pieces, even if the production design (by Uli Hanisch and Hugh Bateup) and costumes (by Kym Barrett and Pierre Yves Gayraud) feel closer to the artsy stylings of Wong Kar Wai's 2046 than to the leather Lolla"
+      },
+
+      {
+        "@search.action": "upload",
+        "movieId": "152",
+        "movie": "Something's Gotta Give",
+        "review": "About two-thirds of the way through \"Something's Gotta Give,\" Diane Keaton bursts into tears. Her character, a divorced, middle-aged playwright named Erica Barry, has seen her quiet life of professional fulfillment and romantic disappointment unexpectedly disrupted by love and then, in short order, by heartbreak. Erica's sobs, sniffles and wails seem endless and uncontrollable, expressing every conceivable combination of hurt, humiliation and anger. Her crying jag, which seems to last for several months, continues without interruption through a half-dozen cuts and scene changes, carrying Erica through nearly every room in her large, airy East Hampton beach house.
+
+But \"Something's Gotta Give,\" which opens nationwide today, is a comedy. At the sneak preview I attended last week, the harder Erica cried, the harder the audience laughed, which I might have found disturbing if I had not been laughing so helplessly myself.
+
+This mirth was not cruel or derisive; it was instead an odd but nonetheless apt measure of the audience's sympathy and affection for Erica and a tribute to Ms. Keaton's unparalleled comic skill. Nobody else working in movies today can make her own misery such a source of delight or make the spectacle of utter embarrassment look like a higher form of dignity. Erica is by turns prickly, indecisive, uptight, vulnerable, self-assured and skittish: traits Ms. Keaton blends into a performance that is at once entirely coherent and dizzyingly unpredictable.
+
+The smash hit play Erica eventually writes -- her delicious revenge on the man who caused her such pain -- is called \"A Woman to Love,\" which would have been a much better title for this unusually satisfying comic romance than the empty and generic one it has. Erica lifts the phrase from one of her two suitors, a smooth-faced, star-struck young doctor named Julian, played in tongue-in-cheek Ralph Bellamy deadpan by Keanu Reeves. The movie is built around the wonderful and entirely persuasive conceit that both Mr. Reeves and Jack Nicholson could find themselves hopelessly smitten with an intelligent and accomplished woman in her 50's.
+
+Mr. Nicholson plays Harry Sanborn, a rich, 62-year-old bachelor who has devoted his life to philosophy: the Playboy Philosophy, circa 1966. Harry prides himself on never having dated a woman over 30, and at the start of the movie his babe of the moment is Erica's daughter, Marin (Amanda Peet).
+
+Mr. Nicholson may not, strictly speaking, be playing himself, but he seems to have prepared for the role by studying a few decades' worth of interviews and magazine profiles celebrating his unapologetic libertinism. And if his casting is an obvious joke, it is nonetheless a good one, thanks to his devilish combination of high-spirited rakishness and old-school gallantry.
+
+After suffering a heart attack during a bit of hanky panky with Marin, Harry finds himself under Erica's reluctant care, stranded in her house, where the rules of bedroom farce are strictly enforced. Logy and disoriented, Harry stumbles into Erica's bedroom and sees her naked, an event that casts an awkward pall over their relationship as well as foreshadowing its eventual consummation.
+
+\"Something's Gotta Give\" was written and directed by Nancy Meyers, who has, from \"Private Benjamin\" to \"What Women Want,\" demonstrated a thorough, if not always breathtakingly original, flair for the conventions of mainstream quasi-feminist comedy. She and Ms. Keaton have worked together before, in the yuppie crisis comedy \"Baby Boom\" and the retrofitted \"Father of the Bride\" pictures, in which Ms. Keaton was unimaginatively relegated to the role of Steve Martin's patient wife and obli"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "155",
+        "movie": "Bicentennial Man",
+        "review": "Receiving a gushy cinematic Christmas card from Robin Williams has become almost an annual rite of commerce. But in trying to be all things to all people, \"Bicentennial Man\" easily takes the cake as the star's most grandiose holiday greeting yet.
+
+This feel-good millennial allegory, adapted from an Isaac Asimov story (and a novel by Asimov and Robert Silverberg), is directed by Chris Columbus, the pull-every-heartstring maestro behind \"Mrs. Doubtfire.\" It follows the 200-year life (beginning in the year 2005) of a robot who yearns to be human and over two centuries metamorphoses from machine into man. By the end of the movie, the robot, named Andrew, has shed his metallic shell, acquired a central nervous system and turned into Robin Williams, the misty-eyed, empathetic smiling-through-tears sad clown and shameless ham we all know.
+
+Like other recent Robin Williams products, this one wants to tickle our funny bones while going for the emotional jugular with drippy, sugar-coated New Age sentiments that echo \"What Dreams May Come,\" \"City of Angels\" and other recent films that have pretended to be touched by angels. The difference between \"Bicentennial Man\" and those movies is that this time the hokum isn't all spiritualist mumbo jumbo. The possibility of a machine (or a \"household appliance\" as Andrew's manufacturer contemptuously describes him) claiming to have human qualities seems increasingly likely. What's not so likely is that a robot, in seeking to be human, would embrace mortality.
+
+\"Bicentennial Man\" tosses around some ideas about the relationship between humans and machines, and it has some good jokes (the early Andrew trying and failing to grasp the essence of humor) and many clever sight gags. Its wittiest character is a feisty, hip-swinging robot named Galatea (Kiersten Warren) equipped with a personality chip that makes her sashay to Aretha Franklin's \"Respect.\"
+
+But in zigzagging between low comedy and high sentiment, the movie never settles into a comfortable narrative track. As it takes huge, awkward leaps forward in time, we don't feel as though we're being given glimpses into the future so much as revisiting a standard \"Star Trek\"-style fantasy of topless towers and whizzing little airships. And as the movie keeps jumping forward, its characters acquire layers of increasingly fake-looking prosthetic makeup. Except for Mr. Williams, the sitcom-meets-sci-fi acting throughout the movie is strictly of television caliber.
+
+The story begins when Andrew is purchased by Richard Martin (Sam Neill), a clockmaker known throughout the film simply as Sir, to be a robotic servant in his picture-postcard California mansion. Sir (looking and sounding like James Mason's double) is happily married to Ma'am (Wendy Crewson). The couple have two girls, the adorable 7-year-old Amanda, known as Little Miss (Hallie Kate Eisenberg) and her bratty 9-year-old sister Miss (Lindze Letherman), who orders Andrew to jump out her bedroom window. (He obeys and is seriously damaged and left with a lifelong terror of upper-story views.)
+
+It is after Andrew accidentally breaks one of Little Miss's precious tiny glass horses and replaces it with an exquisite wooden one of his own making that Sir notices Andrew's creativity and realizes he's a kind of mechanical mutation and becomes his teacher and legal guardian. As Andrew acquires knowledge and reaps a fortune designing timepieces (Sir insists that Andrew, although a robot, have his own bank account), he falls unrequitedly in love with the now grown-up Little Miss (Embeth Davidtz), who marries (unhappily) and has children. On requesting and being granted his freedom, Andrew leaves the"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "157",
+        "movie": "Charlie Wilson's War",
+        "review": "Most of the recent films we've seen about the wars in Afghanistan and Iraq remind us what a drag those conflicts are, which may be why so few of us have bothered to go see them. Of course all wars are terrible, but good movies have a way of mitigating that dreary fact even as they acknowledge it. Take the cold war: a \"long twilight struggle\" (as John F. Kennedy put it) that brought the world to the brink of annihilation and provided a persistent source of tension, anxiety and dread for hundreds of millions of people around the world. Horrible, to be sure. But also kind of a blast.
+
+That, at any rate, is pretty much the gist of \"Charlie Wilson's War,\" which may be more of a hoot than any picture dealing with the bloody, protracted fight between the Soviet Army and the Afghan mujahedeen has any right to be. As the film observes, that fight, in which the United States semi-secretly armed Muslim anti-imperialist freedom fighters for much of the 1980s, was a prequel to later trouble with anti-Western Islamic terrorists in Afghanistan and elsewhere.
+
+But let's not get ahead of the story. Before the blowback, after all, a mighty blow for freedom was struck by a congressman with an alleged fondness for snorting blow. And let's not be too quick to dismiss the wisdom of his sidekick, a C.I.A. operative with a bad temper and a worse haircut: \"If you're gonna do this, you might as well have fun with it.\"
+
+Fun is this movie's unlikely and persuasive motto. If it's the best politically themed movie to come around in a while, that may be because the director, Mike Nichols, and the screenwriter, Aaron Sorkin, grasp that politics, for all its seriousness, is an essentially comic undertaking. Their film is never glib or flippant, but instead shows a lightness of touch and a swiftness of attack - 96 minutes to drink some cocktails, make some deals and send the Russians packing - that stand in welcome contrast to the plodding, somber earnestness of some recent movies I will tactfully refrain from naming.
+
+Not that discretion is necessarily the better part of valor. And it's hard to imagine a hero as indiscreet as Charlie Wilson, a Democrat who represented Texas's Second Congressional District in the House of Representatives. Mr. Wilson, who retired from the House in 1996, is played with sly, rascally charisma by Tom Hanks. It is always a pleasure to see Mr. Hanks play against clean-cut type, and here he has the devilish smile of a middle-aged playboy who has woken up in a long-lost guilt-free sequel to \"Bachelor Party.\"
+
+An unapologetic womanizer - the type whose lechery seems like a higher form of gallantry - Wilson staffs his office with long-stemmed babes and casually seduces a pious constituent's daughter (Emily Blunt). He's a sharp political operator all the same, and also a man of conscience, as his patient, all-seeing assistant (Amy Adams) is pleased to discover.
+
+When we first encounter Wilson, he's very much in his element: soaking in a Las Vegas hot tub with a Playboy model and a sleazy television producer, among others, his hand wrapped around a glass of Scotch and his mind focused on the consequences of Soviet aggression. God bless America! As understood by Mr. Nichols and Mr. Sorkin, who have filleted George Crile's fascinating 500-page bestseller into a trim and lively history lesson, Wilson is both an anomaly and a paragon.
+
+A liberal as well as a libertine, he finds common cause (among other satisfactions) with Joanne Herring, a right-wing Houston socialite who loves Jesus and martinis and hates Communism. She is a splendid American contradiction, standing up for liberty and godliness while getting into bed (literally) with a bachelor"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "159",
+        "movie": "The Polar Express",
+        "review": "Based on the 32-page children's book by Chris Van Allsburg, the new animated feature \"The Polar Express\" has already received attention for the advanced technology employed to make the film and the heart-skipping amount of money reportedly spent to transpose the story from page to screen. I suspect that most moviegoers care more about stories and characters than how much money it took for a digitally rendered strand of hair to flutter persuasively in the wind. Nor will they care that to make \"Polar Express\" Tom Hanks wore a little cap that transmitted a record of his movements to a computer, creating templates for five different animated characters.
+
+It's likely, I imagine, that most moviegoers will be more concerned by the eerie listlessness of those characters' faces and the grim vision of Santa Claus's North Pole compound, with interiors that look like a munitions factory and facades that seem conceived along the same oppressive lines as Coketown, the red-brick town of \"machinery and tall chimneys\" in Dickens's \"Hard Times.\" Tots surely won't recognize that Santa's big entrance in front of the throngs of frenzied elves and awe-struck children directly evokes, however unconsciously, one of Hitler's Nuremberg rally entrances in Leni Riefenstahl's \"Triumph of the Will.\" But their parents may marvel that when Santa's big red sack of toys is hoisted from factory floor to sleigh it resembles nothing so much as an airborne scrotum.
+
+Directed by Robert Zemeckis, who wrote the film with William Broyles Jr., \"The Polar Express\" is a grave and disappointing failure, as much of imagination as of technology. Turning a book that takes a few minutes to read into a feature-length film presented a significant hurdle that the filmmakers were not able to clear. The story seems simple enough: a nameless young boy neither fully believes nor disbelieves in Santa, but doubt nags at him so hard that he dreams up a train, the Polar Express, which transports him to the North Pole. Essentially Mr. Van Allsburg's story is about faith, not in Jesus, but in the fat man in the red suit who pops around each year on Jesus' birthday. As with many children's stories, it's also about the power of the imagination.
+
+The film commences on Christmas Eve with a nameless boy (played by Tom Hanks) fidgeting and fighting against sleep. At 8 years of age, the boy seems a little old to be pinning his hopes on Santa. Yet hope he does perhaps because the story is set in the 1950's, the decade when Mr. Van Allsburg and Mr. Zemeckis were both young Midwestern children. The illustrations in Mr. Van Allsburg's book have a patina of nostalgia, but there's something distinctly melancholic about them as well. The oil pastels the artist used for the pictures soften even the hardest edge. And because Mr. Van Allsburg doesn't use loud popping color - even the red uniforms everyone wears at Santa's factory look muted - the images seem at once moody and mysterious.
+
+Mr. Zemeckis and his team have employed a similarly restrained palette, with a wash of midnight blue tinting the snowy exteriors. After the boy falls asleep, he wakes to a train pulling up in his front yard. After a how-do-you-do with the conductor (Mr. Hanks again), the boy boards the train where he meets a number of other children also dressed in their pajamas. Train rides can make splendid adventures, but not here. Outside of a lovely sequence involving an errant ticket that flies out the train into the beak of a bird, then past a pack of wolves and a shimmering woodland landscape, the passage to the North Pole chugs rather than zooms, as agonizingly long as a childhood car ride to the relatives.
+
+At last, the train arrives"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "160",
+        "movie": "A League of Their Own",
+        "review": "In 1943 at the height of World War II, when women well over voting age could still be called girls, Philip K. Wrigley, of the Chicago Cubs, and other prominent baseball figures got together to form the nonprofit All American Girls Professional Baseball League. It was a stopgap idea. Its aim: to fill the vacuum if, as seemed possible, the major league clubs lost too many of their players to the armed services.
+
+As things turned out, the major leagues never had to shut down, but the women's league survived until 1954.
+
+Taking this footnote to baseball history, the director, Penny Marshall, and the screenwriters, Lowell Ganz and Babaloo Mandel, have made \"A League of Their Own,\" which must be as rare as a day in August when the sky is clear, the humidity low and the temperature hovers in the mid-70's.
+
+Though big of budget, \"A League of Their Own\" is one of the year's most cheerful, most relaxed, most easily enjoyable comedies. It's a serious film that's lighter than air, a very funny movie that manages to score a few points for feminism in passing.
+
+The film's focus is the Rockford (Ill.) Peaches, one of the four clubs that made up the league in its problematical first season. As imagined by Ms. Marshall and her associates, the Peaches are a gallant and somewhat rum crew.
+
+Their star: Dottie Hinson (Geena Davis), a crackerjack catcher and a dependable hitter who is so beautiful that she winds up on the cover of Life magazine. On the mound is Dottie's younger sister Kit (Lori Petty). She has a terrific arm but tends to go to pieces when at bat. It's a sibling thing -- she gets rattled by Dottie's advice and can't resist swinging at the high ones. Keeping things lively in center field is pint-size Mae Mordabito (Madonna), informally known as All the Way Mae, who finds pro-baseball preferable to taxi dancing.
+
+Coaching the Peaches, at first with great reluctance, is Jimmy Dugan (Tom Hanks), a former major league hero disabled by booze and unreliable knees. Jimmy is a tobacco-chewing slob with his own manner of expressing himself. He's a guy who doesn't hesitate to urinate in front of his players in their locker room. During their disastrous first game, he lounges in the dugout, snoozing in rye-induced oblivion.
+
+Though \"A League of Their Own\" is an ensemble piece, meaning that each performer relates to and enriches the others, Mr. Hanks is first among the equals. His Jimmy Dugan is a priceless, very graceful eccentric. With his work here, there can be no doubt that Mr. Hanks is now one of Hollywood's most accomplished and self-assured actors. Having put on weight for the role, he even looks jowly and over-the-hill.
+
+While the women on the field are knocking themselves out to achieve fame and glory in a league that embraces just three Midwestern states, the film never strains to get a laugh or make a point. It adopts a summer pace as it follows Dottie, Kit, Mae and their teammates from what is, in effect, boot camp to the league's first world series, in which the Peaches face the Racine (Wis.) Belles.
+
+The players' training includes not only practice on the field, but also intense sessions at a charm school where they are drilled in table manners, dress, makeup, posture and general deportment. In addition to public apathy, the league's backers have to overcome furious editorials warning against the threatened \"masculinization\" of the players.
+
+Mr. Ganz and Mr. Mandel, whose earlier collaborations include the screenplays for \"City Slickers\" and \"Splash,\" have written a dozen rich roles, which Ms. Marshall has filled with a dream cast. Ms. Davis, who reportedly arrived on the set well after her colleagues had been practicing, comes across a"
+      }
+  
+  
+	]
+ }

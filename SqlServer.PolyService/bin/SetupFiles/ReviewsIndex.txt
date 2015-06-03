@@ -1,0 +1,8 @@
+  {
+      "name": "reviews",  
+      "fields": [
+        {"name": "movieId", "type": "Edm.String", "key": true, "searchable": false},
+        {"name": "movie", "type": "Edm.String"},
+        {"name": "review", "type": "Edm.String", "filterable": false, "sortable": false, "facetable": false, "retrievable":false}
+      ]
+  }

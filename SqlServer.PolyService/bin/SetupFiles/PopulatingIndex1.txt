@@ -1,0 +1,222 @@
+{
+  "value": [
+      {
+        "@search.action": "upload",
+        "movieId": "0",
+        "movie": "The Matrix",
+        "review": "Action heroes speak volumes about the couch-potato audiences that they thrill. So it's understandable that ''The Matrix,'' a furious special-effects tornado directed by the imaginative brothers Andy and Larry Wachowski (''Bound''), couldn't care less about the spies, cowboys and Rambos of times gone by. Aiming their film squarely at a generation bred on comics and computers, the Wachowskis stylishly envision the ultimate in cyberescapism, creating a movie that captures the duality of life a la laptop. Though the wildest exploits befall this film's sleek hero, most of its reality is so virtual that characters spend long spells of time lying stock still with their eyes closed.
+
+In a film that's as likely to transfix fans of computer gamesmanship as to baffle anyone with quaintly humanistic notions of life on earth, the Wachowskis have synthesized a savvy visual vocabulary (thanks especially to Bill Pope's inspired techno-cinematography), a wild hodgepodge of classical references (from the biblical to Lewis Carroll) and a situation that calls for a lot of explaining.
+
+The most salient things any prospective viewer need know is that Keanu Reeves makes a strikingly chic Prada model of an action hero, that the martial arts dynamics are phenomenal (thanks to Peter Pan-type wires for flying and inventive slow-motion tricks), and that anyone bored with the notably pretentious plotting can keep busy toting up this film's debts to other futuristic science fiction. Neat tricks here echo ''Terminator'' and ''Alien'' films, ''The X-Files,'' ''Men in Black'' and ''Strange Days,'' with a strong whiff of ''2001: A Space Odyssey'' in the battle royale being waged between man and computer. Nonetheless whatever recycling the brothers do here is canny enough to give ''The Matrix'' a strong identity of its own.
+
+Mr. Reeves plays a late-20th-century computer hacker whose terminal begins telling him one fateful day that he may have some sort of messianic function in deciding the fate of the world. And what that function may be is so complicated that it takes the film the better part of an hour to explain. Dubbed Neo (in a film whose similarly portentous character names include Morpheus and Trinity, with a time-traveling vehicle called Nebuchadnezzar), the hacker is gradually made to understand that everything he imagines to be real is actually the handiwork of 21st-century computers. These computers have subverted human beings into batterylike energy sources confined to pods, and they can be stopped only by a savior modestly known as the One.
+
+We know even before Neo does that his role in saving the human race will be a biggie. (But on the evidence of Mr. Reeves's beautiful, equally androgynous co-star, Carrie-Anne Moss in Helmut Newton cat-woman mode, propagating in the future looks to be all business.) The film happily leads him through varying states of awareness, much of it explained by Laurence Fishburne in the film's philosophical-mentor role. Mr. Fishburne's Morpheus does what he can to explain how the villain of a film can be ''a neural interactive simulation'' and that the Matrix is everywhere, enforced by sinister morphing figures in suits and sunglasses. ''The Matrix'' is the kind of film in which sunglasses are an integral part of sleekly staged fight scenes.
+
+With enough visual bravado to sustain a steady element of surprise (even when the film's most important Oracle turns out to be a grandmotherly type who bakes cookies and has magnets on her refrigerator), ''The Matrix'' makes particular virtues out of eerily inhuman lighting effects, lightning-fast virtual scene changes (as when Neo wishes for guns and thousands of them suddenly appear) an"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "9",
+        "movie": "The Matrix Reloaded",
+        "review": "'I wish I knew what I was supposed to do,'' Neo (Keanu Reeves) says early in ''The Matrix Reloaded'' after a violent, apparently premonitory dream. Of course he does know what to do: he's ''the One,'' as murmured in the mellifluous, currant-scented voice of his mentor, Morpheus (the righteous Laurence Fishburne).
+
+Neo is wondering about his place as cynosure of the new world, trapped under the burden of knowing he's expected to lead the way. And the weight of a similar worry rests on the shoulders of ''Reloaded.'' Relax, the staging of the action sequences is as viciously elegant as you've been primed to expect, though there is a dispiriting more-of-the-same aspect to the picture.
+
+It has been four years since the release of ''The Matrix,'' the first part of the planned action-metaphorical melodrama trilogy. This second installment, which opens nationwide tomorrow, is a blend of Hong Kong action, comic books, anime, philosophy and the New Testament and has the feel of a holding pattern.
+
+But the mastery of filmmaking hasn't abated in ''Reloaded.'' The writing and directing tandem of Larry and Andy Wachowski are as suited to the task of guiding this film as Neo is to saving the world from the onslaught of the Sentinels, computer emissaries bent on eliminating all vestiges of humanity. Their relentless love of movies, junk-food mythology and thoughtful reimagining of a future endangered by mass consumption and proliferation of pleasure to the point of soullessness makes for a heady and unusual mix.
+
+The directors pay their audiences the unlikely compliment of taking them seriously. Unfortunately they take themselves too seriously. What the first ''Matrix'' had going for it was surprise, a freshness that would be impossible to match. The hot-blooded tumble of energy and concepts wrestling for primacy was viscerally and intellectually arousing; everybody had something to take home.
+
+''Reloaded'' seeks to increase the emotional stakes -- which it doesn't quite accomplish -- while leaving enough of a cliffhanger that audiences will be bedeviled enough to flock back into the tents for the last portion. Hilariously, the directors make their points about the corrupting power of images in an idealized context of movie action heroes so beautifully that designers are aping the sleek, tailored frock coats and dusters that the heroes don to combat evil in what is essentially a dream world. In the human world they live in disintegrating attire that wouldn't look out of place on Phish roadies. The dream merchants are missing the philosophical point of the picture, which takes on added significance with some of the cameos.
+
+Neo and his lover, Trinity (Carrie-Anne Moss) are so fit that they seem like virtual humans; they're burned down to true grit; there even seems to be distended vascularity flexing in their sculptured eyebrows. They need to be in shape, since they battle new foes including platinum-dreadlocked apparitions (played by Neil and Adrian Rayment).
+
+In ''The Matrix'' Neo was awakened to his abilities and destiny to combat the forces of virtual oppression. ''Reloaded'' takes us deep into Zion, the heart of the human world that Neo, Morpheus, Trinity and a new team member, Link (Harold Perrineau), have been fighting to protect from the computers that are trying to wipe out homo sapiens.
+
+They're worn, returning heroes, though many in Zion -- including Morpheus's rival, Commander Lock (Harry Lennix) -- are skeptical of their ideals. Morpheus's belief that victory is at hand, which leads to a worldwide celebration that looks like a rave taking place on Planet Groove, doesn't sit well with the pragmatic Lock at all; he has no faith in Neo or "
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "10",
+        "movie": "The Matrix Revolutions",
+        "review": "'Everything that has a beginning has an end.'' This sentence appears on the front page of the production notes handed out at press screenings of ''The Matrix Revolutions,'' which opens worldwide today. It is also uttered by the Oracle (Mary Alice) in response to a question from Neo (Keanu Reeves). ''Where is this going?'' he wants to know. ''Where will it end?'' Neo may be the One, but he can hardly be the only One posing such questions. The talk of endings in this, the third and ostensibly final movie in the series, is so insistent that you may wonder whether the Wachowski brothers, who wrote and directed it, felt the need to reassure the audience, and perhaps themselves, that it was really, finally over. There are still a few loose ends that might be spun into future sequels -- ''The Matrix Recycled,'' perhaps, or ''The Matrix Recall Election'' or ''The Matrix Recipe Book and Holiday Menu Planner'' (featuring the Oracle's baking tips) -- but the saga of Neo, which began in 1999 when he was a scruffy hacker who took a red pill, has now by all appearances reached its terminus. The appropriate response is somewhere between ''About time'' (about six hours, depending on what's added for the DVD release) and ''So what?''
+
+Still it would be unfair to the Wachowskis, special-effects virtuosos that they are, to say that their trilogy ends with a whimper. There is plenty of bright light and big noise in ''Revolutions'' -- a ferocious machine assault on battered Zion, a rain-swept showdown between Neo and his nemesis Smith (Hugo Weaving), a giant talking Wizard of Oz head. Some major characters meet gruesome deaths, while others endure heroically. But all this bombast, which may raise an honest goose bump or two, cannot dispel the overall atmosphere of exhaustion.
+
+The first ''Matrix'' succeeded by entwining traditional -- and often breathtakingly innovative -- actionmovie motifs with the mapping of an intricate and mysterious world. The Wachowskis were pioneers in bringing some of the exploratory fascination of advanced video games into the movies, and ''The Matrix'' was so absorbing because the viewer's initial disorientation and gradual enlightenment followed Neo's own initiation into the film's vividly imagined layers of reality and meaning. All of which have, perhaps inevitably, flattened out.
+
+Once the game environment has been surveyed, there is nothing to do but play, which is never as enthralling, especially when the keyboard or the joystick is in someone else's hands. ''The Matrix Reloaded,'' which has become the highest-grossing movie of 2003 in spite of widespread disappointment among critics and fans alike, tried to extend the first film's elegant mixing of action and exposition, only to bog down hopelessly in portentousness and obfuscation.
+
+''Reloaded'' was certainly a lumpy, gaseous treatise of a movie, but viewers of ''Revolutions'' may find themselves looking back on it fondly. It was at least overstuffed with potentially interesting new characters, plot lines and make-believe metaphysical conundrums. In contrast ''Revolutions,'' which has a roughly equivalent running time, feels padded. The battle for Zion goes on forever and seems designed to justify the picture's enormous military hardware budget. There is very little that is tantalizing or suspenseful. The feeling of revelation is gone, and many of the teasing implications of ''Reloaded'' have been abandoned.
+
+Persephone and the Merovingian, the sinister computer-program power couple played by Monica Bellucci and Lambert Wilson, return only briefly, forcing countless budding Matrix scholars to toss out whole chapters of their dissertations and cheating those of us who "
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "11",
+        "movie": "The Devil's Advocate",
+        "review": "Meet Faust in fancy cowboy boots: Kevin Lomax, the lawyer played by Keanu Reeves in Taylor Hackford's unexpectedly seductive ''Devil's Advocate.'' Kevin is at the heart of a high-concept sentence (''Slick yuppie is co-opted by slicker New York Satan'') that has been spun into a lavish-looking, cleverly entertaining morality play with shades of ''Rosemary's Baby,'' ''Wall Street'' and countless other tales of selling out to Manhattan's temptations.
+
+This time it's the devil as head honcho at a law firm, with Al Pacino having great, wily fun with the screenplay's bons mots. ''Look at me, underestimated from Day One!'' bellows this executive, who has a taste for fashionably urbane black. ''You'd never think I was a Master of the Universe, now wouldya?''
+
+His idea of such mastery definitely goes beyond Tom Wolfe's.
+
+With a gratifyingly light touch, the screenplay by Jonathan Lemkin and Tony Gilroy (adapted from a novel by Andrew Neiderman) names Mr. Pacino's character John Milton, since he knows a thing or two about paradise lost. And it is in Gainesville, Fla., that they first find the ambitious Kevin, who thinks he has much to gain. Kevin, played with uncharacteristic sharpness by Mr. Reeves as a smart and debonair hotshot, is first seen successfully defending an unsavory schoolteacher against a charge of molesting a student (Heather Matarazzo of ''Welcome to the Dollhouse''). Then, with his gorgeous and sultry wife, Mary Ann (Charlize Theron), he celebrates this dubious victory. High on his own career trajectory, Kevin is in a mood to say yes when a strange lawyer flashes a big check and tries luring him to Manhattan.
+
+The firm that summons Kevin has business in places like the Middle East, the Balkans, Central America and West Africa. It has a receptionist named Caprice. It has a witchily beautiful temptress called Christabella (Connie Nielson). And it has the devilishly understated penthouse lair of Milton, complete with Purgatory artwork and a big roaring fire. Bruno Rubeo's deft production design, handsomely photographed by Andrzej Bartkowiak with the same burnished look he has given many Sidney Lumet films, gives this place a stark minimalism that is one part sleek efficiency, one part torture chamber. Running water cascading off the open edge of a terrace is one of the film's many ways of suggesting souls on the brink.
+
+The Lomaxes are given a big apartment and Mary Ann stays home the way Rosemary did, painting the place while her husband advances his career. Meanwhile, Kevin stays preoccupied and becomes increasingly seduced by the cases that come his way. One involves Delroy Lindo as a mysterious figure accused of sacrificing goats in his ghetto basement. Another features Craig T. Nelson as a developer living in Trump-like, gilded splendor. The film's more mischievous tricks include using Donald Trump's real apartment as a set, since Versailles was perhaps unavailable, and producing Senator Alfonse D'Amato at a party scene for the Devil's law firm.
+
+Meanwhile, Mary Ann starts having trouble. She misses her husband. She is pursued by Milton, who talks her into doing something drab to her beautiful blond hair. She receives equally unhelpful decorating advice from fellow corporate wives and abandons her favorite color, though Mary Ann's bright green figures sadly in a later hospital scene. During one outing with these women, complete with shopping, chardonnay and talk of plastic surgery, Mary Ann suddenly sees a terrifying vision.
+
+The film uses morphing and Rick Baker's monster effects strikingly, but it also keeps its gimmicks well tethered to reality: an afternoon like Mary Ann's might be enough to make anyone see demons. Lat"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "15",
+        "movie": "A Few Good Men",
+        "review": "The role doesn't have to be big, but if it's good, and if the actor playing it is great, the results can be magically transforming. Witness Jack Nicholson's vicious, funny, superbly reptilian turn in Rob Reiner's entertaining \"A Few Good Men,\" adapted by Aaron Sorkin from his hit Broadway courtroom drama.
+
+Mr. Nicholson doesn't steal the film, which would mean that he somehow separates himself from everybody else in it. Rather, in the course of only a handful of scenes, he seems to suffuse the entire production, giving it a weight, density and point that might not otherwise be apparent.
+
+The role, beautifully written, is made to Mr. Nicholson's order. It's that of Col. Nathan R. Jessep of the United States Marine Corps, a tough, bigoted Vietnam veteran, a career officer shaped by decades of cold-war politics. By chance, Jessep is stationed in that last corner of the earth where the cold war goes on as if there were no yesterday.
+
+He's the commander of the marines stationed at the American naval base on the southwestern coast of Cuba at Guantanamo Bay, on a small bit of arid real estate protecting one of the best anchorages in the western Atlantic, a legacy of the Spanish-American War. It's there that the United States and Cuba, separated by barbed wire and command posts, have continued to co-exist through the Bay of Pigs invasion, the great missile crisis and a continuing, crippling economic embargo, in one of the strangest examples of symbiosis to be found in all of international relations.
+
+This geographic fact becomes a central image in the film adaptation, which gracefully opens up the story of a military court-martial without allowing the tension to evaporate. There are times when the movie seems to force-feed the audience essential information, and when the audience might well wonder whether the emotional crises of the defense lawyers really are of more interest than the fates of the two men on trial.
+
+Yet such things are built into the structure and nature of the drama, which is less about the workings of the military than about the mechanics of this particular inquiry. The story is this: in the course of what appears to be a hazing incident at Guantanamo, a Marine private has died, apparently poisoned by the rag stuffed into his throat before his mouth was taped. Two enlisted men are charged with the murder. As often happens during proceedings of this sort, the victim and the men on trial become less important than the politics surrounding the case.
+
+The Marine Corps would like to wrap it up as quickly and efficiently as possible. To this end, a hot-shot young naval lawyer, Lieut. (j.g.) Daniel Kaffee (Tom Cruise), is assigned to the defense with the understanding that he'll persuade the defendants to accept a plea bargain. Also assigned to the defense is Lieut. Comdr. JoAnne Galloway (Demi Moore), who acts as Kaffee's conscience, eventually persuading him that there is a strong possibility that the two enlisted men were, in fact, acting on orders from their officers.
+
+The investigation, initially undertaken by Kaffee with some reluctance, uncovers the fact that the victim, Pfc. William T. Santiago (Michael DeLorenzo), had for some time been trying to transfer out of his unit. Also, that he had ignored both the Marine Corps code and its chain of command. He had written letters to Washington offering to testify that he had witnessed an incident in which a member of his unit had arbitrarily fired on a Cuban watchtower near the base.
+
+As the investigation continues, Kaffee and Galloway, who clearly never go to the movies, read a book or spend much time talking to career service personnel, are surprised to discover a kind of mil"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "29",
+        "movie": "Top Gun",
+        "review": "TO take it from the top, ''Top Gun'' fires off as spectacular a show of state-of-the-art jet battle as the movies have given us. The F-14 Tomcats soar, swoop and somersault at fantastic speed. They catch the enemy from behind in what seems touching distance, and then, in an instant's reversal, are caught in the enemy's sights. As directed by Tony Scott, with the technical assistance of a couple of former Navy pilots, the snappily edited sequences of battle and mock battle sweep us in and out of the cockpit. You can't always be sure exactly what's going on, but it's exciting anyhow.
+
+The excitement is switched off on landing. Once ''Top Gun,'' which opens today at Loews Astor Plaza and other theaters, gets back to earth, the master of the skies is as clunky as a big land-bound bird. The maneuvers of the script by Jim Cash and Jack Epps Jr. come right out of the Hollywood book: A cocky, rule-breaking, daredevil superpilot known as ''Maverick'' makes it to the Navy's elite Fighter Weapons School, known as Top Gun. There he engages with a tall, beautiful blond astrophysicist, a specialist in Maritime Air Superiority. He also has experiences that turn him into a better person.
+
+Tom Cruise brings little but a good build to the role of Maverick, and the role of the astrophysicist brings little but impossible lines (''When I first met you, you were larger than life'') to attractive Kelly McGillis. The characters don't pair up well; she's much too classy for him. A touch of flavor is added by Anthony Edwards, as Maverick's amiable partner, ''Goose'' (everybody in the Navy evidently has to have a nickname), and the settings and repartee seem about right except when poor Miss McGillis is obliged to lecture on matters like ''negative G pushovers.'' Incidentally, this movie seems determined to break the sound barrier; if it isn't the roar of the jets, it's the roar of Maverick's motorcycle, and when that subsides, there's always the clamor of the music.
+
+Effectively executed though the air battles are, they come off as somehow unsatisfying. ''Although we're not at war,'' says a training officer, ''we have to act as though we're at war.'' But not having a real war to fight lowers the stakes, and the climactic dogfight with a batch of MIG's over the Indian Ocean is too contrived, the enemy too vague to elicit the feelings that memorable air-war movies, from ''Wings'' to ''Command Decision,'' could take for granted.
+
+And then, there's something about the technical wizardry of today's jets that, for dramatic purposes, diminishes the role of the men who fly them. Despite the movie's emphasis on the importance of the pilots, given all the electronic wonders at their touch - such as being able to lock an enemy plane in their sights and dispatch a missile to chase and destroy it - they seem part of some cosmic technological enterprise.
+
+The plot of ''Top Gun'' is no weaker than the plot of ''Wings,'' the World War I tale that received an Academy Award in 1927, but the old-style air acrobatics showed the human beings as more vulnerable and more at one with their rather fragile-looking machines. Up there on their own, they came closer to catching the ''lonely impulse of delight'' that drove Yeats's Irish airman ''to this tumult in the clouds.''
+
+''Top Gun'' is rated PG (''Parental Guidance Suggested''), owing to some rude language and a hint of nudity. Hot Shots TOP GUN, directed by Tony Scott; written by Jim Cash and Jack Epps Jr.; director of photography, Jeffrey Kimball; edited by Billy Weber and Chris Lebenzon; produced by Don Simpson and Jerry Bruckheimer; released by Paramount Pictures. At Loews Astor Plaza, Broadway at 44th Street; Loews Orpheum, T"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "37",
+        "movie": "Jerry Maguire",
+        "review": "WHEN Jerry Maguire, looking like Tom Cruise at his considerable best, shows up unexpectedly at the house of his admiring young business assistant, he mentions that he has suddenly split up with his fiancee. Jerry turns his back to Dorothy (Renee Zellweger) as he says this, just long enough for her jaw to drop.
+
+It's a lovely little moment, and ''Jerry Maguire'' is loaded with them: bright, funny, tender encounters between characters who seem so winningly warm and real. As such, it recalls not only the two other sweetly appealing films written and directed by Cameron Crowe (''Say Anything'' and ''Singles''), but also the great shaggy-dog storytelling style of James L. Brooks (''Broadcast News''), one of its producers. So ''Jerry Maguire'' moves unpredictably through its tale of comeuppance and redemption, but it never loses its bearings. Disarming acting, colorful writing and true generosity of spirit keep it right on track.
+
+Mr. Cruise could have been too big a star for this becomingly modest movie, but Mr. Crowe makes clever use of his leading man's golden-boy aspect. Jerry Maguire, when first we meet him, is all about appearances anyhow. He looks great, talks fast and cares not one whit about the sports stars he represents as a high-powered agent. ''Listen, there's no proof of anything except this guy is a sensational athlete,'' Jerry tells the police on behalf of one client. Jerry also tries sweet-talking the son of a football player when the boy pleads: ''Mr. Maguire, this is his fourth concussion. Shouldn't somebody get him to stop?''
+
+Unfortunately for Jerry, he is not quite cad enough for this line of work. One night he writes a ringing declaration of principle that wins him the applause of his colleagues; it also soon brings him the chance to be fired in a crowded restaurant by his former protege. The film finds some humor in the speed-dialing war between Jerry and his rival (Jay Mohr) to hang on to clients, but its real strength is not in satirizing the corporate realm. Mr. Crowe's great talent is for creating a glow of intimacy around tentative young characters as they find themselves falling in love.
+
+When Dorothy is seen on an airplane, eavesdropping avidly as Jerry tells a boastful story, she seems resigned to living in another universe from men like this. (The flight attendant emphasizes that point by closing the curtain between Dorothy's rear cabin and Jerry's seat up front.) Besides, Dorothy has a cute little son (Jonathan Lipnicki) and later explains that she's trying to raise a man, not find one. Yet Ms. Zellweger's open, eager, unconventionally pretty face suggests that miracles are in the offing.
+
+This refreshing actress (who has had small film roles before but now arrives in a big way with ''Jerry Maguire'' and ''The Whole Wide World,'' opening just after Christmas) is an inspired choice to play opposite a dreamboat of Mr. Cruise's stature. Her fetching ordinariness, which happens to be quite extraordinary, brings him down to earth in ways no movie queen could manage. And it affirms the film's sense of freedom. The basic appeal of ''Jerry Maguire,'' pure midlife crisis played with a younger cast, is in watching Jerry become liberated from the rat race and discover a richer new life in the real world.
+
+Since ''Jerry Maguire'' is a romantic comedy, it handles this transition with exuberant humor. There's an uproariously funny performance from Cuba Gooding Jr. as the one client Jerry is able to hang onto, a loudmouthed showoff who demands big money and refuses the offer of a towel in the locker room. (''No, I air dry.'') Nothing about Mr. Gooding's earnest roles before (in films including ''Boyz N the Hood'') is pr"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "46",
+        "movie": "Stand By Me",
+        "review": "INCE ''Stand by Me'' is rated R, owing to all the dirty talk, unaccompanied children under 17 are not supposed to be admitted to the Coronet and the other theaters where it opens today. Some 15-year-olds may well enjoy this tale about some 12-year-olds, so parents will have to decide how much they are willing to endure for their kids.
+
+The screenplay by Raynold Gideon and Bruce A. Evans is based on Stephen King's novella ''The Body,'' a somewhat autobiographical account of an overnight hike by four Oregon youngsters to seek the body of a boy who had been struck by a train. Hence credit must be shared for the trite narrative, delivered by Richard Dreyfuss. The town of Castle Rock had only 1,281 residents, he relates, but ''to me, it was the whole world.''
+
+The narrator is Gordie Lachance grown up. The young Gordie (Wil Wheaton) pals around with three boys whom his father perhaps unfairly describes as ''a thief and two feebs.'' Unlike Gordie, who is clearly college-bound, his friends are aimed for shop classes and a blue-collar future. The summer of 1959, they all realize -with that infallible foresight possessed by youngsters in movies such as this - marks the end of their closeness, since they will be separated in junior high school.
+
+Tough-yet-sensitive Chris (River Phoenix) is Gordie's most intimate friend. Chris understands how Gordie feels about the death a few months before of his idolized older brother, whom their father preferred to Gordie. Chris is a born psychologist, who explains to Gordie that the problem is not that his father doesn't like him but that he doesn't know him. Chris is also supportive; he keeps assuring Gordie that some day he will be a great writer. Teddy (Corey Feldman) is an inveterate risk-taker, and Vern (Jerry O'Connell) is fat and a little slow, physically and mentally.
+
+The boys are individually likable, and even as a group they have their moments: As they light up after hamburgers, one says ''Nothin' like a smoke after a meal.'' Some of their horsing around, 1950ish style, is comical, but too much of what they do is only too plainly imposed by the movie makers. Rob Reiner's direction hammers in every obvious element in an obvious script. The shots of the small boys in the big outdoors are like advertisements for summer camp, and you've never seen so much handshaking, so many hands placed meaningfully on shoulders, so many exchanges of understanding looks. What we are really seeing is the director looking constantly at his audience.
+
+Well, the lads hear ghostly noises as they commune around their campfire; they have a narrow escape from a train (whose engineer, for no given reason, does not apply the brakes); they are afflicted by leeches, and they stand up to some very disagreeable older boys. There is also an acting-out of a story about a pie-eating contest with which Gordie entertains his pals; it's disgusting enough to entertain 12-year-olds but may leave older viewers wondering, no matter what Chris says, whether the world of letters might not benefit if Gordie took shop courses instead of composition.
+
+Mostly, there is a lot of boys' talk and good fellowship and an unstated and stated appreciation of this grand episode in their lives and how nothing will ever equal the comradeship of this summer. ''We talked into the night,'' says the narrator. It's a long conversation. 
+
+A Walk Into the Past 
+STAND BY ME, directed by Rob Reiner; screenplay by Raynold Gideon and Bruce A. Evans, based on the novella ''The Body'' by Stephen King; photographed by Thomas Del Ruth; music by Jack Nitzsche; produced by Mr. Gideon, Mr. Evans and Andrew Scheinman; released by Columbia Pictures. At the Coronet, 59th Stre"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "52",
+        "movie": "As Good as It Gets",
+        "review": "James L. Brooks's ''As Good as It Gets'' echoes the quirky appeal of his ''Broadcast News,'' and that's high praise. Nobody does a better job of backing characters into happiness than Mr. Brooks, especially when those characters are high-strung enough to leave happiness practically out of the question. Though this is a looser and less even comedy, it shows off Mr. Brooks's gift for the right-on zinger and his sweet, rueful way of enjoying his characters' stubborn tics.
+
+''You look at someone long enough, you discover their humanity,'' says Simon Bishop (Greg Kinnear), the film's gentlest soul, as he talks of painting portraits. In its own shaggy-dog fashion, the film does the same.
+
+Mr. Brooks's prime invention here is Melvin Udall, who would deserve his own situation comedy if anything he said were fit for the airwaves. A hilarious misanthrope, Melvin is such a versatile bigot that he gets in lots of mileage without even leaving home. The film barely begins before Melvin taunts Simon, who is gay: Simon's art dealer (Cuba Gooding Jr.), who is gay and black, and Simon's pet, Verdell (Jill), who is a dog. Melvin tosses Verdell down the incinerator chute in his first display of neighborliness.
+
+Jack Nicholson, whose last couple of film performances (''The Evening Star,'' ''Mars Attacks!'') were virtually phoned in, is delightfully reinvigorated by Melvin's miserableness. And for an additional actor's bonus, there is the obsessive-compulsive disorder meant to explain something about Melvin's disposition. Melvin is the kind of guy who sorts his M & M's by color and takes plastic silverware to the only restaurant he is willing to patronize. So into the film comes a wisecracking waitress named Carol (Helen Hunt), the only woman on earth whom Melvin will allow to serve him breakfast.
+
+Carol, the hard-luck sister of Holly Hunter's ''Broadcast News'' heroine with a touch of Alice Kramden thrown in, worries about the health of her young son while tolerating Melvin in fond, vinegary fashion. ''When I first saw you, when you first came in to breakfast, I thought you were handsome,'' she eventually tells him. ''Then, of course, you spoke.'' It's clear from the start that this tart yet warmly entertaining film will eventually find a way of letting these two opposites attract. But in the process, which also involves Mr. Kinnear's affectingly played Simon, Mr. Brooks finds plenty of time for sharp writing and witty diversions. So if the film teeters over a subplot that has Simon badly beaten, it does find something amusing in the way hospital visitors can actually make the patient feel worse. And the film, which gives Ms. Hunt's irresistible Carol a sick son who preoccupies her, delivers more medical humor when Melvin supplies a free doctor to help the boy.
+
+While Carol and her mother (Shirley Knight, tenderly funny) jump for joy over the idea of a house call, the visiting nurse murmurs: ''I'm sorry it took so long. I don't know Brooklyn.'' Replies the doctor (Harold Ramis): ''I couldn't find it either.'' Mr. Brooks's view of human nature here may not go much deeper than great gags, but there are enough of them to keep ''As Good as It Gets'' as winning as it is barbed. When Melvin, a successful writer of 62 awful-sounding books, is gushed over by a fan who asks him how he writes women so well, he glares and then announces: ''I think of a man. And I take away reason and accountability.'' Wicked, but it works. 
+''As Good As it Gets'' is rated PG-13 (Parents strongly cautioned). It includes partial nudity, one violent sequence, scattered profanity and a string of outrageous slurs that are successfully played for laughs.
+
+
+AS GOOD AS IT GETS 
+
+Directed "
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "56",
+        "movie": "What Dreams May Come",
+        "review": "It wasn't so long ago that love, in Hollywood-speak, was supposed to mean ''never having to say you're sorry.'' ''What Dreams May Come,'' one of the most elaborate metaphysical love stories ever tackled by Hollywood, lays out a whole new set of irritating catch phrases to define the quest for a love that triumphs over death. These range from the blunt ''Never give up,'' which is repeated like a mantra throughout the movie, to portentous utterances about winning when you lose and losing when you win.
+
+''What Dreams May Come,'' based on a novel by Richard Matheson and directed by Vincent Ward, the New Zealand filmmaker noted for his skill at creating lavish cinematic dreamscapes, represents the uncomfortable collision of two ideas about filmmaking, one commercial, the other eccentrically, ambitiously dreamy. On the commercial level, it is an ecumenically canny exercise in pop inspiration that's smart enough to drop the name ''God'' only once, in a vague, nondogmatic reference.
+
+The story of the world's happiest couple, who after both dying tragic deaths meet again in the afterlife, wants to be a more grown-up, sophisticated ''Ghost.'' This feel-good allegory, chock-full of celestial special effects and sentimental reunions, comes with an uplifting triple-decker finale in the manner of ''Titanic.''
+
+Robin Williams, with his Humpty Dumpty grin and crinkly moist eyes dripping with empathy, is Chris Nielsen, a gifted pediatrician, doting husband and father of two, who, in a feat of metaphysical heroism, travels into the netherworld to rescue his wife and soul mate, Annie (Annabella Sciorra), from eternal damnation. Annie is a painter and museum worker who commits suicide (and is condemned to live in hell for taking her own life) after Chris is killed in a car accident.
+
+Four years earlier, the couple's two children, Marie (Jessica Brooks Grant) and Ian (Josh Paddock), also died in a car wreck that left both parents shattered. At that terrible moment, Chris's devotion pulled Annie out of a near-suicidal depression.
+
+Working from a screenplay by Ron Bass, Mr. Ward has created a film that at its most visually evocative portrays its characters' lives and afterlives as a kind of hall of mirrors, in which the lines between dream and reality, memory and eternity are continually blurring as one gives way to another. At its most seductive, the film portrays heaven as a magical, hallucinatory extension of the physical world that has been left behind. It is a place flooded with dim golden light and thick with flowers, of misty peaks and crags, where people and objects float through the sky and great distances can be breached with a single leap (of faith, of course).
+
+When Chris first arrives in heaven, he finds himself inside one of Annie's Gothic romantic paintings. After crunching down in a flower bed, he gets up to find himself covered with paint, as though he had landed on a just-completed three-dimensional Renoir canvas that was still wet.
+
+The underworld he visits with the help of a grim-faced guide played by (who else?) Max von Sydow is a grim but PG-13-looking place (when it comes to punishment and suffering) surrounded by burning shipwrecks. In the most powerful image of hell, one that is intensely claustrophobic, Chris is forced to run across a sea of muttering heads all craning up through an endless expanse of mud.
+
+But for all their visual fascination, these images don't seem connected to real people. Mr. Bass's screenplay is so clotted with slogans, riddles and dime-store psychobabble that Chris and Annie never coalesce into anything more than a pair of idealized greeting-card parents with terrible luck. The movie doesn't give them enou"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "62",
+        "movie": "Snow Falling on Cedars",
+        "review": "'Snow Falling on Cedars'' is an almost heartbreaking example of what can happen when a filmmaker becomes so overawed by his source that he confuses dramatic storytelling with the production of mammoth coffee-table art books. Bathed in deepening shades of snow-lit Prussian blue, this screen adaptation of David Guterson's popular 1994 novel is admirably high-minded and visually gorgeous but fatally anesthetized by its own grandiosity.
+
+Frame by frame the movie, directed by Scott Hicks (of ''Shine'') and filmed by Robert Richardson (the virtuoso cinematographer behind several Oliver Stone movies), isn't just a series of shots but a sequence of exquisitely balanced photographic compositions. The piling on of so much visual beauty, however, only contributes to the sense of the movie as a frozen artifact cut off from the real world and designed to be viewed from behind a glass casement.
+
+There's a lesson here about the aesthetics of mass-audience movies. Pretty pictures, as nice as they may be, are finally no substitute for a living, breathing screenplay. And ''Snow Falling on Cedars,'' like many an elegant coffee-table book, has a skimpy text (by Mr. Hicks and Ron Bass) that too often substitutes distilled, poeticized oration for everyday speech.
+
+Hardly a moment passes when we're not conscious of the movie's messages about tolerance and forgiveness being shoved in our faces. Even when they are delivered by an actor as gifted as Max von Sydow, playing a defense lawyer who is the movie's official conscience, ''Snow Falling on Cedars'' rings with the hollow boom of a Sunday school sermon.
+
+Perhaps the biggest mistake in translating the novel to the screen was to have the film imitate the book's intricate flashback structure. Flipping back and forth between the present and the past on the page is one thing. (It encourages your imagination to make leaps and allows you to take whatever time you need to bridge those transitions.) But when a movie does the same thing, the imagination is short-circuited, and there is hardly time for reflection. The film is so busy darting back and forth between past and present that from scene to scene its characters barely have time to breathe.
+
+There are also far too many lingering close-ups of haunted faces. And a surreal montage that harks back to the early films of Alain Resnais (specifically ''Hiroshima, Mon Amour''), brings the movie to a dead halt. This might have been a coup de cinema in another film, but here it seems narratively evasive.
+
+The story unfolds as a series of flashbacks from the 1950 murder trial of Kazuo Miyamoto (Rick Yune), a young Japanese-American accused of killing a fisherman on his boat off the coast of the fictitious San Piedro Island, north of Puget Sound. Most of the events are seen through the eyes of Ishmael Chambers (Ethan Hawke), a morose young reporter covering the trial for the local newspaper. Many years earlier Ishmael and the defendant's wife, Hatsue (Youki Kudoh), were teenage lovers who met secretly in the hollow trunk of a cedar tree deep in the rain forest. The affair ends when it is discovered by Hatsue's mother, who is vehemently opposed to interracial relationships.
+
+The film's strongest scenes look back to World War II when the island's Japanese-Americans were interrogated, rounded up and sent to internment camps for the duration of the war. The murder trial revolves around the bitterness surrounding a land deal on which Kazuo's family defaulted while imprisoned. During the trial, the prosecutor (James Rebhorn) blatantly appeals to the local whites' lingering anti-Japanese prejudice in speeches that play on the racist stereotype of Asians as treacherous and insc"
+      }
+    ]
+  
+}

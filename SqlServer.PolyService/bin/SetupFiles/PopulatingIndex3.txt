@@ -1,0 +1,245 @@
+{
+  "value": [
+      
+      {
+        "@search.action": "upload",
+        "movieId": "126",
+        "movie": "Ninja Assassin",
+        "review": "Thinly plotted, this young ninja's revenge will disappoint those not delighted by ultraviolence.
+
+Rob Nelson
+Seemingly made to capitalize on a dubious CG innovation — namely, the slicing of bodies in half by whizzing five-pointed stars — “Ninja Assassin” has little else to recommend it, not even laughs. Working again with the Wachowski brothers as producers, director James McTeigue delivers a lower-brow, somewhat livelier work than the team’s “V for Vendetta.” But unless the viewer is easily delighted by ultraviolence for its own sake, this thinly plotted movie about a young ninja’s revenge against his cruel trainers will disappoint. Warner Bros.’ Nov. 25 release should nonetheless prove effective as holiday-season counterprogramming, at least in the short term.
+
+Korean pop star Rain conjures only a mild drizzle as Raizo, a limber bone-snapper trained from a young age by a secret society of child-abducting killer-for-hire ninjas. Early flashbacks reveal Raizo to have been taken in as an orphan by the Ozunu Clan, which he defies by running away in the wake of his sweetheart’s murder by cold-blooded Lord Ozunu (Sho Kosugi).
+
+The pic’s present-day action, set in Berlin, revolves around Mika Coretti (Naomie Harris), a gorgeous Europol agent whose latenight sleuthing uncovers a financial connection between recent political assassinations and the Ozunu. Naturally, the agent herself is targeted for assassination, as chief Ozunu baddie Takeshi (Rick Yune) and his blade-tossing ninja comrades come West to forcibly halt the investigation. As if possessed of psychic powers, Raizo, hiding out in Europe, senses a chance to save a lovely lady where he had failed in the same task years before.
+
+Eventually the film leads to a Europol-led shootout and a pair of unmemorably acrobatic duels between Raizo and his two archrivals — “older brother” Takeshi and raspy-voiced “father” Ozunu.
+
+Though “Ninja Assassin” is implausible on countless levels, Raizo’s training to feel nothing at least gels with Rain’s ability to emote nothing. Harris, a strong presence in Michael Mann’s “Miami Vice” feature, acquits herself capably here, reacting believably to the incessant carnage around her.
+
+Of course, the film’s raison d’etre is precisely its blood-soaked combination of physical stunts and digital trickery, the latter favored to a fault. While not remotely on par with the Wachowskis’ “bullet time” f/x in “The Matrix,” the ridiculous torrent of flying blades and flayed flesh here does appear unique in technological terms, and certainly pushes the pic’s R rating to its limits.
+
+Indeed, such is the film’s level of insinuated gore that the frustratingly dark texture of many fight-scene shots can perhaps be explained by a post-production bid to avoid an NC-17. Whatever the case, the shadowy action is too often incomprehensible, except in the general sense that heads, limbs and torsos are being severed in massive numbers.
+
+If there’s a sick joke to be had from this sort of human meat-carving, it isn’t found by McTeigue and his key collaborators, including conventionally quick-cutting editors Gian Ganziano and Joseph Jett Sally.
+
+Where the pic does excel is in its immersive sound design, as swords, chains and myriad other weapons seem to sail around the theater, at times helping to clarify the dimly lit action.
+
+Ninja Assassin
+Production
+A Warner Bros. release, presented in association with Legendary Pictures, Dark Castle Entertainment, of a Silver Pictures production, in association with Anarchos Prods. Produced by Joel Silver, Andy Wachowski, Larry Wachowski, Grant Hill. Executive producers, Thomas Tull, Jon Jashni, Steve Richards. Directed by James McTeigue. Screenpl"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "128",
+        "movie": "The Green Mile",
+        "review": "Two important figures in ''The Green Mile'' happen to be a giant (Michael Clarke Duncan) and a mouse. But when it comes to this extravagantly long death row drama, there are more important matters of proportion to consider. To watch a film this unhurried (three hours) is to choose a companion for a long ocean voyage. It's a risk, and you hope that neither ship nor speaker runs out of steam.
+
+It happens that ''The Green Mile,'' written by Stephen King at great length and in multiple installments, does not truly warrant such a marathon. It boils down to a well-populated drama with a relatively simple story, one that could have been told with more economy and fewer talky bits of business around the cellblock. As adapted by Frank Darabont with as much exemplary skill as he brought to Mr. King's other prison tale, ''The Shawshank Redemption,'' it's a film with a counterproductive tendency to take its time.
+
+But while a tighter film from Mr. Darabont clearly would have been better, ''The Green Mile'' proves surprisingly successful under the circumstances. First and foremost, it manages to linger on death row without claustrophobia and to become wholeheartedly immersed in what goes on there. Working casually, with the bookend flashback device borrowed from ''Saving Private Ryan,'' it eases into the story of what the very Southern-sounding Paul Edgecomb remembers about his years as a prison guard. Tom Hanks, who is so unaffectedly good that it has become redundant to say so, helps ease the film into its just-folks storytelling mode.
+
+Edgecomb's bladder problems, which are the sort of thing on which Mr. Darabont might have spent less time, help set up the chatty back-and-forth of life on the Green Mile. (This place, where condemned men take their last walks, got its nickname from the color of its floor.) We meet Edgecomb's fellow guard Brutus Howell, called Brutal (David Morse, who shares Mr. Hanks' laid-back timing and sly delivery). Their colleague and nemesis is Percy Wetmore (Doug Hutchison), who is ''the governor's wife's nephew'' and acts accordingly. There are more Green Mile regulars (including James Cromwell as the warden), and each one drops his jaw when Mr. Duncan's John Coffey arrives on the scene.
+
+Although the colossal Coffey supposedly killed and raped two children, he is a gentle soul. In fact when a mouse turns up as an uninvited pet, Coffey seems delighted. (So do the guards; that's the kind of place this is.) And then, in a scene with the mouse that actually elicited shrieks from a preview audience, another side of Coffey emerges. Finally there is a connection between the business of executing prisoners and the film's strenuously spiritual side.
+
+''The Green Mile'' involves assorted acts of cruelty and one lurid, extended electrocution scene that makes the horrors of the death penalty grotesquely clear, but much of it is very gentle. The mystical healing of Edgecomb's bladder trouble brings on some funny moments with Bonnie Hunt, who does a charming turn as his wife. Coffey's peculiar innocence is also given a lot of screen time. The way in which this huge black man, who calls the guards Boss, is given a magical capacity for self-sacrifice has its inadvertently racist overtones as well as its Christlike ones. But as Mr. Duncan plays him, Coffey is too flabbergasting a figure to be easily pigeonholed anyhow.
+
+Mr. Darabont keeps the winding story of ''The Green Mile'' on track while also providing endless opportunities for the actors to shine. The guards' camaraderie (with Barry Pepper as another group member) is droll and engaging, while the prisoners make another kind of strong impression. Harry Dean Stanton brings some bi"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "135",
+        "movie": "Frost/Nixon",
+        "review": "It’s twinkle versus glower in the big-screen edition of Peter Morgan’s theatrical smackdown “Frost/Nixon.” Directed by Ron Howard and adapted by Mr. Morgan, the film revisits the televised May 1977 face-off between the toothy British personality David Frost and the disgraced former president Richard M. Nixon three years after he left office, trimming their nearly 30-hour armchair-to-armchair spar into a tidy 122-minute narrative of loss and redemption that, at least from this ringside seat, would be better titled “Nixon/Frost.”
+VIDEO: The Frost/Nixon Interview
+Broadcast in four 90-minute programs, the interviews were seen as an enormous risk both for Mr. Frost, who was gambling with his money and future, and for the presidentially pardoned Nixon, who was seeking absolution but risked further public humiliation. (Whatever the outcome, he was guaranteed a sweet jackpot: some $600,000 and 10 percent of the profits.)
+
+For James Reston Jr., who helped Mr. Frost prepare for the interviews (and is played by a rabbity Sam Rockwell in the movie), and whose book “The Conviction of Richard Nixon” was the so-called grist for Mr. Morgan’s play, the former president was akin to Proteus, the wily, shape-shifting Old Man of the Sea from “The Odyssey.” It’s an evocative image, though the thing about Proteus is that when caught he does tell the truth.
+
+As it happens, the worst didn’t happen to either Frost or Nixon, the worst being relative to your political view. The fallen leader fell no further, despite the choking close-ups, beads of sweat, agonized stammers, weird digressions and outrageous pronouncements: “When the president does it, that means that it is not illegal.” The reviews were decidedly mixed — from prison his former aide John D. Ehrlichman gave Nixon’s performance the big thumbs down, calling it “a smarmy, maudlin rationalization.” But the audience share was huge, blockbuster-size: the first program, on Watergate, which played against a John Wayne flick and reruns of “Good Times” and “The Bionic Woman,” attracted as many viewers as the year’s reigning ratings champ, “Happy Days,” the Eisenhower-era sitcom in which Mr. Howard played the Everyboy Richie Cunningham.
+
+Stories of lost crowns lend themselves to drama, but not necessarily audience-pleasing entertainments, which may explain why “Frost/Nixon” registers as such a soothing, agreeably amusing experience, more palliative than purgative. Anchored by its first-rate leads, who originated the roles on the London stage — Frank Langella as Nixon and Michael Sheen as Frost — the movie is a talkathon embellished with camera movements. It opens with one of those compressed historical montages, a kind of tossed salad of names, places and dates (Walter Cronkite, Watergate, August 1974), before moving on to the main course: Frost trying to persuade — and, with comforting words and an open checkbook, eventually persuading — Nixon to sit down to a series of on-camera interviews in a suburban Southern California house.
+
+Much like Mr. Morgan’s screenplay for “The Queen,” a fictionalized account of the relationship between Queen Elizabeth and Tony Blair in the aftermath of Diana’s death, “Frost/Nixon” turns on a power struggle between stubborn if sympathetic adversaries. Once again Mr. Sheen, who played Mr. Blair in both “The Queen” and “The Deal,” a made-for-British-television movie written by Mr. Morgan, assumes the role of the professional sycophant who proves tougher than his breezy smiles suggest. And once again, much as he was by Helen Mirren in “The Queen,” the likable, watchable Mr. Sheen has been pitted against a scene-stealer who, if not carefully tethered, will devour the screen by the "
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "139",
+        "movie": "Hoffa",
+        "review": "IN his 1960 book, \"The Enemy Within,\" Robert F. Kennedy, soon to be the Attorney General of the United States, wrote about his first face-to-face meeting with the man he had sworn to send to prison, James R. Hoffa, the powerful president of the International Brotherhood of Teamsters. Kennedy was surprised by how short the labor leader was, \"only five feet five and a half.\"
+
+Anyone who knows anything about Hoffa's rise and fall will be similarly surprised by how much he's grown in \"Hoffa,\" the riveting, almost impressionistic new film biography, written with mean brilliance by David Mamet and directed by Danny DeVito in a splashy style best described as Las Vegas Empire.
+
+The film not only presents a Jimmy Hoffa with the beefed-up physical dimensions of Jack Nicholson, who gives a gigantic powerhouse of a performance, but it also effectively rearranges the hierarchy of American heroes as it's understood in the 1990's. Many people may be uncomfortably surprised.
+
+\"Hoffa\" sees Kennedy, who was assassinated in 1968 in the middle of his campaign for the Democratic Presidential nomination, as he was perceived by Hoffa: a whiny, aggressive, Harvard-educated rich kid desperate for publicity, ready to use fair means and foul to trap Hoffa, and no match at all for Hoffa in their furious verbal confrontations.
+
+Mr. DeVito and Mr. Mamet don't whitewash Hoffa, but they seem almost nonjudgmental about him. By omission they appear to sanction a complicated, very dubious, if colorful, character. In the context of most commercial movies today, which insist on explaining too much or repeating the obvious at seemingly endless length, \"Hoffa\" remains cool and detached, not unlike Mr. DeVito's very funny, very dark comedy, \"The War of the Roses.\" Yet \"Hoffa\" is not a comedy. It is a take on history.
+
+It's a serious consideration of the career of a man whose gift for the expedient and personally profitable alliance was the near-equal of Talleyrand's. Hoffa's ties to the Mafia not only cost the rank-and-file teamsters millions of dollars but also set a pattern for corruption that tainted the entire labor movement. His is a quintessentially American story, for only in America did Big Labor become a big business to rival Big Business.
+
+\"Hoffa\" is a remarkable movie, an original and vivid cinematic work, but is that enough? I think it is. Others will have legitimate objections to the ways the film operates.
+
+Mr. DeVito and Mr. Mamet stay at a discreet distance from Hoffa, neither sentimentalizing him nor attempting to analyze him beyond his own automatic defense that you have to do it unto others before others do it unto you. Without comment, and in very general terms, they document Hoffa's evolution from small-time labor reformer to big-time labor racketeer, master shakedown artist and influence-peddler, and friend to mobsters of frightening moment.
+
+The tale is told in a series of flashbacks from the last day of Hoffa's life. On July 30, 1975, Hoffa disappeared forever, having been shot, according to some reports, his body placed inside an automobile compactor, the remains then buried in a location that no one yet has discovered.
+
+The movie opens as the nervous, exhausted Jimmy, accompanied by his trusted factotum and pal, a fictitious character named Bobby Ciaro (Mr. DeVito), waits in the back seat of a Cadillac in the parking lot of a roadhouse near Detroit. Jimmy has an appointment with a long-time Mafia associate who, he hopes, will support him in his attempts to win back his place as the teamsters' president. Convicted of jury-tampering and sent to jail in 1967, Jimmy was paroled in 1971 on the condition that he remain out of union politics until 1980"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "119",
+        "movie": "Speed Racer",
+        "review": "Many of us who grew up watching television in the 1960s and ’70s have fond if vague memories of “Speed Racer.” Those big-eyed characters (Trixie! Speed! Racer X!), their mouths never quite moving in sync with the dialogue; those bright colors and semiabstract backgrounds; those endless, episodic story lines. Whether we knew it or not, the series was a primer in the aesthetics of Japanese animation, the love of which we could later pass along to our children.
+Failing that, I suppose we could subject them to Warner Brothers’ new live-action feature film, also called “Speed Racer,” which was written and directed by Andy and Larry Wachowski, the maestros of “The Matrix.” Like so many other expensive, technologically elaborate big-screen adaptations of venerable pop-culture staples, this movie sets out to honor and refresh a youthful enthusiasm from the past and winds up smothering the fun in self-conscious grandiosity. The childhood experience the Wachowskis evoke is not the easy delight of lolling in the den watching one cartoon after another, but rather the squirming tedium of sitting in the back seat on an endless family car trip, your cheek taking on the texture of the vinyl seat as some grown-up lectures you on the beauty of the passing scenery.
+
+And yes, some of what you see in “Speed Racer” is indeed beautiful (as is the slyly old-fashioned orchestral score by Michael Giacchino). The colors pop off the screen as if someone had burst a giant bag of digital Skittles. Look at those red socks young Speed is wearing! Did you ever see a dress as yellow as the one on Susan Sarandon? (She plays Speed’s mom. John Goodman is his dad.) Or a classroom so brilliantly orange? These hues occur nowhere in nature. And I’ll grant that it is mildly interesting to sit back and contemplate the philosophical and artistic implications of having human actors populate a completely synthetic environment in which the familiar laws of optics and physical movement no longer apply.
+
+You could, come to think of it, spend a pleasant hour in a museum looking at still images and short, looping video installations culled from the hectic, 2-hour-15-minute morass of this movie. And there may be a perverse integrity in the way the Wachowskis approach the material, which is to focus relentlessly on visual style while dispensing almost entirely with credible emotion or intelligible narrative. But this would be an easier case to make if the visual style itself were not so busy and incoherent.
+
+Yes, the colors are hot, the set design is cool, and the sidekick chimpanzee is cute, but the action sequences — the hyperreal video-game kineticism on which the Wachowskis’ reputation for virtuosity has rested — are chaotic and nonsensical. The sleek computer-animated racecars flip, jump and slide from side to side, but few of their feats elicit anything like the amazement or surprise of, say, watching moderately skilled teenage skateboarders in a parking lot. To be truly sensational, action needs to make sense and to convey the tension and grace of real physical movement, however fanciful the objects in motion may be.
+
+But at least those cars — including Speed’s Mach 5, faithfully replicated from the old cartoons — move. When it comes to storytelling, “Speed Racer” has nothing in common with its title. Not only does it surpass the grinding tedium of “The Matrix Revolutions,” but it does so with far less excuse. Back in the early years of this century, it was possible to pretend that the grim-faced expository noodling of the later “Matrix” movies was the vehicle for profound insights into — well, something. Go look it up on Wikipedia.
+
+But “Speed Racer” is about a boy driving a c"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "145",
+        "movie": "Twister",
+        "review": "LEAD: The yellowy-gray clouds are ominous, but the weather is still trying to make up its mind. The winds are warm, gusty. A little girl, Violet, hauls a vacuum cleaner across the lawn toward the swimming pool. On a small knoll behind her stands an all-American mansion, part Mount Vernon, part suburban split-level.
+
+The yellowy-gray clouds are ominous, but the weather is still trying to make up its mind. The winds are warm, gusty. A little girl, Violet, hauls a vacuum cleaner across the lawn toward the swimming pool. On a small knoll behind her stands an all-American mansion, part Mount Vernon, part suburban split-level. It looks both cheesy and expensive.
+
+The big white house is the centerpiece of the tacky Kansas estate of a self-made millionaire named Cleveland (Harry Dean Stanton), whose money comes from miniature golf and from soda pop that is colored an especially ghastly shade of green. The house and everything in it appear to have been purchased in a single afternoon at a second-rank department store.
+
+At the beginning of Michael Almereyda's spaced-out comedy, ''Twister,'' Cleveland is thinking of investing in miniature cows - ''half the size, twice the milk.'' The only disadvantage is that they tend to get lost in the weeds and become the prey of turkeys and cats.
+
+With a certain amount of good will and no great ability, Cleveland presides over a household that includes his daughter, Maureen (Violet's unwed mother), who drinks too much and describes herself as a 24-year-old failure; his androgynous son, Howdy, who favors black leather pants that look good with his guitar, and Chris, Violet's father, who has returned from Canada to save Maureen and Violet from what he calls ''this loony bin.''
+
+At the moment, Maureen wants nothing to do with Chris. Howdy is courting Stephanie, a pretty, dim young woman who doesn't much like Howdy, and Cleveland is about to marry Miss Virginia, a local television celebrity. Miss Virginia is the emcee of ''Wonderbox,'' a Sunday-morning children's show in which, dressed up like Judy Garland in ''The Wizard of Oz,'' she teaches children about weather, animals and God.
+
+''Twister,'' adapted by Mr. Almereyda from Mary Robison's novel ''Oh!,'' opens today at Anthology Film Archives, which is somewhat off the beaten track on the Lower East Side. The trip, however, is well worth the effort for anyone whose sensibilities have been worn numb by the idiocies of most conventional films.
+
+''Twister'' looks conventional, but nothing works in the ordinary way. It plays less like a movie than like a novel that one reads at one's own speed. The movie is full of pauses, digressions and blind alleys. Sometimes it seems to stop completely.
+
+Like the often tiresome Howdy (played by the often tiresome Crispin Glover), it also seems both aggressive and shy, especially in the way it forces the audience to accept its curious, uninflected narrative. No one event is really any more important than another.
+
+The real subject of the film is the lazy end of American civilization. No apocalypses. No bangs. Not even any whimpers. Everything just sort of grinds down into uneasy, well-upholstered boredom haunted by guilt. Cleveland and his kids have a lot of money and not the foggiest notion how to spend it to have a little fun. They are as without purpose as tadpoles.
+
+There's not much in the way of a story except the title phenomenon, the tornado that isn't even seen on screen.
+
+''Twister'' is composed entirely of random vignettes in which Cleveland, Miss Virginia, Maureen, Howdy, Chris and the rest float around, trying to make contact with one another and failing.
+
+At one point Maureen and Howdy decide they must find their "
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "142",
+        "movie": "Apollo 13",
+        "review": "THE line of dialogue that will be best remembered from Ron Howard's absolutely thrilling new \"Apollo 13\" is a slight variation on the truth. \"Houston, we have a problem,\" says one of this film's three endangered astronauts, although \"Houston, we've had a problem\" is what Jim Lovell actually said. It's a small but important change, one more way that \"Apollo 13\" unfolds with perfect immediacy, drawing viewers into the nail-biting suspense of a spellbinding true story. You can know every glitch that made this such a dangerous mission, and \"Apollo 13\" will still have you by the throat.
+
+Better even than Mr. Howard's sure hand with this fascinating material is his film's unexpected restraint. \"Apollo 13\" understands the difference between movie bravado and real courage, and it celebrates the latter in inspiring ways that have almost gone out of style. With Tom Hanks, wonderful again, as the Everyman in the driver's seat, \"Apollo 13\" isn't afraid of the stone-cold fear at the heart of this tale or of the intricate group effort needed to see it through. This film and its brave, believable characters are uplifting in ways that have nothing to do with a voyage to outer space.
+
+We take it for granted today that there have been a hundred manned American space flights, and that an astronaut can remain in orbit almost unnoticed for a three-month stretch. But the weeklong adventure of the Apollo 13 crew unfolded in a very different atmosphere. In April 1970, the space program still aroused strong emotions: attention had begun to wane after the previous year's moon walk, but the nation found itself desperately receptive to the astronauts' unforeseen display of heroism after their flight became so perilous. \"Apollo 13\" doesn't mention Vietnam, but it doesn't have to. The war-weary climate of that time enhances this film's wishful, stirring faith in American know-how.
+
+Like \"Quiz Show,\" \"Apollo 13\" beautifully evokes recent history in ways that resonate strongly today. Cleverly nostalgic in its visual style (Rita Ryack's costumes are especially right), it harks back to movie making without phony heroics and to the strong spirit of community that enveloped the astronauts and their families. Amazingly, this film manages to seem refreshingly honest while still conforming to the three-act dramatic format of a standard Hollywood hit. It is far and away the best thing Mr. Howard has done (and \"Far and Away\" was one of the other kind). Equally sound was casting his own mother (Jean Speegle Howard) as Jim Lovell's mother, a real corker. \"Are you boys in the space program, too?\" she sweetly asks the film's Buzz Aldrin and Neil Armstrong.
+
+\"Apollo 13\" makes it unsurprising that Jim Lovell (\"no stranger to emergencies he,\" a television commentator says) would come from sturdy stock. Mr. Lovell is presented as a quietly gung-ho commander, the kind of man who tells his wife (played brightly and affectingly by Kathleen Quinlan) that he's going to the moon as if that's great news. For Mr. Lovell, on whose memoir, \"Lost Moon\" (written with Jeffrey Kluger), the film is based, it actually was: he had come tantalizingly close to the moon on the Apollo 8 flight and enthusiastically looked forward to a lunar landing. Instead, on a mission whose original flight plan was abruptly aborted, he was lucky to come home alive.
+
+The science behind \"Apollo 13\" is detailed and specific, and the film conveys it with superb simplicity. Easy as it would have been to sling showy high-tech jargon, the screenplay (credited to William Broyles Jr. and Al Reinert) is gratifyingly terse and clear. With a pitch-perfect ear for NASA syntax (\"Come on, rookie, park that thing\"), the film stays "
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "148",
+        "movie": "Cast Away",
+        "review": "WHICH of us, while sitting at the edge of the ocean and gazing toward the horizon, hasn't shivered to imagine being drawn out to sea, getting lost and ending up a tiny forgotten speck in the middle of nowhere, shouting at the sky? As potentially panic-inducing as this vision may be, there's also something alluring about it. It's like standing on the edge of a cliff and imagining that fatal leap into the unknown. And in the heart-stopping ocean and desert-island scenes that constitute the core of ''Cast Away,'' Tom Hanks, in collaboration with the director Robert Zemeckis and the screenwriter William Broyles Jr., bring those visions thrillingly and hauntingly to life.
+
+With a bravura mastery of tone and timing, ''Cast Away'' sweeps us out to sea and washes us ashore on a tiny deserted island in the Pacific. We remain stranded there just long enough to be given a deep, salty gulp of what it's like to have to restart civilization from scratch. Just in time for dinner, however, we're whisked back to safety and to tables piled high with supermarket goodies and a life that oddly and sadly seems banal and superfluous compared to what has gone before.
+
+When ''Cast Away'' is the farthest from civilization, it is as compelling a cinematic adventure as any Hollywood has produced. Back on the mainland, however, it turns more formulaic and corny. But even in the wobbly narrative bookends that hold a love story, interrupted by disaster, there are flashes of a deeper metaphysical poignancy. At its best, ''Cast Away,'' like ''Titanic,'' awes us with its sheer oceanic sweep and its cosmic apprehension of human insignificance.
+
+The center of the film is an unforgettably gripping, heart-in-your-throat evocation of the unbearable loneliness and terror of ultimate abandonment once its hero, stranded and presumed dead, gives up hope of being rescued but still clings tenaciously to life.
+
+In one of the script's pointed paradoxes, this modern-day Robinson Crusoe, Chuck Noland (Mr. Hanks), is a voluble, time-obsessed efficiency expert for Federal Express. Shortly before boarding a plane that plunges him into the Pacific, he and his girlfriend, Kelly (Helen Hunt), exchange gifts: an engagement ring from Chuck, her grandfather's pocket watch (with her picture inside) from Kelly. Marooned with only the timepiece to remind him of home, Chuck finds himself facing only one deadline, the race to survive in the face of starvation, dehydration and natural disaster.
+
+''Cast Away'' is everything this year's other man-against-nature blockbuster, ''The Perfect Storm,'' was not. The earlier film huffed and puffed to evoke a similarly elemental struggle in the traditional Hollywood ways, with strenuously grandiose music and oversize, patently unrealistic computer-generated special effects. ''Cast Away'' also has its quotient of technological trickery, but one of the movie's wonders is that everything looks and feels so remarkably real. And it never pushes us too hard.
+
+It also knows when to turn down the volume. The most devastating sequences, instead of flooding us with music, suspend the soundtrack and forgo even language to allow the sounds of nature to take over. All we hear from Mr. Hanks are the grunts and howls of a man exerting himself to stay alive against a backdrop of the roaring ocean and the wind eerily whistling outside the cave Chuck adopts as a shelter. Ultimate isolation, the movie reminds us, doesn't have a soundtrack except what the environment churns up along with the ringing in our ears, our heartbeats and the voices chattering in our minds.
+
+Once again, Mr. Hanks portrays a spirited Everyman, at once deeply likable and profoundly ordinary. If his wou"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "150",
+        "movie": "One Flew Over the Cuckoo's Nest",
+        "review": "People like Randle Patrick McMurphy are foregone conclusions. You gather together at random any twelve men, and one of them will eventually surface as the group's Randle Patrick McMurphy, the organizer, the spokesman, the leading hell-raiser and free spirit, the man who accepts nothing at face value and who likes to shake up the system, sometimes just because it's there. The quality of Randle Patrick McMurphy depends entirely on the intensity of his opposition.
+
+Before the start of One Flew Over the Cuckoo's Nest, Milos Forman's film version of Ken Kesey's 1962 novel, Randle Patrick McMurphy (Jack Nicholson) was strictly small potatoes, his life distinguished by nothing except carelessness.
+
+One assumes him to have been a quick-witted, but none-too-bright fellow whose vanity, drinking, whoring, and short temper have earned him a minor police record consisting mostly of assault-and-battery complaints, concluding with a conviction for statutory rape. The girl, who said she was nineteen, was only fifteen.
+
+When we first meet Randle, he has served two months of his six-month sentence and has managed to get himself transferred to the state mental hospital for psychiatric observation, figuring that life in the loony bin would be easier than on the prison farm. It's the beginning of the end for Randle, but the ferocity of the system imposes on him a kind of crazy grandeur.
+
+One Flew Over the Cuckoo's Nest, which opened yesterday at the Sutton and Paramount Theaters, is a comedy that can't quite support its tragic conclusion, which is too schematic to be honestly moving, but it is acted with such a sense of life that one responds to its demonstration of humanity if not to its programmed metaphors.
+
+Once in the bin, Randle becomes the self-proclaimed champion of the rights of the other ward patients, his adversary being Nurse Ratched, a severe, once-pretty woman of uncertain age who can be sympathetic and understanding only in ways that reinforce her authority. Nurse Ratched represents the System that all Randles must buck.
+
+As played by Louise Fletcher and defined in the screenplay by Lawrence Hauben and Bo Goldman, the film's Nurse Ratched is a much more interesting, more ambiguous character than in Mr. Kesey's novel, though what we take to be her fleeting impulses of genuine concern only make the film's ending that much more unbelievable.
+
+One Flew Over the Cuckoo's Nest is at its best when Mr. Forman is exercising his talents as a director of exuberant comedy that challenges preconceived notions of good taste. It's not too far from the mark to describe Randle as a sort of Mister Roberts who finds himself serving aboard the U.S.S. Madhouse. It's to Mr. Forman's credit that the other patients in the ward, though suffering from all sorts of psychoses, are never patronized as freaks but are immediately identifiable as variations on ourselves, should we ever go over the edge of what's called sanity.
+
+Mr. Nicholson slips into the role of Randle with such easy grace that it's difficult to remember him in any other film. It's a flamboyant performance but not so overbearing that it obscures his fellow actors, all of whom are very good and a few of whom are close to brilliant, including William Redfield (as an egghead patient who talks grave nonsense), Will Sampson (as a deaf-mute Indian), and Brad Dourif (as a young man with a fatal mother complex).
+
+There are some unsettling things about One Flew Over the Cuckoo's Nest. I suspect that we are meant to make connections between Randle's confrontation with the oppressive Nurse Ratched and the political turmoil in this country in the 1960's. The connection doesn't work. All it does is conveniently di"
+      },
+	  {
+        "@search.action": "upload",
+        "movieId": "92",
+        "movie": "RescueDawn",
+        "review": "The Navy airman Dieter Dengler (Christian Bale), the hero of Werner Herzog’s Vietnam-era P.O.W. escape film, “Rescue Dawn,” at first seems a conventional actionmovie hero: handsome, resourceful, brave and optimistic. But the more time spent with him, the more eccentricities he reveals. He has a geeky laugh. His sunny-side-up speechifying suggests an elementary school gym coach with a Vince Lombardi fixation. He only seems typical.
+More About This Movie
+Rescue Dawn
+
+Werner Herzog Is Still Breaking the Rules (July 1, 2007)
+So does Mr. Herzog’s movie, which reimagines his 1997 documentary, “Little Dieter Needs to Fly,” as a drama of imprisonment, survival and perseverance. Although financed independently, it superficially resembles the likes of “Papillon” and “The Great Escape.” With its straightforward narrative, which observes Dengler being shot down during his first mission over Laos; surviving torture, isolation, confinement and starvation; and hatching a daring breakout, “Rescue Dawn” seems a departure from Mr. Herzog’s “Aguirre, The Wrath of God,” “Fitzcarraldo,” “Grizzly Man” and other cautionary tales of visionary madmen.
+
+Dengler is also an advertisement for capitalist democracy: a German immigrant who survived Allied bombing during World War II, settled in the United States and became a baseball-and-apple-pie American. In early shipboard scenes, the film’s cinematographer, Peter Zeitlinger, lights Mr. Bale like Tom Cruise in “Top Gun,” and Mr. Bale’s gung-ho grin seals the comparison.
+
+When Dengler’s captors demand that he sign a confession declaring himself a criminal, Dengler refuses, because to do so would be ungrateful to his adoptive country. He’s as matter-of-fact as a diabetic declining a chocolate bar. Yet these indicators of superheroism exist to be subverted. Dengler endures misery without succumbing to the despair that has crushed his cellmates, but he starts to seem as unhinged as Mr. Herzog’s Aguirre and Fitzcarraldo. Under these conditions, hope is a form of insanity.
+
+Dengler is just one oddball among many. His comrades include best friend and mentor, Duane (the great Steve Zahn, whose ravaged face recalls Steve McQueen’s in “Papillon”), and “Gene from Eugene” (Jeremy Davies, in a boldly stylized, sure-to-be-divisive performance), a longhaired, emaciated redneck whose cadences and gestures suggest a deranged skid row preacher.
+
+In the past, Mr. Herzog has been criticized for his tendency to treat residents of the third world as part of the scenery, but in “Rescue Dawn” he has empathy for Dengler’s captors. They are prisoners, too. They’re vicious because they’re bored and depressed, but they occasionally display kindness. When they consider executing the prisoners and abandoning the camp, Mr. Herzog makes it clear that this potential course of action is not evidence of subhuman evil, but a desperate plan hatched by men who don’t have enough food to feed themselves and their inmates and would rather just go home to their families. As Duane explains to Dengler, “The jungle is the prison — don’t you get it?”
+
+The film is not without flaws. The story’s basis in fact doesn’t inoculate it against charges of predictability. Klaus Badelt’s score can be intrusively emphatic. And the triumphant ending — in which Dengler is welcomed back to his carrier with applause and speeches — is disappointingly conventional. For the most part, though, “Rescue Dawn” is a marvel: a satisfying genre picture that challenges the viewer’s expectations.
+
+The film’s most daring aspect is its portrait of the love that blossoms between men in bleak circumstances. While platonic, Dengler and Duane’s relationship has the depth and detail of a g"
+      },
+	  {
+        "@search.action": "upload",
+        "movieId": "114",
+        "movie": "V for Vendetta",
+        "review": "Thumb suckers of the world unite, the most hotly anticipated film of the, er, week, \"V for Vendetta,\" has arrived, complete with manufactured buzz and some apparently genuine British outrage. Concocted by the same team behind the \"Matrix\" franchise, this future-shock story about a masked avenger at war with a totalitarian British regime was drawn along the usual Orwellian lines but is clearly meant to have more than a passing resemblance to our current political environment.
+
+Is the man in the mask who wants to make Parliament go boom Osama bin Laden or Patrick Henry? Or just a Phantom of the Opera clone who likes to kick back to the cult sounds of Antony and the Johnsons? Your guess is as good as mine, and I've seen the film.
+
+Written by Alan Moore and illustrated by David Lloyd, \"V for Vendetta\" originated as a limited comic series in the early 1980's, just around the time that Margaret Thatcher was re-elected for the second of three terms. Like the comic, the film is set in a near future, though now the time stamp is circa 2020. America, glimpsed only in passing on television, is paralyzed by civil unrest, having unleashed worldwide havoc; Britain has fallen to fascism; no word yet, though, on Luxembourg.
+
+The usual totalitarian hard line prevails (no dissent, no diversity, no fun) as does the usual movie-villain aesthetic. The shock troops wear basic black with crimson accents, while the leader, played by John Hurt in a goatee drizzled with spit, parts his hair like Hitler.
+
+The film, which follows Mr. Moore's story in broad outline, updating it with dead-end allusions to Islam, was adapted to the screen by Andy and Larry Wachowski and directed by one of their former assistant directors, James McTeigue. (Notably, Mr. Moore is having nothing to do with the film.)
+
+One night after curfew, a young woman, Evey (Natalie Portman, looking and sounding all of 12), is saved from an assault by a man in a Guy Fawkes mask who introduces himself as V (Hugo Weaving, wasted under his costume). V slices and dices Evey's troubles away, topping off his handiwork first by reciting some vacuous verse and then by blowing up the Old Bailey. She's perplexed, but like any impressionable youngster with daddy issues and no money for therapy, she's also interested. One thing leads to another and, V for voila, a minor league of extraordinary soul mates is born.
+
+Mr. Moore's pretensions to seriousness may be seriously pretentious, but he seeks to elevate the level of conversation that has been inevitably lowered by the screen adaptations of his work. \"V for Vendetta\" is the worst offender in this regard, largely because the Wachowskis come equipped with their own fancy reading list and set of narrative and ideological imperatives.
+
+Not long after V rescues Evey, she returns the favor, only to end up on the most-wanted list, chased by the police (meaning, for the most part, Stephen Rea). Far from the prying eyes and ears of state surveillance, V brings Evey back to his digs, a bachelor pad tricked out with movie posters, books, a Francis Bacon painting and Julie London pleading \"Cry Me a River.\" All that's missing is a shag carpet and Miss July.
+
+Despite his kinky getup, V has other things on his mind than ravaging his house guest like watching the 1934 chestnut \"The Count of Monte Cristo\" with Evey while curled up on the couch. Mr. Moore's story owes much to the Dumas (pere) novel about a wrongly imprisoned commoner turned wealthy avenger, but it differs significantly in how it puts vengeance and man over forgiveness and God, and more or less jettisons the love angle. Unlike the Count, V remains a lone avenging angel to the big-bang end, which does help g"
+      }
+	]
+  
+}

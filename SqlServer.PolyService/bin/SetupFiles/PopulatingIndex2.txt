@@ -1,0 +1,174 @@
+{
+  "value": [
+      {
+        "@search.action": "upload",
+        "movieId": "67",
+        "movie": "You've Got Mail",
+        "review": "When Meg Ryan's character gets the sniffles and retreats from the world in ''You've Got Mail,'' she puts on pajamas and curls up in bed with her trusty laptop or a favorite book. Someday, when this cozy romantic comedy becomes a videocassette, it too will be a comfort object perfect for such moments.
+
+Ms. Ryan, Tom Hanks and the archly funny Nora Ephron join forces, this time much more easily than they did in ''Sleepless in Seattle,'' to make an inviting love story that entangles a man, a woman, a couple of computers and a New York neighborhood so picturesquely idealized that it feels like Paris. Even if you already live on the Upper West Side, you might feel the urge to move there before the film is over.
+
+The essence of that place, its populace and this precise moment in our technological evolution are captured so endearingly here that ''You've Got Mail'' becomes a New York story reminiscent of early Woody Allen romances, turning the characters into charmingly neurotic products of the place they call home. And in this setting, as far as ''You've Got Mail'' is concerned, the most important landmarks are intimate little hangouts and good old-fashioned books.
+
+Being firmly on the side of the angels, this film treasures the written word so proudly that the closing credits thank a long list of publishing houses. And they really ought to be thanking Ms. Ephron in return. The film's mix of romance and reading matter is seductive in its own right, providing comfy book-lined settings and people who are what they read and write. When they fall in love, they do it wistfully, as if not quite believing that real life can measure up to really good fiction.
+
+The most important literary outpourings here are those exchanged through E-mail, which makes the film that much more amusingly attuned to its time. The screenplay by Ms. Ephron and her sister, Delia Ephron, adapts Ernst Lubitsch's 1940 delight, ''The Shop Around the Corner,'' to the E-mail age with gratifying ingenuity and with its share of extra observations about how times have changed. The star-crossed correspondents, who in Lubitsch's film were employees of the same amazingly gracious retail establishment, have been promoted to people who run their own businesses. That makes their stress and loneliness all the more real, to the point where it's easy to see what drives Joe Fox (Mr. Hanks) and Kathleen Kelly (Ms. Ryan) into the world of cyberflirtation.
+
+By making Kathleen the second-generation owner of a sweet little bookstore for children (titles on the shelves have clearly been chosen with loving care) and Joe the tycoon whose megastore may stomp her out of business, the film gives an additional shrewd angle to its foolproof old story.
+
+It seems that Kathleen and Joe loathe each other in person but are unwittingly close confidants, electronically sharing their innermost thoughts. Should this sound merely like a lot of typing, Ms. Ephron finds plenty of ways to put laptops in bed and otherwise make E-mail visually interesting, starting with a nifty credit sequence that turns all New York into the environment for a video game. In addition, she makes time for shots at the big bookstore as a place that sells ''cheap books and legal addictive stimulants,'' in the wry words of Mr. Hanks's Joe. That's about as nasty as Joe needs to be under feel-good circumstances like these.
+
+The film wafts through its urban paradise, a litter-free place full of flowers and friendly passers-by, as it watches Kathleen and Joe warily circling each other. Complicating matters are a few too many supporting characters, though many of these get the screenplay's best lines. (Says Jean Stapleton, as a genteel older f"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "73",
+        "movie": "Sleepless in Seattle",
+        "review": "Nora Ephron's \"Sleepless in Seattle\" is a feather-light romantic comedy about two lovers who meet for the first time in the last reel. It's a stunt, but it's a stunt that works far more effectively than anybody in his right mind has reason to expect. Not since \"Love Story\" has there been a movie that so shrewdly and predictably manipulated the emotions for such entertaining effect. Be warned, though: \"Sleepless in Seattle\" is a movie you may hate yourself in the morning for having loved the night before.
+
+The situation is this: the recently widowed Sam Baldwin (Tom Hanks), a successful architect, has moved to Seattle from Chicago to try to assuage his sorrow. One night, his 8-year-old son, Jonah (Ross Malinger), calls a late-night radio talk-show psychiatrist. It is Christmas, and the boy is worried about his dad. The furious, embarrassed Sam then gets on the phone. Before he realizes it, he's talking about his perfect marriage before a large portion of the United States population.
+
+Three thousand miles away, Annie Reed (Meg Ryan), a successful feature writer for The Baltimore Sun, is driving to Washington to spend the holidays with her wimpish fiance's family. Annie hears Sam's confession and is so moved that she nearly drives off the road. She's bewitched by something about his voice, the ill-concealed lump in his throat, his choice of cliches. She doesn't immediately know it, but she's in love and will one day wind up with Sam to live in the 1990's version of the kind of bliss that old-fashioned movies used to celebrate.
+
+Evoked by \"Sleepless in Seattle,\" through clips and numerous references in dialogue and soundtrack music, is Leo McCarey's sentimental 1957 classic \"An Affair to Remember,\" a movie that instantly reduces every woman in the new film to tears. \"An Affair to Remember\" serves as an interesting yardstick for \"Sleepless in Seattle.\" It a reminder of just how much smaller and more self-conscious romantic movies are today than they were when they were played by such icons as Cary Grant and Deborah Kerr, when love could be a matter of life and death, and when fate, not an interfering television-bred child, shaped the outcome.
+
+It's clear that Ms. Ephron understands this. \"Sleepless in Seattle\" is so cannily concocted that it somehow manages to stand above the sitcom world in which it is set. You won't for a minute misidentify that world. It's there in the unquestioned material perks enjoyed both by Sam and Annie, in the picturesque houseboat on which Sam and Jonah live in Seattle, in the tone of the wisecracks delivered by Annie's pal Becky (Rosie O'Donnell) and even in the nature of Sam's grief.
+
+Sam's beautiful first wife, Maggie (Carey Lowell), materializes from time to time in fantasy sequences, but the movie makes sure that his grief is not contagious. The audience knows, from Ms. Lowell's billing if nothing else, that Maggie is history, that Sam has a woman with co-star status waiting for him around the corner. The movie uses grief, but makes it safely meaningless. This is, after all, the world of sitcoms.
+
+Mr. Hanks and Ms. Ryan are terrifically attractive, each somehow persuading the audience of the validity of all of the things that keep them apart and then miraculously bring them together. Annie's fiance, Walter (Bill Pullman), is a comic nerd for our time. He's not ridiculous in the manner of the other men once played by Ralph Bellamy, but he does have a large problem with allergies. Walter is allergic to almost everything.
+
+No great effort is made to explain how Annie could have fallen in love with him in the first place. He's a plot function, as is Victoria (Barbara Garrick), the woman Sam courts halfhearte"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "78",
+        "movie": "Joe Versus the Volcano",
+        "review": "LEAD: Not since ''Howard the Duck'' has there been a big-budget comedy with feet as flat as those of ''Joe Versus the Volcano.'' Many gifted people contributed to it, but there's no disbelieving the grim evidence on the screen.
+
+Not since ''Howard the Duck'' has there been a big-budget comedy with feet as flat as those of ''Joe Versus the Volcano.'' Many gifted people contributed to it, but there's no disbelieving the grim evidence on the screen.
+
+The film is the first to be directed by John Patrick Shanley, the writer whose ''Moonstruck'' screenplay was awarded an Oscar. It stars Tom Hanks and Meg Ryan and has a supporting cast that includes Lloyd Bridges, Amanda Plummer, Ossie Davis and Abe Vigoda. There appears to have been no stinting on sets, costumes and special effects. The consumption is conspicuous. Yet nothing works. ''Once upon a time,'' says an opening title card, ''there was a guy named Joe who had a very boring job.''
+
+Joe (Tom Hanks) works in Long Island City, Queens, in the advertising department of American Panascope (''home of the rectal probe''), a company so old-fashioned that its employees still use electric typewriters. When Joe learns that he is terminally ill, he accepts the fabulous offer of an eccentric multi-billionaire (Mr. Bridges).
+
+In return for six weeks of high living, Joe agrees to go to the billionaire's South Pacific island of Waponi Woo and jump into the volcano to appease the fire god. Waponi Woo is the only place in the world where an ore more valuable than uranium is found, but the natives are too busy worrying about their fire god to do any work.
+
+Mr. Shanley's comic fancies are consistently small ones. He imagines a Waponi Woo culture that is an amalgam of Polynesian, Hebrew and Druid, and natives who have a strange passion for orange soda. The director's throw-away touches prompt occasional smiles while an overview of the film prompts only puzzlement.
+
+Mr. Hanks gives a carefully thought-out performance that never manages to be more than theoretically comic, since the material is so muddled, a mixture of comedy, fantasy and mock-dirge. Miss Ryan plays with equal distinction the three different women with whom Joe becomes involved, though no point is made by having one actress do the three parts.
+
+The best thing about the movie is Bo Welch's striking production design, including a hideous Long Island City factory that seems to have come out of Metropolis via ''Batman.'' Also good is Mr. Welch's Waponi Woo, a recollection of those old Paramount sets where Jon Hall used to hang around the lagoon waiting for Dorothy Lamour to surface.
+
+''Joe Versus the Volcano,'' which has been rated PG (''Parental Guidance Suggested''), includes some mildly vulgar language. 
+
+OUT OF THE BED PAN INTO THE FIRE - JOE VERSUS THE VOLCANO, directed and written by John Patrick Shanley; director of photography, Stephen Goldblatt; edited by Richard Halsey; music by Georges Delerue; production designer, Bo Welch; produced by Teri Schwartz. Released by Warner Brothers. Running time: 99 minutes. This film is rated PG. 
+
+Joe...Tom Hanks 
+DeDe/Angelica/Patricia...Meg Ryan 
+Graynamore...Lloyd Bridges 
+Dr. Ellison...Robert Stack 
+Chief of the Waponis...Abe Vigoda 
+Mr. Waturi...Dan Hedaya 
+Dagmar...Amanda Plummer 
+Marshall...Ossie Davis"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "81",
+        "movie": "When Harry Met Sally",
+        "review": "LEAD: The opening credits feature Woody Allen's trademark white letters on a black background, with a jaunty version of ''It Had to Be You'' on the soundtrack. The score is rich with Gershwin, the camera infatuated with Manhattan, the dialogue obsessed with love, sex and death. Altogether, Rob Reiner's ''When Harry Met Sally .
+
+The opening credits feature Woody Allen's trademark white letters on a black background, with a jaunty version of ''It Had to Be You'' on the soundtrack. The score is rich with Gershwin, the camera infatuated with Manhattan, the dialogue obsessed with love, sex and death. Altogether, Rob Reiner's ''When Harry Met Sally . . .'' is the most blatant bow from one director to another since Mr. Allen imitated Ingmar Bergman in ''Interiors.''
+
+On and off for 11 years, Harry (Billy Crystal) and Sally (Meg Ryan) ostensibly debate whether men and women can be nonsexual friends. But that issue instantly evaporates and the question becomes: When will they realize they were made for each other? What Harry and Sally do in the meantime - the true focus of this often funny but amazingly hollow film - is saunter through the romanticized lives of intelligent, successful, neurotic New Yorkers.
+
+Harry and Sally's version of the city offers constant jolts of recognition, as it dwells on carefully specified landmarks and echoes ''Annie Hall'' and ''Manhattan.'' At the Temple of Dendur in the Metropolitan Museum of Art, they discuss dating. In autumn, they stroll by gloriously bright trees in Central Park (Sally wears an Annie Hall hat) and describe their recurring sex dreams. They walk by the glittering Christmas display at Rockefeller Center and the decorated windows at Saks Fifth Avenue. And when Harry and Sally join their two best friends at a SoHo restaurant, half of the people at that table write for New York magazine.
+
+Mr. Allen can get away with such a rarefied vision because, as he put it in ''Manhattan'': ''He adored New York City. He idolized it all out of proportion.'' Gently mocking his own romanticism, Mr. Allen gives his films depth and a believable, astringent undertone. But Mr. Reiner has a simple faith in fated love, which makes his film cute and sentimental rather than romantic and charming. ''When Harry Met Sally . . .'' is like the sitcom version of a Woody Allen film, full of amusing lines and scenes, all infused with an uncomfortable sense of deja vu.
+
+When Harry and Sally first meet, in 1977, they are University of Chicago graduates driving to New York together. Harry seems carefree, but is pessimistic enough to read the last page of a book first; in case he dies, he says, at least he'll know how it ends. And know-it-all Sally insists that Ingrid Bergman really wanted to leave Humphrey Bogart. ''I don't want to spend the rest of my life in Casablanca with a guy who owns a bar,'' she argues, in a line that nails precisely who she is at that moment. Ten years later, after Harry's wife has left him and Sally has broken up with her boyfriend, they become best friends.
+
+Mr. Crystal and Ms. Ryan are appealing and sometimes even unpredictable. Mr. Crystal has the wittiest lines and snappiest delivery, but he also shows Harry to be remarkably gentle, a sensitive mensch. Ms. Ryan has the more subdued role, and the two most volatile scenes. She hilariously and loudly fakes an orgasm in a crowded deli, and goes on a truly mournful crying jag when she learns that her former boyfriend is getting married.
+
+Yet in Mr. Reiner's conception, and in Nora Ephron's screenplay, Harry and Sally are defined by their witty, epigrammatic dialogue and so never become more than types. Sally is a journalist who occasionally sits at her "
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "85",
+        "movie": "That Thing You Do",
+        "review": "Forfeiting the chance to make a long and self-serving historical pageant, Tom Hanks has taken something other than the standard movie-star route to directorial distinction. Mr. Hanks's debut feature, written and directed with delightful good cheer, is rock-and-roll nostalgia presented as pure fizz.
+
+Lightweight and undemandingly likable, ''That Thing You Do!'' asks its audience to do nothing but recall the days when the clock radio was a hot appliance and the cast of ''Bonanza'' might be spotted signing autographs. That, and go home humming this film's bouncy theme song.
+
+Mr. Hanks has the idea of repeating the number called ''That Thing You Do!'' over and over, in increasingly catchy and polished renditions, to chart the rise of the group behind the song. It's a way of creating interest in the film's four cute lads from Erie, Pa., who rise to Beatle-ish heights during the course of the story. Beyond that, Mr. Hanks hasn't much to say, except that he fondly recalls a vast array of funny little aspects of American pop culture, circa 1964. The movie's fun is evenly divided between clean-cut kidding and sunny atmosphere.
+
+It's to Mr. Hanks's considerable credit that this approach never turns saccharine or stiff. The props are perfect, but they don't overwhelm the film's energetic actors. With a shrewd eye for attractive young talent, Mr. Hanks casts performers who resemble mini-versions of established older stars, so that there's even a budding Tom Hanks (Tom Everett Scott), named Guy, behind the drum kit. Steve Zahn, as the cutup named Lenny, plays the role as snappily as if he were Bill Pullman or Jeff Daniels. As Guy's bouffant blond girlfriend, who gets a crush on her dentist (somehow this is a perfect 1964 plot twist), Charlize Theron could be a teen-age Ashley Judd.
+
+The cast also includes Johnathon Schaech, who is suitably hunky if not altogether convincing as the band's resident John Lennon. The group, called the One-ders until this spelling is improved upon (and turned to Wonders, as in one-hit wonders), affects the Beatles' onstage body language, and so Mr. Schaech bobs Lennonishly with his legs planted squarely apart.
+
+His girlfriend is played sweetly by Liv Tyler, dewily photogenic and very much the teen dream, and her presence even prompts an identifying title when the Wonders appear on television. ''Careful girls, he's engaged,'' it says, in a variation on the ''Sorry girls, he's married'' of Lennon's day.
+
+Happily capitalizing on such familiar touches, ''That Thing You Do!'' touches all the right bases along the Wonders' way: the time they play the state fairgrounds, the first time their single is heard on the radio, etc. Along the way, Mr. Hanks himself turns up as an amusingly cagey talent manager who looks like the grand old man in this zippy adolescent company. The film runs into trouble only during its last half-hour, when it hits the inevitable realities that often greeted rock bands on a quick rise. Mr. Hanks fortunately has no taste for cynicism, but the film otherwise has nowhere to go.
+
+''That Thing You Do!'' owes a lot to Victor Kempster's ebullient production design and to boldly colorful cinematography by Tak Fujimoto, best known for his superlative work with Jonathan Demme. Mr. Demme, one of this film's producers, turns up briefly as the director of a schlocky teen-age beach movie that stars the Wonders. Maybe Elvis was busy.
+
+
+''That Thing You Do!'' is rated PG (Parental guidance suggested). It includes itsy-bitsy, teeny-weeny suggestiveness that should not keep most nostalgia-loving children away. 
+
+THAT THING YOU DO! 
+
+Written and directed by Tom Hanks; director of photography, Tak Fujimoto; edited by Ri"
+      },
+      {
+        "@search.action": "upload",
+        "movieId": "87",
+        "movie": "The Replacements",
+        "review": "'You're not even a has-been; you're a never-was!'' a striking pro football player cracks about Shane Falco (Keanu Reeves), the honorable, stoic fill-in quarterback -- yes, scab -- in ''The Replacements.''
+
+This negligible comedy might as well come with a bouncing ball so members of the audience can recite the dialogue along with the actors. They certainly could do so with Gene Hackman, who plays the honorable, stoic fill-in coach Jimmy McGinty. Mr. Hackman, looking flinty and authoritative in a selection of tweed jackets and hats from the Tom Landry Collection, seems to be repeating lines he used in ''Hoosiers'' and old United Airlines commercials.
+
+''The Replacements'' is so eager to please that it's like a Labrador retriever that slobbers all over you and leaves hair on your favorite sweater. Even the limp, diffident tag line on the poster -- ''Pros on strike. Regular guys get to play!'' -- has an air of desperation. The movie just wants to be loved; is that so wrong? Well, yes, given that ''The Replacements'' is a desperate, broad comedy, full of fist fights, gunplay, projectile vomiting and opposing teams in what looks like the old Oakland Raiders uniforms that made the players look like assassins.
+
+Falco has been making a living cleaning barnacles off boats in the Washington boat basin since he choked at the Sugar Bowl of 1996 -- a year when Ohio State apparently relaxed its age restriction on college players -- and the Buckeyes were slammed in a 40-point loss; he is still coping with the shame.
+
+When the Washington Sentinels go on strike, Falco is recruited by McGinty, who looks at him and intones somberly, ''Nothing counts so much as family. . . .'' Oops, that's one of Mr. Hackman's lines from ''Wyatt Earp.'' He does tell Falco that he has to act like a leader. Mr. Reeves coasts through the picture by keeping his cool, even when he should be ruffled.
+
+''The Longest Yard,'' ''The Dirty Dozen'' and all 30 installments of ''Major League'' are ransacked for ''The Replacements.'' Instead of having a big threatening black man, this movie reinvents the genre by offering several of them: the rapper bodyguard brothers Andre (Michael Taliferro) and Jamal (Faison Love) and Earl Wilkerson (Michael Jace), whose character is as much of a walk-on as he could be, considering that he was released from prison into the custody of a pro team.
+
+There's also the violent Los Angeles cop Bateman (a zealous Jon Favreau) and the Chevy Silverado-size sumo wrestler Jumbo (the large but gentle Ace Yonamine) to crank up the level of comic violence. And it wouldn't be a football picture without a born-again Christian (Troy Winbush). ''
+
+''The Replacements'' also adds a deaf player (David Denman) to the mix. ''He'll never be called offsides on an audible,'' McGinty notes.
+
+Rhys Ifans, who in ''Notting Hill'' was so slight that his chin stubble weighed more than the rest of him, has filled out a bit and plays Nigel Gruff, the immensely talented and garrulous Welsh soccer player used as a place kicker. ''Is he smoking?'' asks John Madden (playing himself in the announcer booth, along with Pat Summerall), noting the cigarette dangling from Nigel's mouth under the helmet.
+
+The movie has no pretensions, but it louses up a great subject. The 1987 N.F.L. Players Union strike, on which it is based, gave fans a chance to see some of the most unusual football ever; it was like watching the cable access version of the World Football League, with a palpable current of players' desire keeping the undertalented on the field. There is probably still a movie to be made about that strike over free agency.
+
+Since Los Angeles is such a union town and there is talk of possible"
+      },
+	  {
+        "@search.action": "upload",
+        "movieId": "109",
+        "movie": "The Da Vinci Code",
+        "review": "The movie Sony Pictures has been desperately trying to position as \"the most controversial thriller of the year\" turns out to be about as thrilling as watching your parents do a Sudoku puzzle.
+
+\"The Da Vinci Code,\" Ron Howard's hotly anticipated adaptation of Dan Brown's phenom of a bestseller, plays it so safe and on-the-nose that any high emotion engendered by its provocative premise is quickly squelched. In Howard's methodical hands, Brown's story of a frantic, pre-dawn, multi-country search for the Holy Grail unfolds not as a pulse-quickening action-adventure film laced with theological intrigue, but a surprisingly bland procedural with a particularly well-pedigreed MacGuffin.
+
+Tom Hanks looks startlingly pasty and impassive as the story's protagonist, dashing Harvard symbologist Robert Langdon, who is inexplicably summoned to the Louvre while at a book-signing in Paris. There, he is confronted with the corpse of an elderly man who has carved a pentacle on his chest, and who has scrawled a series of anagrams and numerical puzzles to help identify not his killer but what his killer was trying to find. Langdon is soon joined by a pretty cryptologist named Sophie Neveu (Audrey Tautou), who has her own professional and personal interest in the case; together, they embark on a journey from Paris to its outskirts to London and finally Scotland in what turns out to be a scavenger hunt of historical, even metaphysical, proportions.
+
+But most filmgoers probably know all this, because most of them have probably read \"The Da Vinci Code,\" a starchily written potboiler that despite its graceless prose and turgid expository digressions has sold more than 40 million copies. Fans of the book will understandably be curious to see how it fares on the big screen; this is a book so movie-ready that it needed only a few \"Fade Ins\" and \"Fade Outs\" to qualify as a shooting script. If Howard's \"Da Vinci Code\" doesn't take the story in any radical new directions (no one will object to the understandable cuts he has made in narrative and characters), he delivers what the book's admirers presumably want: a live-action illustration of the story they've had in their heads for three years.
+
+He does that with perhaps a surfeit of sobriety and taste, and it looks like he's tried to soothe some of the misgivings Christian groups have expressed about Brown's questioning of Jesus Christ's divinity. Unlike the book, in this \"Da Vinci Code\" Langdon throws in lots of interjections reminding viewers that this is all just speculation; and by the film's final couple of twists, the filmmakers have made an earnest case for faith. Even the film's putative baddie, an albino named Silas (Paul Bettany), a member of the Opus Dei organization, comes to be seen as more of a dupe than an out-and-out villain.
+
+Bettany's sympathetic performance in a thankless role is one of the best in the film, as is that of Ian McKellen, who delivers a crafty turn as an obsessive Grail hunter. While Hanks and Tautou sleepwalk through their performances, McKellen provides a much-needed spark of mischief. (One quibble many readers will have with Howard's adaptation is how he has made Neveu -- who in the book is just as intellectually adroit as her male counterpart -- into little more than a doe-eyed odalisque. It's a particularly ironic choice for a story that is predicated on the feminist premise that not just Eve but Mary Magdalene and countless women after her were framed.)
+
+Having endured the wrath of Cannes this week, \"The Da Vinci Code\" is already being buzzed about as possessing what might be the most risible Big Reveal in recent memory, if not cinema history; with its preposterous punch line and the awkward silence that follows, it's a moment that begs for an \"I'm Going to Disney World!\" A touch of playfulness wouldn't have hurt \"The Da Vinci Code,\" which, far from being the super-serious drama its critics have anticipated, is a relatively formulaic quest adventure in the tradition of \"The Lord of the Rings\" and \"The Matrix,\" both of whose philosophical underpinnings provide interesting food for thought rather than earth-shattering doctrinal pronouncements.
+
+Indeed, if Howard and screenwriter Akiva Goldsman (\"A Beautiful Mind\") had only seen the potential for some intellectually subversive fun in \"The Da Vinci Code,\" the movie could have been a taut, unusually smart thriller. What's more, by dispensing with a few painterly flashbacks and windy academic speeches, it just might have bucked the current trend in Hollywood and clocked in at under two hours. Now there's a Grail.
+
+The Da Vinci Code (149 minutes, at area theaters) is rated PG-13 for disturbing images, violence, some nudity, thematic material, brief drug references and sexual content."
+      }
+	  
+	]
+  
+}

@@ -1,0 +1,307 @@
+--batch_a1e9d677-b28b-435e-a89e-87e6a768a431
+Content-Type: multipart/mixed; boundary=changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+
+--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"127", "ActorID":127, "Actor":"Naomie Harris", "PhoneNum":"(899)116-8504 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"129", "ActorID":129, "Actor":"Michael Clarke Duncan", "PhoneNum":"(811)245-4188 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"130", "ActorID":130, "Actor":"David Morse", "PhoneNum":"(811)169-2237 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"131", "ActorID":131, "Actor":"Sam Rockwell", "PhoneNum":"(822)812-5826 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"132", "ActorID":132, "Actor":"Gary Sinise", "PhoneNum":"(899)428-9329 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"133", "ActorID":133, "Actor":"Patricia Clarkson", "PhoneNum":"(833)750-8388 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"134", "ActorID":134, "Actor":"Frank Darabont", "PhoneNum":"(844)577-7045 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"136", "ActorID":136, "Actor":"Frank Langella", "PhoneNum":"(811)575-4914 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"137", "ActorID":137, "Actor":"Michael Sheen", "PhoneNum":"(844)423-7523 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"138", "ActorID":138, "Actor":"Oliver Platt", "PhoneNum":"(855)731-1296 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"140", "ActorID":140, "Actor":"Danny DeVito", "PhoneNum":"(822)735-7807 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"141", "ActorID":141, "Actor":"John C. Reilly", "PhoneNum":"(844)728-6320 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"143", "ActorID":143, "Actor":"Ed Harris", "PhoneNum":"(822)535-0683 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"144", "ActorID":144, "Actor":"Bill Paxton", "PhoneNum":"(844)255-4412 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"146", "ActorID":146, "Actor":"Philip Seymour Hoffman", "PhoneNum":"(899)579-4768 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"147", "ActorID":147, "Actor":"Jan de Bont", "PhoneNum":"(833)972-2020 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"149", "ActorID":149, "Actor":"Robert Zemeckis", "PhoneNum":"(833)566-1505 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"151", "ActorID":151, "Actor":"Milos Forman", "PhoneNum":"(822)512-0241 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"153", "ActorID":153, "Actor":"Diane Keaton", "PhoneNum":"(822)212-9714 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"154", "ActorID":154, "Actor":"Nancy Meyers", "PhoneNum":"(822)869-8904 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"156", "ActorID":156, "Actor":"Chris Columbus", "PhoneNum":"(844)716-2120 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"158", "ActorID":158, "Actor":"Julia Roberts", "PhoneNum":"(822)337-6884 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"161", "ActorID":161, "Actor":"Madonna", "PhoneNum":"(899)069-8844 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"162", "ActorID":162, "Actor":"Geena Davis", "PhoneNum":"(822)145-1505 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"163", "ActorID":163, "Actor":"Lori Petty", "PhoneNum":"(844)126-3470 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"164", "ActorID":164, "Actor":"Penny Marshall", "PhoneNum":"(822)074-8688 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"165", "ActorID":165, "Actor":"Paul Blythe", "PhoneNum":"(833)584-3390 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"166", "ActorID":166, "Actor":"Angela Scope", "PhoneNum":"(833)456-0623 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"167", "ActorID":167, "Actor":"Jessica Thompson", "PhoneNum":"(822)400-9717 "}--changeset_8a28b620-b4bb-458c-a177-0959fb14c977
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+POST https://@@table_storage_name.table.core.windows.net/PhoneBook HTTP/1.1
+Content-Type: application/json
+Accept: application/json;odata=nometadata
+Prefer: return-no-content
+DataServiceVersion: 3.0;
+
+{"PartitionKey":"Actors", "RowKey":"168", "ActorID":168, "Actor":"James Thompson", "PhoneNum":"(822)816-5051"}
+
+--changeset_8a28b620-b4bb-458c-a177-0959fb14c977--
+--batch_a1e9d677-b28b-435e-a89e-87e6a768a431
