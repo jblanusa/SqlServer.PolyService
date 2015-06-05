@@ -74,7 +74,7 @@ DECLARE @doc as nvarchar(max),
 
 -- Querying Neo4j graph base
 SET @doc = dbo.Json2Xml(
-						  dbo.Neo4j().MatchPattern('(@kevin) -[@r]- (co_actor)')
+						  dbo.Neo4j().MatchPattern('(@kevin) -[@r]- (co_actor)')			--MatchPattern('(@kevin) -[@r]-> (movie) <-[@r]- (co_actor)')
 									 .Node('kevin').WithProperty('name','Kevin Bacon') 
 									 .Relationship('r').AsType('ACTED_IN*2')
 									 .Returns('id(co_actor),co_actor.name')

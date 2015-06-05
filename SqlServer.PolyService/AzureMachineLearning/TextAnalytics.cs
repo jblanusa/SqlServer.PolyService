@@ -24,7 +24,7 @@ namespace SqlServer.PolyService
         [SqlMethod(OnNullCall = false)]
         public float GetSentiment(string body)
         {
-            StringBuilder text = new StringBuilder(body);
+            StringBuilder text = new StringBuilder(body);   
             text.Replace(' ', '+');
             this.url.Append("/GetSentiment");
             base.AddParameter("Text",text.ToString());

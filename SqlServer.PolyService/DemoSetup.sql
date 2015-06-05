@@ -124,11 +124,11 @@ GO
 CREATE FUNCTION TextAnalytics() RETURNS dbo.TextAnalytics
 AS
 BEGIN
-	DECLARE @analythics as dbo.TextAnalytics = ''
+	DECLARE @analytics as dbo.TextAnalytics = ''
 
-	SET @analythics = @analythics.SetNamePass('<azure marketplace username, nvarchar(max), name>','<azure marketplace account key, nvarchar(max), pass>')
+	SET @analytics = @analythics.SetNamePass('<azure marketplace username, nvarchar(max), name>','<azure marketplace account key, nvarchar(max), pass>')
 
-	RETURN @analythics
+	RETURN @analytics
 END
 GO
 

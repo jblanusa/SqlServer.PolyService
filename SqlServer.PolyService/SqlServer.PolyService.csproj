@@ -71,6 +71,11 @@
     <Content Include="movieDemo.sql" />
     <Content Include="DemoSetup.sql" />
     <Content Include="Neo4j\neo4jExample.sql" />
+    <Content Include="Quick Demo\create.sql" />
+    <Content Include="Quick Demo\Json2Xml.sql" />
+    <Content Include="Quick Demo\odata.sql" />
+    <Content Include="Quick Demo\SqlServer.PolyService.dll" />
+    <Content Include="Quick Demo\tablestorage.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

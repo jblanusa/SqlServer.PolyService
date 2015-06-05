@@ -1,6 +1,7 @@
 ﻿using Microsoft.SqlServer.Server;
 using System;
 using System.Data.SqlTypes;
+using System.IO;
 using System.Text;
 
 namespace SqlServer.PolyService
@@ -115,6 +116,9 @@ namespace SqlServer.PolyService
             base.Write(w);
             w.Write(AccountKey);
             w.Write(Version);
+            w.Write(insertBody.ToString());
+            w.Write(RowKeyAdded);
+            w.Write(PartitionKeyAdded);
         }
 
         public override void Read(System.IO.BinaryReader r)
@@ -122,6 +126,9 @@ namespace SqlServer.PolyService
             base.Read(r);
             AccountKey = r.ReadString();
             Version = r.ReadString();
+            insertBody = new StringBuilder(r.ReadString());
+            RowKeyAdded = r.ReadBoolean();
+            PartitionKeyAdded = r.ReadBoolean();
         }
 
         public override bool IsEqual(RestWebService obj)
@@ -132,11 +139,14 @@ namespace SqlServer.PolyService
             TableStorage tbl = (TableStorage)obj;
             if (this.AccountKey != tbl.AccountKey) return false;
             if (this.Version != tbl.Version) return false;
+            if (this.PartitionKeyAdded != tbl.PartitionKeyAdded) return false;
+            if (this.RowKeyAdded != RowKeyAdded) return false;
+            if (this.insertBody.ToString() != tbl.insertBody.ToString()) return false;
             return base.IsEqual(obj);
         }
         #endregion
 
-        #region Blob specific methods
+        #region Table storage specific methods
 
         [SqlMethod(OnNullCall = false)]
         public TableStorage SetAccountKey(SqlString Key)
@@ -145,8 +155,13 @@ namespace SqlServer.PolyService
             return this;
         }
 
+        /// <summary>
+        /// Creates table with given name
+        /// </summary>
+        /// <param name="name">Table name</param>
+        /// <returns>This object</returns>
         [SqlMethod(OnNullCall = false)]
-        public SqlString CreateTable(SqlString name)
+        public TableStorage CreateTable(SqlString name)
         {
             base.AddHeader("Content-Type", "application/json");
             base.AddHeader("Accept", "application/json;odata=nometadata");
@@ -159,10 +174,14 @@ namespace SqlServer.PolyService
             swapPaths(oldPath, newPath);
             string ret = Post(body);
             swapPaths(newPath, oldPath);
-            return ret;
+            return this;
 
         }
 
+        /// <summary>
+        /// Returns list of all tables for the given account
+        /// </summary>
+        /// <returns>Json formatted list of tables</returns>
         [SqlMethod(OnNullCall = false)]
         public SqlString ListTables()
         {
@@ -177,8 +196,13 @@ namespace SqlServer.PolyService
             return ret;
         }
 
+        /// <summary>
+        /// Deletes table with the given name
+        /// </summary>
+        /// <param name="name">Table name</param>
+        /// <returns>This object</returns>
         [SqlMethod(OnNullCall = false)]
-        public SqlString DeleteTable(SqlString name)
+        public TableStorage DeleteTable(SqlString name)
         {
             base.AddHeader("Content-Type", "application/atom+xml");
 
@@ -189,10 +213,25 @@ namespace SqlServer.PolyService
             swapPaths(oldPath, newPath);
             string ret = Delete();
             swapPaths(newPath, oldPath);
-            return ret;
+            return this;
 
         }
 
+        /// <summary>
+        /// Querying table storage should look like:
+        /// 
+        /// 				Table.Returns('a, b, c')
+        ///                      .Take(10)
+        ///                      .Filter('a ge 20')
+		///					     .FromTable('TestTable')
+		///					     .Get()
+        /// 
+        /// Where Table is TableStorage object
+        /// 
+        /// This method specifies which table is being queried
+        /// </summary>
+        /// <param name="name">Table name</param>
+        /// <returns>This object</returns>
         [SqlMethod(OnNullCall = false)]
         public TableStorage FromTable(SqlString name)
         {
@@ -205,6 +244,121 @@ namespace SqlServer.PolyService
         }
 
 
+        private StringBuilder insertBody = new StringBuilder("{");
+        private Boolean RowKeyAdded = false;
+        private Boolean PartitionKeyAdded = false;
+
+        /// <summary>
+        /// Inserting into table storage should look like:
+        /// 
+        ///                 Table.Value('PartitionKey','"first_partition"')
+        ///                      .KeyValue('45')
+        ///                      .Value('IntegerProperty','7')
+        ///                      .Value('StringProperty','"value"')
+        ///                      .InsertInto('TestTable')
+        /// 
+        /// Where Table is TableStorage object
+        /// 
+        /// This method specifies the table in which we insert values and it perform insert.
+        /// </summary>
+        /// <param name="name">Table name</param>
+        /// <returns>This object</returns>
+        [SqlMethod(OnNullCall = false)]
+        public TableStorage InsertInto(SqlString name)
+        {
+            base.AddHeader("Accept", "application/json;odata=nometadata");
+            base.AddHeader("Content-Type", "application/json");
+
+            if (!PartitionKeyAdded)
+            {
+                Value("PartitionKey", name.ToString());
+            }
+            if (!RowKeyAdded)
+            {
+                KeyValue(DateTime.UtcNow.ToString("R"));
+            }
+
+            insertBody.Append("}");
+            string body = insertBody.ToString();
+            insertBody.Clear().Append("{");
+
+            string oldPath = urlPath;
+            string newPath = String.Format("/{0}", name.ToString());
+
+            swapPaths(oldPath, newPath);
+            Post(body);
+            swapPaths(newPath, oldPath);
+
+            RowKeyAdded = false;
+            PartitionKeyAdded = false;
+
+            return this;
+        }
+
+        /// <summary>
+        /// Adds one more value to current entity that is going to be inserted
+        /// with InsertInto method into table for current account.
+        /// </summary>
+        /// <param name="property">Name of a property</param>
+        /// <param name="value">Value of the property, string type</param>
+        /// <returns>This object</returns>
+        [SqlMethod(OnNullCall = false)]
+        public TableStorage Value(SqlString property, SqlString value)
+        {
+            if (property == "PartitionKey" && PartitionKeyAdded)
+            {
+                return this;
+            }
+            else if (property == "PartitionKey")
+            {
+                PartitionKeyAdded = true;
+            }
+            if (insertBody.Length != 1)
+            {
+                insertBody.Append(",");
+            }    
+            insertBody.Append("\"" + property + "\":\"" + value+"\"");
+            return this;
+        }
+
+        [SqlMethod(OnNullCall = false)]
+        public TableStorage IntValue(SqlString property, SqlInt32 value)
+        {
+            if (property == "PartitionKey")
+            {
+                return this;
+            }
+            if (insertBody.Length != 1)
+            {
+                insertBody.Append(",");
+            }
+            insertBody.Append("\"" + property + "\":" + value.ToString());
+            return this;
+        }
+
+        /// <summary>
+        /// Adds value for "RowKey" property which is necessary for every entity
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        [SqlMethod(OnNullCall = false)]
+        public TableStorage KeyValue(SqlString value)
+        {
+            if (RowKeyAdded) return this;
+            RowKeyAdded = true;
+            if (insertBody.Length != 1)
+            {
+                insertBody.Append(",");
+            }
+            insertBody.Append("\"RowKey\":\"" + value+"\"");
+            return this;
+        }
+        /// <summary>
+        /// Method that prepare UDT for batch insert
+        /// </summary>
+        /// <param name="body">Json formatted batch</param>
+        /// <param name="batchName">batch name</param>
+        /// <returns></returns>
         [SqlMethod(OnNullCall = false)]
         public TableStorage BatchInsert(SqlString body, SqlString batchName)
         {
@@ -217,16 +371,21 @@ namespace SqlServer.PolyService
             string newPath = "/$batch";
 
             swapPaths(oldPath, newPath);
-            string ret = Post(body.ToString());
+            Post(body.ToString());
             swapPaths(newPath, oldPath);
             return this;
         }
 
+        /// <summary>
+        /// Checks whether table with given name exists
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns>true or false value</returns>
         [SqlMethod(OnNullCall = false)]
-        public SqlString ExistsTable(SqlString name)
+        public SqlBoolean ExistsTable(SqlString name)
         {
             string lst = ListTables().ToString();
-            return lst.Contains("\"TableName\":+\"" + name.ToString() + "\"")?"TRUE":"FALSE";
+            return lst.Contains("\"TableName\":+\"" + name.ToString() + "\"");
         }
         #region Authorization
         private void AddAuthorization(string Method)
@@ -322,6 +481,7 @@ namespace SqlServer.PolyService
             }
         }
         #endregion
+
 
         #region OData query parameters
         [SqlMethod(OnNullCall = false)]

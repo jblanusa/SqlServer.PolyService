@@ -99,8 +99,12 @@ namespace PolyServiceUnitTest
         {
             TableStorage original = TableStorage.Parse("TableRootUrl");
             original.SetAccountKey("pass");
+            original.Value("property1", "value1")
+                .KeyValue("key")
+                .IntValue("property2", 15);
+
             TableStorage copy = this.RWSSerialize<TableStorage>(original);
-            Assert.IsTrue(copy.IsEqual(original), "Blob match failed");
+            Assert.IsTrue(copy.IsEqual(original), "Table match failed");
         }
 
         /// <summary>
@@ -191,7 +195,6 @@ namespace PolyServiceUnitTest
             Assert.IsTrue(nfj.queryBody.Trim() == "MATCH (tom{name:'Tom Hanks'}) -[r1:DIRECTED]-> (movie) <-[r2]- (director),(a:MOVIE)-->(c) RETURN tom, movie, director", "Neo4j pattern query match failed");
 
         }
-
 
         /// <summary>
         /// Generic method that checks Read and Write methods of RestWebService

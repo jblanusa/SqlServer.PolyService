@@ -139,7 +139,7 @@ namespace SqlServer.PolyService
                 try
                 {
                 return client.UploadString(Uri.EscapeUriString(GetURL()), body);
-               }
+                }
                 catch
                 {
                     throw new Exception("Operation Failed");
