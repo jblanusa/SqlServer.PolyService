@@ -1,0 +1,26 @@
+﻿<# // Demo database #>
+<# string database = "__json"; #>
+<# // Asembly name #>
+<# string assembly = "PolyService"; #>
+<# // Account name for Blob, Table, and Queue storage #>
+<# string storageAccount = "ty"; #>
+<# // Primary api key for Blob, Table, and Queue storage #>
+<# string storageApiKey = "hb5qy6eXLqIrTHDvWjUZg3Gu7bubKLg=="; #>
+<# // Account name for Azure Search #>
+<# string searchAccount = "t21"; #>
+<# // Primary api key for Azure Search #>
+<# string searchApiKey = "9DAC191BB26D7708DC7F2"; #>
+<# // Account name for DocumentDb #>
+<# string docDbAccount = "t21"; #>
+<# // Demo database rid #>
+<# string docDbDatabaseId = "dPgThrfgjdrjtAA=="; #>
+<# // Demo database rid #>
+<# string docDbCollectionId = "dPgTAKjtyuikguulkfghljhl;kEGwA="; #>
+<# // Primary api key for DocumentDb #>
+<# string docDbApiKey = "hdI18eZC0tuiE9i14bvGH3Q=="; #>
+<# // Account name for Neo4J #>
+<# string neo4jAccount = "t4"; #>
+<# // Demo username #>
+<# string neo4jUsername = "ty"; #>
+<# // Demo password #>
+<# string neo4jPassword = "ty"; #>

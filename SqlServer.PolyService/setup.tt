@@ -1,0 +1,31 @@
+﻿<#@ template debug="false" hostspecific="true" language="C#" #>
+<#@ output extension=".sql" #>
+<#@ include file="settings.t4" #>
+sp_configure 'show advanced options', 1;
+GO
+RECONFIGURE;
+GO
+sp_configure 'clr enabled', 1;
+GO
+RECONFIGURE;
+GO
+
+SET NOCOUNT ON
+CREATE DATABASE <#= database #>
+GO
+ALTER DATABASE <#= database #> SET TRUSTWORTHY ON;
+GO
+use <#= database #>
+
+----------------------
+-- Install Assembly --
+----------------------
+IF  EXISTS (SELECT * FROM sys.assemblies asms WHERE asms.name = N'<#= assembly #>' AND is_user_defined = 1)
+	DROP ASSEMBLY <#= assembly #>
+GO
+
+CREATE ASSEMBLY <#= assembly #>
+FROM '<#= Host.ResolvePath("bin") #>\Debug\SqlServer.PolyService.dll'
+WITH PERMISSION_SET = EXTERNAL_ACCESS
+GO
+

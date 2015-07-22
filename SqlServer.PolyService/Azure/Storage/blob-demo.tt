@@ -1,0 +1,26 @@
+﻿<#@ template debug="false" hostspecific="true" language="C#" #>
+<#@ include file="..\..\settings.t4" #>
+<#@ output extension=".sql" #>
+
+-- Use demo database
+use <#= database #>
+
+
+-- Creating BlobStorage type
+CREATE TYPE dbo.AzureBlob
+EXTERNAL NAME <#= assembly #>.[PolyService.Azure.Blob];
+
+go
+-- Upload content to blob
+DECLARE @res AS dbo.AzureBlob = N'https://<#= storageAccount #>.blob.core.windows.net/first/info.txt' 
+SELECT @res.SetAccountKey('<#= storageApiKey #>').UploadContent(CAST('Lorem ipsum' AS VARBINARY(MAX)))
+
+go
+-- Get content from blob
+DECLARE @res AS dbo.AzureBlob = N'https://<#= storageAccount #>.blob.core.windows.net/first/info.txt'
+SELECT CAST(@res.SetAccountKey('<#= storageApiKey #>').Get()  AS VARCHAR(MAX))
+
+go
+DROP TYPE dbo.AzureBlobStorage
+
+
