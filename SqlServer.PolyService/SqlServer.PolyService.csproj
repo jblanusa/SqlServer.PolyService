@@ -49,36 +49,117 @@
     <Reference Include="System.XML" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AzureMachineLearning\AzureMLApp.cs" />
-    <Compile Include="AzureMachineLearning\BinaryClassifier.cs" />
+    <Compile Include="Azure\MachineLearning\AzureMLApp.cs" />
+    <Compile Include="Azure\MachineLearning\BinaryClassifier.cs" />
+    <Compile Include="Common\DataSource.cs" />
+    <Compile Include="Common\ILogin.cs" />
+    <Compile Include="Service\IQueryableService.cs" />
+    <Compile Include="Service\OData\IOData.cs" />
     <Compile Include="Utilities\CreateCSV.cs" />
-    <Compile Include="AzureMachineLearning\TextAnalytics.cs" />
-    <Compile Include="AzureSearch\AzureSearch.cs" />
-    <Compile Include="AzureStorage\TableStorage.cs" />
+    <Compile Include="Azure\MachineLearning\TextAnalytics.cs" />
+    <Compile Include="Azure\Search\AzureSearch.cs" />
+    <Compile Include="Azure\Storage\Table.cs" />
     <Compile Include="Utilities\Compress.cs" />
-    <Compile Include="DocumentDB\DocumentDB.cs" />
-    <Compile Include="IAzureService.cs" />
-    <Compile Include="Neo4j\Neo4j.cs" />
-    <Compile Include="OData\OData.cs" />
-    <Compile Include="AzureStorage\BlobAuthorisation.cs" />
-    <Compile Include="AzureStorage\Blob.cs" />
+    <Compile Include="Azure\DocumentDb\DocumentDB.cs" />
+    <Compile Include="Azure\IAzureService.cs" />
+    <Compile Include="Service\Neo4j\Neo4j.cs" />
+    <Compile Include="Service\OData\OData.cs" />
+    <Compile Include="Azure\Storage\BlobAuthorisation.cs" />
+    <Compile Include="Azure\Storage\Blob.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RestWebService.cs" />
+    <Compile Include="Service\RestWebService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AzureMachineLearning\exampleML.sql" />
-    <Content Include="AzureStorage\exampleBlob.sql" />
-    <Content Include="movieDemo.sql" />
-    <Content Include="DemoSetup.sql" />
-    <Content Include="Neo4j\neo4jExample.sql" />
-    <Content Include="Quick Demo\create.sql" />
-    <Content Include="Quick Demo\Json2Xml.sql" />
-    <Content Include="Quick Demo\odata.sql" />
-    <Content Include="Quick Demo\SqlServer.PolyService.dll" />
-    <Content Include="Quick Demo\tablestorage.sql" />
+    <None Include="Azure\DocumentDb\demo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>demo.sql</LastGenOutput>
+    </None>
+    <None Include="Azure\MachineLearning\demo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>demo.sql</LastGenOutput>
+    </None>
+    <Content Include="Azure\DocumentDb\demo.sql">
+      <DependentUpon>demo.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Content>
+    <Content Include="Azure\MachineLearning\demo.sql">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>demo.tt</DependentUpon>
+    </Content>
+    <Content Include="Azure\Search\demo.sql">
+      <DependentUpon>demo.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Content>
+    <Content Include="Azure\Storage\blob-demo.sql">
+      <DependentUpon>blob-demo.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Content>
+    <Content Include="Azure\Storage\table-demo.sql">
+      <DependentUpon>table-demo.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Content>
+    <Content Include="Demo\Setup-types.sql">
+      <DependentUpon>Setup-types.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Content>
+    <Content Include="Demo\Setup-assemby.sql">
+      <DependentUpon>Setup-assemby.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Content>
+    <Content Include="Demo\Setup-functions.sql" />
+    <Content Include="Service\Neo4j\demo.sql">
+      <DependentUpon>demo.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Content>
+    <Content Include="Service\OData\demo.sql" />
+    <Content Include="setup.sql">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>setup.tt</DependentUpon>
+    </Content>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Azure\Search\demo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>demo.sql</LastGenOutput>
+    </None>
+    <None Include="Azure\Storage\blob-demo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>blob-demo.sql</LastGenOutput>
+    </None>
+    <None Include="Azure\Storage\table-demo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>table-demo.sql</LastGenOutput>
+    </None>
+    <None Include="Demo\Setup-types.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Setup-types.sql</LastGenOutput>
+    </None>
+    <None Include="Demo\Setup-assemby.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Setup-assemby.sql</LastGenOutput>
+    </None>
     <None Include="packages.config" />
+    <None Include="Service\Neo4j\demo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>demo.sql</LastGenOutput>
+    </None>
+    <None Include="settings.t4" />
+    <None Include="setup.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>setup.sql</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

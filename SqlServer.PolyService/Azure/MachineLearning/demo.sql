@@ -1,0 +1,68 @@
+
+IF OBJECT_ID ('dbo.MovieReviews', 'U') IS NOT NULL
+DROP TABLE dbo.MovieReviews
+GO
+CREATE TABLE MovieReviews
+(
+	ID INT IDENTITY PRIMARY KEY,
+	Name nvarchar(50),
+	Review nvarchar(max)
+)
+GO
+
+INSERT INTO MovieReviews VALUES 
+	('A Good Day to Die Hard','I''m pretty sure I understand how this got funded. The franchise is pretty worn out; since the first one, we have hundreds a year of tough boys and girls who manage to flamboyantly kill a lot of bad guys. (Set aside for a moment that most of these dead aren''t crooks, but soldiers and cops simply doing what they do.)
+		The stars of this are three vehicles. A huge armored vehicle and two helicopters. It is these that our two heroes combat. Oh, we have sharply drawn villains, but they are there to present these three challenging machines. Note the shift in agency. In Star Wars, the Death Star was imposing, but only as an extension of evil men. Here, the
+		machines are put frontwise. In the final scene, the bad guys perish incidentally. The real drama is the wounding and death of the large helo. It is dressed to look evil and photographed as if it could move on its own.  What next? We''ve had flying aircraft carriers. Trains are common but are hard to make evil. Pacific Rim robots? I''m not
+		 sure. But I do see the need to escalate from one generation of these things to the next and orange fireballs don''t work any more.)' ),
+
+	('Guardians of the Galaxy',' don''t know where this came from, whether it incubated in this form in comics for years. Or whether someone at the Studio hired someone else smart. What I do know is that Marvel is playing with fire with this. They know how to make roller coasters. They know how to seem profound to teenagers. And they know how to frame
+		 a shot. But now, what? Will we expect all of their films to make fun of the Marvel empire? Will this last bastion of non-ironic teen juice dissolve like westerns did after Leone? Is it impossible now to have a Star Wars with no snickering?	With millions of others, I liked this in many ways. Seemingly alone, I find the other Marvel projects
+		 unbearable, uncinematic, solipsistic. If I could tease out one thing to celebrate in this, it would be the tree. It is a character that becomes an environment. Twice. It is a character that contradicts the standard Marvel speechifying. Most striking of all, it is the only character to break the fourth wall. In the middle of the ultimate battle,
+		 it performs a fight move typical of Marvel: performance fighting, the kind that assumes there is a viewer to admire the silliness. Then Groot turns to the audience, looks directly at us and grins as if he is the only one who understands what is going on. Did anyone else think of Hudson Hawk during that first Indiana Jones steal-the-orb sequence?'),
+
+	('Oblivion','One measure of a science fiction movie is whether the science and fiction are coherent. I''ve been following the Hunger Games saga and this is driving me crazy. Some technology is advanced, some adopted from the sixties. In good hands, like with Nolan''s Interstellar, this could be used to advantage. In that case, essential plot points
+		depend on the limits or reach of technology. Because some is advanced and some not, I can''t understand the world. I can''t enter it. I know the series is popular with young girls, and I assume that is because the technology is invisible, the politics drive the world and what matters is teen love (and family).Here, the writing and art direction
+		get this bit right. Everything we popularly assume about tech is advanced a step and half. The story is silly. The actions of the characters are cartoonish but understandable. The climax is yet another flight into an orbiting alien vessel, the destruction of which saves the world. And is has our smiling boy. But despite all this, it feels comfortable
+		because we can fit ourselves in the world, in the movie. The one exception is the radio. I get that what keeps this couple (the one we originally see) together, is engineered nostalgia. And that the woman in control and all her presentation, including the static is designed to evoke the old. But how is it that our Earthly minions can block the signal?
+		How is it that alligator clips and the wrong sized antenna are able to control the decades old ship where our master race cannot?'),
+
+	('Sherlock Holmes','Yet another appropriation of the Holmes character. In this case, they had 23 minutes to fill with enough attractiveness to sell stuff. 
+		The form demands light banter, very simple plots and secondary characters, and lots of slugging. Slugging is required. Among the episodes I watched was
+		one where most of the resolution of the story had Watson and Holmes competing for good punches. Like other appropriations of the Holmes character, only
+		the affect is used, and none of the dynamics. This is Holmes just barely in name only, and the use of Watson.'),
+
+	('Interstellar','The good news that we have the brothers reunited and again working on circular narrative. Again, we have a powerful narrative arc that shifts in unexpected and engages in expected ways.
+		The device is hackneyed: messages from the future, but is handled deftly. Where it is clumsy, we are competently distracted by narrative and visual process. The love story that drives this is novel enough to not fall into one of the three formulas commonly used for ''love,'' (despite McConaughey) or two for father-rescues-daughter. We have a chosen
+		child who saves the world by supernatural intervention, but again, this doesn''t distract. These accomplishments alone make this worth experiencing because many devices are used to reset our expectations from formulas. Some fail horribly and that keeps this film from my absolute essential viewing list; I''ll get to those in a moment. But all that are
+		under the control of the filmmaker are so well considered that they bear mention. Take, for example the visual setting. The story itself is about the folding of time, but in a subtle way. The time of the story is in the future, but the setting is in the past. We refer to the dustbowl. All the cars, buildings, clothes and verbal expressions are vaguely
+		from that era. We never see a brand that would pin down the time. More powerfully, the film itself is made as a science fiction film would be in the 50s-60s, using notions and tropes from that era. The robot is from "Forbidden Planet." The notion that a world-saving enterprise rests on the mathematical attempts of one man alone. That a vast enterprise 
+		is actually secret and located in one spot, with no suppliers. That construction of a spaceship requires welding sparks. That a heavy lift launch can occur in a building. Look at the computer screens. Nearly all are commandline interfaces. The switches and control panels are from the DEW line era. They haven''t managed to use legacy fonts in the signage,
+		but it looks like they avoided the most obvious: helvetica. Even the drone is a currently obsolete model. Underscoring all this is setting the film in Texas. Malick, and before him Bogdanovich, Hooper, Welles exploited the fact that Texas lives in two eras, sucking riches from the present while defining itself in some fictitious and better past. The film
+		is also clearly in a future, after antiscience politicians have written technology out of the textbooks, denying the moon landing and forcing something named NASA underground. The ambiguity of time is conveyed subconsciously and works. I think they used some recorded interviews from the actual dustbowl era. But the flaw, the underlying decay in this film
+		is in who they relied on for the science. They clearly separated the science of the adopted genre (noted above) from the science used in the actual extraterrestrial events. They chose renown physicist Kip Thorne as their authority. The man is an important scientist and reportedly very engaging. But the world of such scientists is divided between those who
+		believe in the primary eminence of geometry and those who believe instead in ordered mechanics. This is a deep divide, highly polarized when the work gets going. Which is better for the problems at hand is irrelevant here. But which is better for cinematic depictions of encounters with the forces of the world… well there is no contest and Noland chose unwisely.
+		I may write about this. A good title may be the Carl Sagan effect. On other unrelated matters, some unresolved minor plot threads remain. The finished film exceeded the time budget for story-before-launch as it is, but we''d like to know what the reason for introducing the drone was and why it was important. A bit worse: In the film, we have a very hard won
+		ability to send messages back in time, describing deep science from inside a black hole. I get that. But ''before'' all those events, some other souls sent back messages and the physical artifact of the wormhole. Why not use that mechanism, unless the much-mentioned notion of the urges of love are essential to the bridge?'),
+
+	('The Extendables','When you push the steroids, you do damage to your body. Your ability to have sex goes away and you get depressed. Your mental acuity suffers. These are known effects that are accepted by actors who have little to offer other than muscles. One expects these people to be dummies, obsessed with demonstrating prowess.Now here is an interesting movie.
+		I am always interested when an actor funds his own project, writing directing and starring in it. I really didn''t know this guy, but on some research he seems not bad as an actor.The hook here is that he plays a character merging Schwarzenegger, Stallone, Segal and Van Damme, all of whom he has worked with. Everything in this movie, he claims, is something he
+		witnessed from one of these guys. Much of what is played out has to do with penis obsession, and the rest having to do with narcissistic disruptions on the set. Now, actually I find the idea interesting, because movies about movie-making can be pretty rich stuff. Also, I study the relationship between one political party in the US, their macho posturing and the
+		relationship with these very same guys. The result is well enough done, but boring. These guys are boring; their obsessions and obstructive behavior is as well. There is no redemption as is usual in *damage movies.* There is no connection with what happens when a president, his military and his news network consume these muscle movies. All we have is an expose
+		of nitwits being nitwits. It would be hard to find the humor in that. The title is unfortunate, because you have to struggle a bit to get it. It has to do with the dildo two of these guys wear.')
+
+
+-- Creating TextAnalytics type
+CREATE TYPE dbo.TextAnalytics
+EXTERNAL NAME PolyService.[PolyService.Azure.TextAnalytics];
+GO
+DECLARE @analytics as dbo.TextAnalytics = ''
+
+--Use Customer ID and Primary Account Key from https://datamarket.azure.com/account
+SET @analytics = @analytics.SetNamePass('8aa3ec30-cbda-4ff2-903f-0ca35042554b','dK89y9w8CRggDxQCVh6iZ/mgTTH6bAwDwp4xoXmMHnM')		 
+SELECT Name, @analytics.GetSentiment(Review) as ReviewGrade, @analytics.GetKeyPhrases(Review) as KeyWords
+FROM MovieReviews
+
+DROP TABLE MovieReviews
+
+DROP TYPE dbo.TextAnalytics

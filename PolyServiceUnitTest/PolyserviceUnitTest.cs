@@ -5,12 +5,33 @@ using System.Net;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SqlServer.PolyService;
+using PolyService.Azure;
+using PolyService.Service;
 
 namespace PolyServiceUnitTest
 {
     [TestClass]
     public class PolyserviceUnitTest
     {
+        /// <summary>
+        /// Test Method that checks whether Get
+        /// and UploadContent works properly
+        /// </summary>
+        [TestMethod]
+        public void DataSourceSerDe()
+        {
+            var DataSource = "my-account";
+            var Username = "my-username";
+            var Pasword = "my-pasword";
+            var Type = "my-type";
+            var ds = PolyService.Common.DataSource.Parse(string.Format("Data Source={0};Username={1};Password={2};Provider={3}", DataSource,Username,Pasword,Type));
+
+            Assert.AreEqual(DataSource, ds.Uri, "Uri is not loaded");
+            Assert.AreEqual(Username, ds.Username, "Username is not loaded");
+            Assert.AreEqual(Pasword, ds.Password, "Password is not loaded");
+            Assert.AreEqual(Type, ds.Provider, "DataSourceType is not loaded");
+
+        }
         /// <summary>
         /// Test Method that checks whether Get
         /// and UploadContent works properly
@@ -69,7 +90,7 @@ namespace PolyServiceUnitTest
         public void ODataSerialize()
         {
             OData original = OData.Parse("http://services.odata.org/V4/Northwind/Northwind.svc/Customers");
-            original.Returns("CustomerID, CompanyName,Address,City,Country,Phone")
+            original.SelectFields("CustomerID, CompanyName,Address,City,Country,Phone")
                 .Filter("Country eq 'Mexico'")
                 .OrderBy("Phone asc")
                 .Skip(2)
@@ -97,14 +118,31 @@ namespace PolyServiceUnitTest
         [TestMethod]
         public void TableSerialize()
         {
-            TableStorage original = TableStorage.Parse("TableRootUrl");
-            original.SetAccountKey("pass");
+            Table original = Table.Parse("https://techready.table.core.windows.net/article");
+            original.SetAccountKey("hb5qy6eXLqIdd2D1hElWoIa8EmLxjO+sBGLJcRuKUiQEYedSz4m8ALn8BBj0LvGMHdrTHDvWjUZg3Gu7bubKLg==");
             original.Value("property1", "value1")
                 .KeyValue("key")
                 .IntValue("property2", 15);
 
-            TableStorage copy = this.RWSSerialize<TableStorage>(original);
+            Table copy = this.RWSSerialize<Table>(original);
             Assert.IsTrue(copy.IsEqual(original), "Table match failed");
+        }
+
+        /// <summary>
+        /// Test method that checks CRUD operations for TableStorage
+        /// </summary>
+        [TestMethod]
+        public void TableStorageCRUD()
+        {
+            Table ts = Table.Parse("https://techready.table.core.windows.net");
+            ts.SetAccountKey("hb5qy6eXLqIdd2D1hElWoIa8EmLxjO+sBGLJcRuKUiQEYedSz4m8ALn8BBj0LvGMHdrTHDvWjUZg3Gu7bubKLg==");
+            //ts.KeyValue("1").Value("Name", "Jovan").Value("Surname", "Popovic").IntValue("Age", 34).InsertInto("article");
+
+            var data = ts.FromTable("article").SelectFields("Name,Surname").Get();
+
+            Assert.IsNotNull(data);
+
+
         }
 
         /// <summary>
@@ -113,9 +151,9 @@ namespace PolyServiceUnitTest
         [TestMethod]
         public void AzureSearchSerialize()
         {
-            AzureSearch original = AzureSearch.Parse("AzureSearchRootUrl"); 
+            SearchService original = SearchService.Parse("AzureSearchRootUrl"); 
             original.SetApiKey("API-KEY FOR AZURE SEARCH");
-            AzureSearch copy = this.RWSSerialize<AzureSearch>(original);
+            SearchService copy = this.RWSSerialize<SearchService>(original);
             Assert.IsTrue(copy.IsEqual(original), "AzureSearch match failed");
         }
 
