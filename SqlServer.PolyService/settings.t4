@@ -20,7 +20,13 @@
 <# string docDbApiKey = "hdI18eZC0tuiE9i14bvGH3Q=="; #>
 <# // Account name for Neo4J #>
 <# string neo4jAccount = "t4"; #>
-<# // Demo username #>
+<# // Demo neo4j username #>
 <# string neo4jUsername = "ty"; #>
-<# // Demo password #>
+<# // Demo neo4j password #>
 <# string neo4jPassword = "ty"; #>
+<# // Demo DeployR URL #>
+<# string deployR_Url = "10.190.13.50:7400"; #>
+<# // Demo username #>
+<# string deployR_Project = "PROJECT-b00a533f-f0f9-4be2-847c-5a4c4156e392"; #>
+<# // Demo password #>
+<# string deployR_Cookie = "2700D5199AA22A680E8DDB6F1B90EB69"; #>

@@ -2,7 +2,7 @@
 use __json
 
 CREATE TYPE Neo4j
-EXTERNAL NAME PolyService.[SqlServer.PolyService.Neo4j];
+EXTERNAL NAME PolyService.[PolyService.Service.Neo4j];
 
 GO
 

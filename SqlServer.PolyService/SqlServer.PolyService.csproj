@@ -53,6 +53,9 @@
     <Compile Include="Azure\MachineLearning\BinaryClassifier.cs" />
     <Compile Include="Common\DataSource.cs" />
     <Compile Include="Common\ILogin.cs" />
+    <Compile Include="Service\DeployR\DeployR.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Service\IQueryableService.cs" />
     <Compile Include="Service\OData\IOData.cs" />
     <Compile Include="Utilities\CreateCSV.cs" />
@@ -114,6 +117,11 @@
       <DesignTime>True</DesignTime>
     </Content>
     <Content Include="Demo\Setup-functions.sql" />
+    <Content Include="Service\DeployR\demo.sql">
+      <DependentUpon>demo.tt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Content>
     <Content Include="Service\Neo4j\demo.sql">
       <DependentUpon>demo.tt</DependentUpon>
       <AutoGen>True</AutoGen>
@@ -148,6 +156,10 @@
       <LastGenOutput>Setup-assemby.sql</LastGenOutput>
     </None>
     <None Include="packages.config" />
+    <None Include="Service\DeployR\demo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>demo.sql</LastGenOutput>
+    </None>
     <None Include="Service\Neo4j\demo.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>demo.sql</LastGenOutput>

@@ -5,7 +5,7 @@
 use <#= database #>
 
 CREATE TYPE Neo4j
-EXTERNAL NAME <#= assembly #>.[SqlServer.PolyService.Neo4j];
+EXTERNAL NAME <#= assembly #>.[PolyService.Service.Neo4j];
 
 GO
 

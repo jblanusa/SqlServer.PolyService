@@ -7,6 +7,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SqlServer.PolyService;
 using PolyService.Azure;
 using PolyService.Service;
+using Newtonsoft.Json.Linq;
 
 namespace PolyServiceUnitTest
 {
@@ -294,5 +295,151 @@ namespace PolyServiceUnitTest
             Assert.IsTrue(expected == actual, "Serialize and Deserialize failed");
             return copy;
         }
+
+        /// <summary>
+        /// Test Method that checks whether Get
+        /// and UploadContent works properly
+        /// </summary>
+        [TestMethod]
+        public void DeployRLogin()
+        {
+            //project=PROJECT-574a7a5d-c602-4341-8346-4d1d8d362e18&enableConsoleEvents=true&author=admin&filename=add.r&directory=root&version=&csvinputs=&robjects=zbir%2Cx_numeric_vector&inputs=%7B%22input_x%22%3A%7B%22type%22%3A%22primitive%22%2C%22value%22%3A2%7D%2C%22input_y%22%3A%7B%22type%22%3A%22primitive%22%2C%22value%22%3A5%7D%7D&format=json
+            var url = "http://10.190.13.50:7400/deployr/r/user/login";
+            var deployR = PolyService.Service.DeployR.Parse(string.Format("Data Source={0};Username={1};Password={2}", url, "admin", "dogmat1C"));
+            System.Data.SqlTypes.SqlChars response = deployR.Login();
+
+
+            Assert.AreNotEqual(new string(response.Value), "");
+
+            string r = string.Empty;
+            foreach (var c in response.Value) r += c;
+
+            Assert.AreNotEqual(r, "");
+            JObject json = JObject.Parse(r);
+            string cookie = (string)json["deployr"]["response"]["httpcookie"];
+
+        }
+
+        /// <summary>
+        /// Test Method that checks whether Get
+        /// and UploadContent works properly
+        /// </summary>
+        [TestMethod]
+        public void DeployRCode()
+        {
+            //project=PROJECT-574a7a5d-c602-4341-8346-4d1d8d362e18&enableConsoleEvents=true&author=admin&filename=add.r&directory=root&version=&csvinputs=&robjects=zbir%2Cx_numeric_vector&inputs=%7B%22input_x%22%3A%7B%22type%22%3A%22primitive%22%2C%22value%22%3A2%7D%2C%22input_y%22%3A%7B%22type%22%3A%22primitive%22%2C%22value%22%3A5%7D%7D&format=json
+            var url = "http://10.190.13.50:7400/deployr/r/project/execute/code";
+            var deployR = PolyService.Service.DeployR.Parse(string.Format("Data Source={0};Username={1};Password={2}", url, "admin", "dogmat1C"));
+
+
+            //System.Data.SqlTypes.SqlChars responseLogin = deployR.Login();
+            //string r = string.Empty;
+            //foreach (var c in responseLogin.Value) r += c;
+            //JObject json = JObject.Parse(r);
+            //string cookie = (string)json["deployr"]["response"]["httpcookie"];
+
+            //deployR.SetCookie(cookie);
+
+            deployR.Project("PROJECT-b00a533f-f0f9-4be2-847c-5a4c4156e392");
+            deployR.SetCookie("2700D5199AA22A680E8DDB6F1B90EB69");
+            deployR.RObjects("zbir,x_numeric_vector");
+            deployR.Inputs(@"{""input_x"":{""type"":""primitive"",""value"":20},""input_y"":{""type"":""primitive"",""value"":500}}");
+
+            System.Data.SqlTypes.SqlChars response = deployR.ExecuteQuery(
+@"require(RevoScriptTools)
+
+revoInput('{""name"":""input_x"",""default"":2,""render"":""integer""}')
+revoInput('{""name"":""input_y"",""default"":5,""render"":""integer""}')
+
+zbir <- input_x + input_y
+x_numeric_vector <- as.double(c(10:25))");
+
+            string r2 = string.Empty;
+            foreach (var c in response.Value) r2 += c;
+
+            Assert.AreNotEqual(new string(response.Value), "");
+
+            //string r = string.Empty;
+            //foreach(var c in response.ToCharArray())
+            //
+            //var Username = "my-username";
+            //var Pasword = "my-pasword";
+            //var Type = "my-type";
+            //var ds = PolyService.Service.Parse(string.Format("Data Source={0};Username={1};Password={2};Provider={3}", DataSource, Username, Pasword, Type));
+
+            //Assert.AreEqual(DataSource, ds.Uri, "Uri is not loaded");
+            //Assert.AreEqual(Username, ds.Username, "Username is not loaded");
+            //Assert.AreEqual(Pasword, ds.Password, "Password is not loaded");
+            //Assert.AreEqual(Type, ds.Provider, "DataSourceType is not loaded");
+
+        }
+
+        /// <summary>
+        /// Test Method that checks whether Get
+        /// and UploadContent works properly
+        /// </summary>
+        [TestMethod]
+        public void DeployRScript()
+        {
+            //project=PROJECT-574a7a5d-c602-4341-8346-4d1d8d362e18&enableConsoleEvents=true&author=admin&filename=add.r&directory=root&version=&csvinputs=&robjects=zbir%2Cx_numeric_vector&inputs=%7B%22input_x%22%3A%7B%22type%22%3A%22primitive%22%2C%22value%22%3A2%7D%2C%22input_y%22%3A%7B%22type%22%3A%22primitive%22%2C%22value%22%3A5%7D%7D&format=json
+            var url = "http://10.190.13.50:7400/deployr/r/project/execute/script";
+            var deployR = PolyService.Service.DeployR.Parse(string.Format("Data Source={0};Username={1};Password={2}", url, "admin", "dogmat1C"));
+            deployR.Project("PROJECT-b00a533f-f0f9-4be2-847c-5a4c4156e392");
+            deployR.SetCookie("2700D5199AA22A680E8DDB6F1B90EB69");
+            deployR.RObjects("zbir,x_numeric_vector");
+            deployR.Inputs(@"{""input_x"":{""type"":""primitive"",""value"":2},""input_y"":{""type"":""primitive"",""value"":5}}");
+
+
+
+
+            //if (false)
+            //{
+            //    deployR.SetCookie("2700D5199AA22A680E8DDB6F1B90EB69"); // radi
+            //}
+            //else
+            //{
+                System.Data.SqlTypes.SqlChars responseLogin = deployR.Login();
+                //string r = string.Empty;
+                //foreach (var c in responseLogin.Value) r += c;
+                //JObject json = JObject.Parse(r);
+                //string cookie = (string)json["deployr"]["response"]["httpcookie"];
+                //deployR.SetCookie(cookie);
+            //}
+
+
+
+
+            //            var response = deployR.ExecuteQuery(
+            //@"require(RevoScriptTools)
+            //
+            //revoInput('{""name"":""input_x"",""default"":2,""render"":""integer""}')
+            //revoInput('{""name"":""input_y"",""default"":5,""render"":""integer""}')
+            //
+            //zbir <- input_x + input_y
+            //x_numeric_vector <- as.double(c(10:25))").Value.ToString();
+
+
+            var response = deployR.ExecuteScript("add.r");
+
+            string r2 = string.Empty;
+            foreach (var c in response.Value) r2 += c;
+            var json2 = JObject.Parse(r2);
+
+
+            Assert.AreNotEqual(response, "");
+
+            //
+            //var Username = "my-username";
+            //var Pasword = "my-pasword";
+            //var Type = "my-type";
+            //var ds = PolyService.Service.Parse(string.Format("Data Source={0};Username={1};Password={2};Provider={3}", DataSource, Username, Pasword, Type));
+
+            //Assert.AreEqual(DataSource, ds.Uri, "Uri is not loaded");
+            //Assert.AreEqual(Username, ds.Username, "Username is not loaded");
+            //Assert.AreEqual(Pasword, ds.Password, "Password is not loaded");
+            //Assert.AreEqual(Type, ds.Provider, "DataSourceType is not loaded");
+
+        }
+ 
     }
 }

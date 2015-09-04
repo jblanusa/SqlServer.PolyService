@@ -11,7 +11,7 @@ namespace PolyService.Service
     [SqlUserDefinedType(Format.UserDefined, MaxByteSize = -1)]
     public class RestWebService : INullable, IBinarySerialize
     {
-
+        protected Action<string> SetCookieAction = null;
         /// <summary>
         /// Type of the data source (e.g. DocumentDb, AzureSearch, REST Service).
         /// </summary>
@@ -170,7 +170,10 @@ namespace PolyService.Service
                 }
                 try
                 {
-                    return client.UploadString(Uri.EscapeUriString(GetURL()), body);
+                    var response = client.UploadString(Uri.EscapeUriString(GetURL()), body);
+                    if (this.SetCookieAction != null)
+                        this.SetCookieAction(client.ResponseHeaders["Set-Cookie"]);
+                    return response;
                 }
                 catch (Exception ex)
                 {
@@ -237,6 +240,13 @@ namespace PolyService.Service
                 {
                     IAzureService aws = (IAzureService)this;
                     aws.Key = ds.Username;
+                }
+
+                if (this is ILogin)
+                {
+                    ILogin l = (ILogin)this;
+                    l.Username = ds.Username;
+                    l.Password = ds.Password;
                 }
 
                 return this;
