@@ -193,7 +193,7 @@ namespace PolyService.Azure
             Version = r.ReadString();
         }
 
-        public override bool IsEqual(RestWebService obj)
+        public override bool IsEqual(WebService obj)
         {
             if (obj == null || GetType() != obj.GetType())
                 return false;

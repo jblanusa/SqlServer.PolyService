@@ -84,7 +84,7 @@ namespace PolyService.Service
             try
             {
                 base.url = new StringBuilder(url.Substring(0, url.IndexOf("/deployr/r/")) + "/deployr/r/user/login");
-                return new SqlChars(base.Post(body.ToString()).ToCharArray());
+                return new SqlChars(base.SendPostRequest(body.ToString()).ToCharArray());
             }
             catch
             {
@@ -116,7 +116,7 @@ namespace PolyService.Service
             {
                 body.AppendFormat("&robjects={0}", this.robjects);
             }
-            return new SqlChars(base.Post(body.ToString()).ToCharArray());
+            return new SqlChars(base.SendPostRequest(body.ToString()).ToCharArray());
         }
 
         /// <summary>
@@ -140,7 +140,7 @@ namespace PolyService.Service
             {
                 body.AppendFormat("&robjects={0}", this.robjects);
             }
-            return new SqlChars(base.Post(body.ToString()).ToCharArray());
+            return new SqlChars(base.SendPostRequest(body.ToString()).ToCharArray());
         }
 
         #region Common inherited methods
@@ -155,7 +155,7 @@ namespace PolyService.Service
         [SqlMethod(OnNullCall = false)]
         public new DeployR Param(string parameter, string value)
         {
-            base.AddParameter(parameter, value);
+            base.AddRequestParameter(parameter, value);
             return this;
         }
 
@@ -163,8 +163,8 @@ namespace PolyService.Service
         [return: SqlFacet(MaxSize = -1)]
         public new string Get()
         {
-            string data = base.Get();
-            base.ClearParameters();
+            string data = base.SendGetRequest();
+            base.ClearRequestParameters();
             return data;
         }
 
@@ -172,10 +172,12 @@ namespace PolyService.Service
         [return: SqlFacet(MaxSize = -1)]
         public new string Post(string body)
         {
-            string data = base.Post(body);
-            base.ClearParameters();
+            string data = base.SendPostRequest(body);
+            base.ClearRequestParameters();
             return data;
         }
+
+
 
         public override string ToString()
         {
@@ -220,7 +222,7 @@ namespace PolyService.Service
 
         }
 
-        public override bool IsEqual(RestWebService obj)
+        public override bool IsEqual(WebService obj)
         {
             if (obj == null || GetType() != obj.GetType())
                 return false;

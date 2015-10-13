@@ -80,7 +80,7 @@ namespace PolyService.Azure
         [return: SqlFacet(MaxSize = -1)]
         public new string Get()
         {
-            return base.Get();
+            return base.SendGetRequest();
         }
 
         /// <summary>
@@ -92,7 +92,7 @@ namespace PolyService.Azure
         [return: SqlFacet(MaxSize = -1)]
         public new string Post(string body)
         {
-            return base.Post(body);
+            return base.SendPostRequest(body);
         }
 
         public override string ToString()
@@ -130,7 +130,7 @@ namespace PolyService.Azure
             Version = r.ReadString();
         }
 
-        public override bool IsEqual(RestWebService obj)
+        public override bool IsEqual(WebService obj)
         {
             if (obj == null || GetType() != obj.GetType())
                 return false;

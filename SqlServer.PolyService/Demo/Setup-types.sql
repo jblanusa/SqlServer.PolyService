@@ -7,6 +7,9 @@ GO
 IF TYPE_ID('dbo.WebService') IS NOT NULL
 DROP TYPE dbo.WebService
 GO
+IF TYPE_ID('dbo.RestWebService') IS NOT NULL
+DROP TYPE dbo.RestWebService
+GO
 IF TYPE_ID('dbo.AzureBlob') IS NOT NULL
 DROP TYPE dbo.AzureBlob
 GO
@@ -54,6 +57,11 @@ GO
 
 --Creating RestWebService type
 CREATE TYPE dbo.WebService
+EXTERNAL NAME [PolyService].[PolyService.Service.WebService];
+GO
+
+--Creating RestWebService type
+CREATE TYPE dbo.RestWebService
 EXTERNAL NAME [PolyService].[PolyService.Service.RestWebService];
 GO
 

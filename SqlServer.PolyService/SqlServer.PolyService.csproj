@@ -58,12 +58,13 @@
     </Compile>
     <Compile Include="Service\IQueryableService.cs" />
     <Compile Include="Service\OData\IOData.cs" />
+    <Compile Include="Service\WebService.cs" />
     <Compile Include="Utilities\CreateCSV.cs" />
     <Compile Include="Azure\MachineLearning\TextAnalytics.cs" />
     <Compile Include="Azure\Search\AzureSearch.cs" />
     <Compile Include="Azure\Storage\Table.cs" />
     <Compile Include="Utilities\Compress.cs" />
-    <Compile Include="Azure\DocumentDb\DocumentDB.cs" />
+    <Compile Include="Azure\DocumentDB\DocumentDB.cs" />
     <Compile Include="Azure\IAzureService.cs" />
     <Compile Include="Service\Neo4j\Neo4j.cs" />
     <Compile Include="Service\OData\OData.cs" />
@@ -73,7 +74,7 @@
     <Compile Include="Service\RestWebService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Azure\DocumentDb\demo.tt">
+    <None Include="Azure\DocumentDB\demo.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>demo.sql</LastGenOutput>
     </None>
@@ -81,7 +82,7 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>demo.sql</LastGenOutput>
     </None>
-    <Content Include="Azure\DocumentDb\demo.sql">
+    <Content Include="Azure\DocumentDB\demo.sql">
       <DependentUpon>demo.tt</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

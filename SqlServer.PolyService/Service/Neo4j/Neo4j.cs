@@ -25,6 +25,9 @@ namespace PolyService.Service
         private Dictionary<int, string> formatArgs = new Dictionary<int, string>();
         private  Dictionary<int, string> relationArgs = new Dictionary<int, string>();
 
+        /// <summary>
+        /// Username used to access Neo4j service
+        /// </summary>
         public string Password
         {
             get
@@ -40,6 +43,10 @@ namespace PolyService.Service
                 }
             }
         }
+
+        /// <summary>
+        /// Pasword used to access Neo4j service
+        /// </summary>
         public string Username
         {
             get
@@ -74,15 +81,15 @@ namespace PolyService.Service
         [return: SqlFacet(MaxSize = -1)]
         public new string Get()
         {
-            return base.Get();
+            return base.SendGetRequest();
         }
 
         [SqlMethod(OnNullCall = false)]
         [return: SqlFacet(MaxSize = -1)]
-        public new string Post(string body)
+        public string Post(string body)
         {
             
-            return base.Post(body);
+            return base.SendPostRequest(body);
         }
 
         public override string ToString()
@@ -90,7 +97,7 @@ namespace PolyService.Service
             return base.ToString();
         }
 
-        public static Neo4j Null
+        public static new Neo4j Null
         {
             get
             {
@@ -99,14 +106,9 @@ namespace PolyService.Service
         }
 
         [SqlMethod(OnNullCall = false)]
-        public static Neo4j Parse(SqlString s)
+        public static new Neo4j Parse(SqlString s)
         {
             return RestWebService.ParseLiteral<Neo4j>(s);
-        }
-
-        public override string GetURL()
-        {
-            return base.GetURL();
         }
 
         public override void Write(System.IO.BinaryWriter w)
@@ -176,7 +178,7 @@ namespace PolyService.Service
             return true;
         }
 
-        public override bool IsEqual(RestWebService obj)
+        public override bool IsEqual(WebService obj)
         {
             if (obj == null || GetType() != obj.GetType())
                 return false;

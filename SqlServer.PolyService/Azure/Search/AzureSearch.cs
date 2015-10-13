@@ -55,7 +55,7 @@ namespace PolyService.Azure
             set
             {
                 versionString = value;
-                base.AddPersistantParameter("api-version", Version);
+                base.AddUrlParameter("api-version", Version);
             }
         }
 
@@ -124,9 +124,9 @@ namespace PolyService.Azure
         public static SearchService Parse(SqlString s)
         {
             SearchService azs = RestWebService.ParseLiteral<SearchService>(s);
-            if (azs.persistantParameters.ContainsKey("api-version"))
+            if (azs.urlParameters.ContainsKey("api-version"))
             {
-                azs.versionString = azs.persistantParameters["api-version"];
+                azs.versionString = azs.urlParameters["api-version"];
             }
             else
             {
@@ -149,7 +149,7 @@ namespace PolyService.Azure
             Version = r.ReadString();
         }
 
-        public override bool IsEqual(RestWebService obj)
+        public override bool IsEqual(WebService obj)
         {
             if (obj == null || GetType() != obj.GetType())
                 return false;
@@ -233,55 +233,55 @@ namespace PolyService.Azure
         [SqlMethod(OnNullCall = false)]
         public SearchService Search(SqlString field)
         {
-            AddParameter("search", field.Value);
+            AddRequestParameter("search", field.Value);
             return this;
         }
 
         public SearchService SearchModeAll()
         {
-            AddParameter("searchMode", "all");
+            AddRequestParameter("searchMode", "all");
             return this;
         }
 
         public SearchService Facet(SqlString field)
         {
-            AddParameter("facet", field.Value);
+            AddRequestParameter("facet", field.Value);
             return this;
         }
 
         public SearchService SearchFields(SqlString field)
         {
-            AddParameter("searchFields", field.Value);
+            AddRequestParameter("searchFields", field.Value);
             return this;
         }
 
         public SearchService Highlight(SqlString field)
         {
-            AddParameter("highlight", field.Value);
+            AddRequestParameter("highlight", field.Value);
             return this;
         }
 
         public SearchService HighlightPreTag(SqlString field)
         {
-            AddParameter("highlightPreTag", field.Value);
+            AddRequestParameter("highlightPreTag", field.Value);
             return this;
         }
 
         public SearchService HighlightPostTag(SqlString field)
         {
-            AddParameter("highlightPostTag", field.Value);
+            AddRequestParameter("highlightPostTag", field.Value);
             return this;
         }
 
         public SearchService ScoringProfile(SqlString field)
         {
-            AddParameter("scoringProfile", field.Value);
+            AddRequestParameter("scoringProfile", field.Value);
             return this;
         }
 
         public SearchService ScoringParameter(SqlString field)
         {
-            AddParameter("scoringParameter", field.Value);
+            AddRequestParameter("scoringParameter", field.Value);
             return this;
         }
         #endregion

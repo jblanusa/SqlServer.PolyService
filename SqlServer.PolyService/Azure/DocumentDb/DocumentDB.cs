@@ -93,7 +93,7 @@ namespace PolyService.Azure
             return base.ToString();
         }
 
-        public override bool IsEqual(RestWebService obj)
+        public override bool IsEqual(WebService obj)
         {
             if (obj == null || GetType() != obj.GetType())
                 return false;
@@ -104,12 +104,12 @@ namespace PolyService.Azure
             return base.IsEqual(ddb);
         }
 
-        protected override void AddParameter(string parameter, string value)
+        protected override void AddRequestParameter(string parameter, string value)
         {
             //DocumentDB doesn't have parameters
         }
 
-        protected override void AddPersistantParameter(string parameter, string value)
+        protected override void AddUrlParameter(string parameter, string value)
         {
             //DocumentDB doesn't have parameters
         }
@@ -185,7 +185,7 @@ namespace PolyService.Azure
             base.AddHeader("x-ms-version", versionString);
 
             string jsonQuery = "{\"query\":\"" + query.Value + "\"}";
-            string response = Post(jsonQuery);
+            string response = SendPostRequest(jsonQuery);
             return new SqlChars(response.ToCharArray());
         }
 
@@ -209,7 +209,7 @@ namespace PolyService.Azure
             string collectionId = string.IsNullOrEmpty(this.Collection) ? GetResourceID("colls") : this.Collection;
             base.AddHeader("Authorization", getAuthorizationHeaderUsingMasterKey("post", "docs", collectionId, date, Key));
 
-            return new SqlChars(Post(body.Value).ToCharArray());
+            return new SqlChars(SendPostRequest(body.Value).ToCharArray());
         }
 
         /// <summary>
@@ -232,7 +232,7 @@ namespace PolyService.Azure
             base.AddHeader("x-ms-date", date);
             base.AddHeader("Authorization", getAuthorizationHeaderUsingMasterKey("delete", resourceType, resourceID, date, Key));
             
-            Delete(this.GetURL() + '/' + resourceID);
+            SendDeleteRequest(this.GetURL() + '/' + resourceID);
 
             return this;
         }

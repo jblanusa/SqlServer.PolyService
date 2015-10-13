@@ -28,9 +28,9 @@ namespace PolyService.Azure
             StringBuilder text = new StringBuilder(body);   
             text.Replace(' ', '+');
             this.url.Append("/GetSentiment");
-            base.AddParameter("Text",text.ToString());
+            base.AddRequestParameter("Text",text.ToString());
             string result =  base.Get();
-            base.ClearParameters();
+            base.ClearRequestParameters();
             this.url.Replace("/GetSentiment", "");
             string[] split = result.Split(':');
             return float.Parse(split[3].Replace("}",""));
@@ -48,9 +48,9 @@ namespace PolyService.Azure
             StringBuilder text = new StringBuilder(body);
             text.Replace(' ', '+');
             this.url.Append("/GetKeyPhrases");
-            base.AddParameter("Text", text.ToString());
+            base.AddRequestParameter("Text", text.ToString());
             string result = base.Get();
-            base.ClearParameters();
+            base.ClearRequestParameters();
             this.url.Replace("/GetKeyPhrases", "");
             string[] split = result.Split(':');
             return split[3].Replace("[", "").Replace("]","").Replace("}","").Trim();

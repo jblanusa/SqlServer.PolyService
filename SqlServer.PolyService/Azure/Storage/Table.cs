@@ -134,7 +134,7 @@ namespace PolyService.Azure
             PartitionKeyAdded = r.ReadBoolean();
         }
 
-        public override bool IsEqual(RestWebService obj)
+        public override bool IsEqual(WebService obj)
         {
             if (obj == null || GetType() != obj.GetType())
                 return false;
@@ -435,8 +435,8 @@ namespace PolyService.Azure
 			if(path == "") sb.Append("/");
 			else sb.Append(path);
 
-            if (this.persistantParameters.ContainsKey("comp"))
-                sb.Append("?comp=" + this.persistantParameters["comp"]);
+            if (this.urlParameters.ContainsKey("comp"))
+                sb.Append("?comp=" + this.urlParameters["comp"]);
 
             return sb.ToString();
         }
