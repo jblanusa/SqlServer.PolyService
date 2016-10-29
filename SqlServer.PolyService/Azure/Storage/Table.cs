@@ -238,7 +238,7 @@ namespace PolyService.Azure
         /// <param name="name">Table name</param>
         /// <returns>This object</returns>
         [SqlMethod(OnNullCall = false)]
-        public Table FromTable(SqlString name)
+        public Table From(SqlString name)
         {
             base.AddHeader("Accept", "application/json;odata=nometadata");
 
@@ -506,9 +506,9 @@ namespace PolyService.Azure
         }
 
         [SqlMethod(OnNullCall = false)]
-        public Table SelectFields(SqlString properties)
+        public Table Select(SqlString properties)
         {
-            base.SelectFields(properties);
+            base.Select(properties);
             return this;
         }
         #endregion

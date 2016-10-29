@@ -91,7 +91,7 @@ namespace PolyServiceUnitTest
         public void ODataSerialize()
         {
             OData original = OData.Parse("http://services.odata.org/V4/Northwind/Northwind.svc/Customers");
-            original.SelectFields("CustomerID, CompanyName,Address,City,Country,Phone")
+            original.Select("CustomerID, CompanyName,Address,City,Country,Phone")
                 .Filter("Country eq 'Mexico'")
                 .OrderBy("Phone asc")
                 .Skip(2)
@@ -139,7 +139,7 @@ namespace PolyServiceUnitTest
             ts.SetAccountKey("hb5qy6eXLqIdd2D1hElWoIa8EmLxjO+sBGLJcRuKUiQEYedSz4m8ALn8BBj0LvGMHdrTHDvWjUZg3Gu7bubKLg==");
             //ts.KeyValue("1").Value("Name", "Jovan").Value("Surname", "Popovic").IntValue("Age", 34).InsertInto("article");
 
-            var data = ts.FromTable("article").SelectFields("Name,Surname").Get();
+            var data = ts.From("article").Select("Name,Surname").Get();
 
             Assert.IsNotNull(data);
 

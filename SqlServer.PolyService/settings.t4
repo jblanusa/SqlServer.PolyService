@@ -24,9 +24,3 @@
 <# string neo4jUsername = "ty"; #>
 <# // Demo neo4j password #>
 <# string neo4jPassword = "ty"; #>
-<# // Demo DeployR URL #>
-<# string deployR_Url = "10.190.13.50:7400"; #>
-<# // Demo username #>
-<# string deployR_Project = "PROJECT-b00a533f-f0f9-4be2-847c-5a4c4156e392"; #>
-<# // Demo password #>
-<# string deployR_Cookie = "2700D5199AA22A680E8DDB6F1B90EB69"; #>

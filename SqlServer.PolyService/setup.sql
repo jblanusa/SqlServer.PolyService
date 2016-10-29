@@ -17,8 +17,7 @@ use __json
 ----------------------
 -- Install Assembly --
 ----------------------
-IF  EXISTS (SELECT * FROM sys.assemblies asms WHERE asms.name = N'PolyService' AND is_user_defined = 1)
-	DROP ASSEMBLY PolyService
+DROP ASSEMBLY IF  EXISTS PolyService
 GO
 
 CREATE ASSEMBLY PolyService

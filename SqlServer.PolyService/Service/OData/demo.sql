@@ -17,7 +17,7 @@ go
 
 declare @odata as dbo.OData = N'http://services.odata.org/V4/Northwind/Northwind.svc/Customers'
 select @odata
-		.Returns(N'CustomerID, CompanyName,Address,City,Country,Phone')
+		.[Select](N'CustomerID, CompanyName,Address,City,Country,Phone')
 		.Filter(N'Country eq ''Mexico''')
 		.OrderBy(N'Phone asc')
 		.Skip(2)

@@ -193,9 +193,9 @@ namespace PolyService.Azure
         }
 
         [SqlMethod(OnNullCall = false)]
-        public new SearchService Returns(SqlString properties)
+        public new SearchService Select(SqlString properties)
         {
-            base.SelectFields(properties);
+            base.Select(properties);
            return this;
         }
 

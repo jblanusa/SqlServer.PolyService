@@ -1,0 +1,13 @@
+*.xproj.user
+.vs/*
+.vscode/*
+packages/*
+bin/*
+node_modules/*
+obj/*
+*.sln
+*.log
+Properties/PublishProfiles/*
+appsettings.development.json
+project.lock.json
+wwwroot/libs/*

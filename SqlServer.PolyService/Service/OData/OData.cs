@@ -175,7 +175,7 @@ namespace PolyService.Service
         /// <param name="properties">Properties in the data source that should be fetched in the OData request.</param>
         /// <returns>OData instance configured to select only specified <paramref name="properties"/>.</returns>
         [SqlMethod(OnNullCall = false)]
-        public OData SelectFields(SqlString properties)
+        public OData Select(SqlString properties)
         {
             AddRequestParameter("$select", properties.Value.ToString());
             return this;

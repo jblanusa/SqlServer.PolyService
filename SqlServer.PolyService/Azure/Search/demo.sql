@@ -76,7 +76,7 @@ set @as = @as.SetApiKey('9DAC191BB26D7708DC7F2');
 SELECT *
 FROM OPENJSON( @as.Post(
 	(select top 10 'delete' as [@search.action], cast(id as nvarchar(5)) as id
-	from .article
+	from article
 	order by id
 	FOR JSON AUTO, ROOT('value'))), '$.value' )
 	 WITH ([key] int, status nvarchar(50))
