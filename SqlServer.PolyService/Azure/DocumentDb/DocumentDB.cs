@@ -62,12 +62,12 @@ namespace PolyService.Azure
         }
 
         [SqlMethod(OnNullCall = false)]
-        public static DocumentDB Parse(SqlString s)
+        public static new DocumentDB Parse(SqlString s)
         {
             return RestWebService.ParseLiteral<DocumentDB>(s);
         }
 
-        public static DocumentDB Null
+        public static new DocumentDB Null
         {
             get
             {

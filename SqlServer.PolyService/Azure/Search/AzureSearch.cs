@@ -9,7 +9,7 @@ namespace PolyService.Azure
     /// UDT that represent Azure Search account.
     /// It is described with api-key and url
     /// </summary>
-    [Microsoft.SqlServer.Server.SqlUserDefinedType(Format.UserDefined, MaxByteSize = 1000)]
+    [Microsoft.SqlServer.Server.SqlUserDefinedTypeAttribute(Microsoft.SqlServer.Server.Format.UserDefined, MaxByteSize = 1000)]
     public class SearchService : OData, IAzureService, IOData
     {
         private string apiKey;
@@ -112,7 +112,7 @@ namespace PolyService.Azure
             return base.ToString();
         }
 
-        public static SearchService Null
+        public static new SearchService Null
         {
             get
             {
@@ -121,7 +121,7 @@ namespace PolyService.Azure
         }
 
         [SqlMethod(OnNullCall = false)]
-        public static SearchService Parse(SqlString s)
+        public static new SearchService Parse(SqlString s)
         {
             SearchService azs = RestWebService.ParseLiteral<SearchService>(s);
             if (azs.urlParameters.ContainsKey("api-version"))
@@ -200,9 +200,9 @@ namespace PolyService.Azure
         }
 
         [SqlMethod(OnNullCall = false)]
-        public new SearchService FormatResult(SqlString properties)
+        public new SearchService Format(SqlString properties)
         {
-            base.FormatResult(properties);
+            base.Format(properties);
             return this;
         }
 

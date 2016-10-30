@@ -165,7 +165,7 @@ namespace PolyService.Azure
             return base.ToString();
         }
 
-        public static Blob Null
+        public static new Blob Null
         {
             get
             {
@@ -174,7 +174,7 @@ namespace PolyService.Azure
         }
 
         [SqlMethod(OnNullCall = false)]
-        public static Blob Parse(SqlString s)
+        public static new Blob Parse(SqlString s)
         {
             return RestWebService.ParseLiteral<Blob>(s);
         }

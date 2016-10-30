@@ -1,10 +1,7 @@
-﻿USE [json]
+﻿DROP TYPE IF EXISTS dbo.OData
 GO
-
-/****** Object:  UserDefinedType [dbo].[DocumentDb]    Script Date: 7/10/2015 10:29:46 PM ******/
 CREATE TYPE dbo.OData
 EXTERNAL NAME [PolyService].[PolyService.Service.OData]
-
 go
 
 declare @odata as dbo.OData = N'http://services.odata.org/V4/Northwind/Northwind.svc/Regions'
@@ -38,6 +35,6 @@ GO
 
 
 
-DROP TYPE dbo.OData
+DROP TYPE IF EXISTS dbo.OData
 
 

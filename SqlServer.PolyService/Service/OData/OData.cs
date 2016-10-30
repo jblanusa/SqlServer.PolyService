@@ -6,7 +6,7 @@ namespace PolyService.Service
     /// <summary>
     /// CLR UDT that enables user to send Http requests to OData service.
     /// </summary>
-    [Microsoft.SqlServer.Server.SqlUserDefinedType(Format.UserDefined, MaxByteSize = -1)]
+    [Microsoft.SqlServer.Server.SqlUserDefinedTypeAttribute(Microsoft.SqlServer.Server.Format.UserDefined, MaxByteSize = -1)]
     public class OData : RestWebService, PolyService.Service.IOData
     {
         /// <summary>
@@ -127,7 +127,7 @@ namespace PolyService.Service
         /// <param name="field">Property in the data source that wil be used to order results.</param>
         /// <returns>OData instance configured to order results.</returns>
         [SqlMethod(OnNullCall = false)]
-        public OData OrderBy(SqlString field)
+        public virtual OData OrderBy(SqlString field)
         {
             AddRequestParameter("$orderby", field.Value);
             return this;
@@ -139,7 +139,7 @@ namespace PolyService.Service
         /// <param name="condition">Condition that will be applied in OData HTTP query.</param>
         /// <returns>OData instance configured to filter results using the specified criterion.</returns>
         [SqlMethod(OnNullCall = false)]
-        public OData Filter(SqlString condition)
+        public virtual OData Filter(SqlString condition)
         {
             AddRequestParameter("$filter", condition.Value);
             return this;
@@ -151,7 +151,7 @@ namespace PolyService.Service
         /// <param name="number">Number of records that should be skipped.</param>
         /// <returns>OData instance configured to skip <paramref name="number"/> results.</returns>
         [SqlMethod(OnNullCall = false)]
-        public OData Skip(SqlInt64 number)
+        public virtual OData Skip(SqlInt64 number)
         {
             AddRequestParameter("$skip", number.Value.ToString());
             return this;
@@ -163,7 +163,7 @@ namespace PolyService.Service
         /// <param name="number">Number of records that should be returned</param>
         /// <returns>OData instance configured to skip <paramref name="number"/> results.</returns>
         [SqlMethod(OnNullCall = false)]
-        public OData Take(SqlInt64 number)
+        public virtual OData Take(SqlInt64 number)
         {
             AddRequestParameter("$top", number.Value.ToString());
             return this;
@@ -175,7 +175,7 @@ namespace PolyService.Service
         /// <param name="properties">Properties in the data source that should be fetched in the OData request.</param>
         /// <returns>OData instance configured to select only specified <paramref name="properties"/>.</returns>
         [SqlMethod(OnNullCall = false)]
-        public OData Select(SqlString properties)
+        public virtual OData Select(SqlString properties)
         {
             AddRequestParameter("$select", properties.Value.ToString());
             return this;
@@ -187,28 +187,28 @@ namespace PolyService.Service
         /// <param name="properties"></param>
         /// <returns></returns>
         [SqlMethod(OnNullCall = false)]
-        public OData FormatResult(SqlString properties)
+        public virtual OData Format(SqlString properties)
         {
             AddRequestParameter("$format", properties.Value.ToString());
             return this;
         }
 
         [SqlMethod(OnNullCall = false)]
-        public OData InlineCount(SqlString condition)
+        public virtual OData InlineCount(SqlString condition)
         {
             AddRequestParameter("$inlinecount", condition.Value.ToString());
             return this;
         }
 
         [SqlMethod(OnNullCall = false)]
-        public OData SkipToken(SqlString token)
+        public virtual OData SkipToken(SqlString token)
         {
             AddRequestParameter("$skiptoken", token.Value.ToString());
             return this;
         }
 
         [SqlMethod(OnNullCall = false)]
-        public OData Expand(SqlString properties)
+        public virtual OData Expand(SqlString properties)
         {
             AddRequestParameter("$expand", properties.Value.ToString());
             return this;

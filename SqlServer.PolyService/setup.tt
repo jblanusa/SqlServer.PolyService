@@ -20,12 +20,11 @@ use <#= database #>
 ----------------------
 -- Install Assembly --
 ----------------------
-IF  EXISTS (SELECT * FROM sys.assemblies asms WHERE asms.name = N'<#= assembly #>' AND is_user_defined = 1)
-	DROP ASSEMBLY <#= assembly #>
+DROP ASSEMBLY IF EXISTS <#= assembly #>
 GO
 
 CREATE ASSEMBLY <#= assembly #>
-FROM '<#= Host.ResolvePath("bin") #>\Debug\SqlServer.PolyService.dll'
+FROM '<#= Host.ResolvePath("bin") #>\Release\SqlServer.PolyService.dll'
 WITH PERMISSION_SET = EXTERNAL_ACCESS
 GO
 

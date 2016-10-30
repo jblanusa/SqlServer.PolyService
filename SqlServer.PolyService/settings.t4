@@ -1,5 +1,5 @@
 ﻿<# // Demo database #>
-<# string database = "__json"; #>
+<# string database = "PolyServiceDb"; #>
 <# // Asembly name #>
 <# string assembly = "PolyService"; #>
 <# // Account name for Blob, Table, and Queue storage #>

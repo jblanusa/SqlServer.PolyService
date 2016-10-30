@@ -4,7 +4,7 @@
     {
         OData Expand(global::System.Data.SqlTypes.SqlString properties);
         OData Filter(global::System.Data.SqlTypes.SqlString condition);
-        OData FormatResult(global::System.Data.SqlTypes.SqlString properties);
+        OData Format(global::System.Data.SqlTypes.SqlString properties);
         OData InlineCount(global::System.Data.SqlTypes.SqlString condition);
         OData Select(global::System.Data.SqlTypes.SqlString properties);
         OData Skip(global::System.Data.SqlTypes.SqlInt64 number);

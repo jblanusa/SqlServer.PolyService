@@ -4,32 +4,6 @@
 -- Use demo database
 use <#= database #>
 
-IF TYPE_ID('dbo.DataSource') IS NOT NULL
-DROP TYPE dbo.DataSource
-GO
-IF TYPE_ID('dbo.WebService') IS NOT NULL
-DROP TYPE dbo.WebService
-GO
-IF TYPE_ID('dbo.AzureBlob') IS NOT NULL
-DROP TYPE dbo.AzureBlob
-GO
-IF TYPE_ID('dbo.DocumentDB') IS NOT NULL
-DROP TYPE dbo.DocumentDB
-GO
-IF TYPE_ID('dbo.TextAnalytics') IS NOT NULL
-DROP TYPE dbo.TextAnalytics
-GO
-IF TYPE_ID('dbo.AzureSearch') IS NOT NULL
-DROP TYPE dbo.AzureSearch
-GO
-IF TYPE_ID('dbo.Neo4j') IS NOT NULL
-DROP TYPE dbo.Neo4j
-GO
-IF TYPE_ID('dbo.AzureTable') IS NOT NULL
-DROP TYPE dbo.AzureTable
-GO
-
-
 -------------------
 -- Creating UDTs --
 -------------------
@@ -45,19 +19,23 @@ EXTERNAL NAME [<#= assembly #>].[PolyService.Service.OData];
 GO
 
 --Creating DocumentDB Service type
-CREATE TYPE dbo.DocumentDB
+CREATE TYPE Azure.DocumentDB
 EXTERNAL NAME [<#= assembly #>].[PolyService.Azure.DocumentDB];
 GO
 
 --Creating DocumentDb factory function
 CREATE FUNCTION dbo.CreateDocumentDBService (@ds dbo.DataSource)
-RETURNS dbo.DocumentDB
+RETURNS Azure.DocumentDB
 AS EXTERNAL NAME [<#= assembly #>].[PolyService.Azure.DocumentDB].[CreateDocumentDbService]
 GO
 
---Creating RestWebService type
+CREATE TYPE dbo.RestService 
+EXTERNAL NAME PolyService.[PolyService.Service.RestWebService];
+GO
+
+--Creating WebService type
 CREATE TYPE dbo.WebService
-EXTERNAL NAME [<#= assembly #>].[PolyService.Service.RestWebService];
+EXTERNAL NAME [<#= assembly #>].[PolyService.Service.WebService];
 GO
 
 --Creating generic REST service factory function
@@ -68,22 +46,22 @@ GO
 
 
 -- Creating Blob type
-CREATE TYPE dbo.AzureBlob 
+CREATE TYPE Azure.BlobStorage
 EXTERNAL NAME [<#= assembly #>].[PolyService.Azure.Blob];
 GO
 
 -- Creating TableStorage type
-CREATE TYPE dbo.AzureTable
+CREATE TYPE Azure.TableStorage
 EXTERNAL NAME [<#= assembly #>].[PolyService.Azure.Table];
 GO
 
 -- Creating AzureSearchIndex type
-CREATE TYPE dbo.AzureSearch
+CREATE TYPE Azure.Search
 EXTERNAL NAME [<#= assembly #>].[PolyService.Azure.SearchService];
 GO
 
 -- Creating TextAnalytics type
-CREATE TYPE dbo.TextAnalytics
+CREATE TYPE Azure.TextAnalytics
 EXTERNAL NAME [<#= assembly #>].[PolyService.Azure.TextAnalytics];
 GO
 

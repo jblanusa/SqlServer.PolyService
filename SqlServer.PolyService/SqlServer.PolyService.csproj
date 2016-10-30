@@ -29,7 +29,8 @@
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DefineConstants>TRACE</DefineConstants>
+    <DefineConstants>
+    </DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
@@ -37,15 +38,12 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>polyservice.snk.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.XML" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Azure\MachineLearning\AzureMLApp.cs" />
@@ -59,7 +57,6 @@
     <Compile Include="Azure\MachineLearning\TextAnalytics.cs" />
     <Compile Include="Azure\Search\AzureSearch.cs" />
     <Compile Include="Azure\Storage\Table.cs" />
-    <Compile Include="Utilities\Compress.cs" />
     <Compile Include="Azure\DocumentDB\DocumentDB.cs" />
     <Compile Include="Azure\IAzureService.cs" />
     <Compile Include="Service\Neo4j\Neo4j.cs" />
@@ -103,13 +100,18 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
     </Content>
-    <Content Include="Demo\Setup-types.sql">
-      <DependentUpon>Setup-types.tt</DependentUpon>
+    <None Include="Demo\cleanup.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>cleanup.sql</LastGenOutput>
+    </None>
+    <Content Include="Demo\cleanup.sql">
+      <DependentUpon>cleanup.tt</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
     </Content>
-    <Content Include="Demo\Setup-assemby.sql">
-      <DependentUpon>Setup-assemby.tt</DependentUpon>
+    <Content Include="Demo\CognitiveServices.sql" />
+    <Content Include="Demo\Setup-types.sql">
+      <DependentUpon>Setup-types.tt</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
     </Content>
@@ -143,12 +145,6 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Setup-types.sql</LastGenOutput>
     </None>
-    <None Include="Demo\Setup-assemby.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Setup-assemby.sql</LastGenOutput>
-    </None>
-    <None Include="packages.config" />
-    <None Include="polyservice.snk.pfx" />
     <None Include="Service\Neo4j\demo.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>demo.sql</LastGenOutput>

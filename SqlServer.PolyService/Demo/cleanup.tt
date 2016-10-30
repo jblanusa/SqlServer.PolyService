@@ -1,0 +1,23 @@
+﻿<#@ template debug="false" hostspecific="true" language="C#" #>
+<#@ include file="..\settings.t4" #>
+<#@ output extension=".sql" #>
+-- Use demo database
+use <#= database #>
+
+DROP TYPE IF EXISTS dbo.DataSource
+GO
+DROP TYPE IF EXISTS dbo.WebService
+GO
+DROP TYPE IF EXISTS Azure.BlobStorage
+GO
+DROP TYPE IF EXISTS Azure.DocumentDB
+GO
+DROP TYPE IF EXISTS dbo.TextAnalytics
+GO
+DROP TYPE IF EXISTS Azure.Search
+GO
+DROP TYPE IF EXISTS dbo.Neo4j
+GO
+DROP TYPE IF EXISTS Azure.TableStorage
+GO
+

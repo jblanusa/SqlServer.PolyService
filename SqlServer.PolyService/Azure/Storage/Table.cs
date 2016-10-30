@@ -7,7 +7,7 @@ using System.Text;
 
 namespace PolyService.Azure
 {
-    [Microsoft.SqlServer.Server.SqlUserDefinedType(Format.UserDefined, MaxByteSize = -1)]
+    [Microsoft.SqlServer.Server.SqlUserDefinedTypeAttribute(Microsoft.SqlServer.Server.Format.UserDefined, MaxByteSize = -1)]
     public class Table : OData, IAzureService, IOData
     {
         
@@ -100,7 +100,7 @@ namespace PolyService.Azure
             return base.ToString();
         }
 
-        public static Table Null
+        public static new Table Null
         {
             get
             {
@@ -109,7 +109,7 @@ namespace PolyService.Azure
         }
 
         [SqlMethod(OnNullCall = false)]
-        public static Table Parse(SqlString s)
+        public static new Table Parse(SqlString s)
         {
             return RestWebService.ParseLiteral<Table>(s);
         }
@@ -143,7 +143,7 @@ namespace PolyService.Azure
             if (this.AccountKey != tbl.AccountKey) return false;
             if (this.Version != tbl.Version) return false;
             if (this.PartitionKeyAdded != tbl.PartitionKeyAdded) return false;
-            if (this.RowKeyAdded != RowKeyAdded) return false;
+            if (this.RowKeyAdded != tbl.RowKeyAdded) return false;
             if (this.insertBody.ToString() != tbl.insertBody.ToString()) return false;
             return base.IsEqual(obj);
         }
@@ -225,10 +225,10 @@ namespace PolyService.Azure
         /// <summary>
         /// Querying table storage should look like:
         /// 
-        /// 				Table.SelectFields('a, b, c')
+        /// 				Table.[Select]('a, b, c')
         ///                      .Take(10)
         ///                      .Filter('a ge 20')
-		///					     .FromTable('TestTable')
+		///					     .[From]('TestTable')
 		///					     .Get()
         /// 
         /// Where Table is TableStorage object
@@ -238,7 +238,7 @@ namespace PolyService.Azure
         /// <param name="name">Table name</param>
         /// <returns>This object</returns>
         [SqlMethod(OnNullCall = false)]
-        public Table From(SqlString name)
+        public new Table From(SqlString name)
         {
             base.AddHeader("Accept", "application/json;odata=nometadata");
 
@@ -492,21 +492,21 @@ namespace PolyService.Azure
         /// <returns></returns>
 
         [SqlMethod(OnNullCall = false)]
-        public Table Filter(SqlString condition)
+        public new Table Filter(SqlString condition)
         {
             base.Filter(condition);
             return this;
         }
 
         [SqlMethod(OnNullCall = false)]
-        public Table Take(SqlInt64 number)
+        public new Table Take(SqlInt64 number)
         {
             base.Take(number);
             return this;
         }
 
         [SqlMethod(OnNullCall = false)]
-        public Table Select(SqlString properties)
+        public new Table Select(SqlString properties)
         {
             base.Select(properties);
             return this;

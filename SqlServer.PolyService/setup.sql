@@ -8,20 +8,20 @@ RECONFIGURE;
 GO
 
 SET NOCOUNT ON
-CREATE DATABASE __json
+CREATE DATABASE PolyServiceDb
 GO
-ALTER DATABASE __json SET TRUSTWORTHY ON;
+ALTER DATABASE PolyServiceDb SET TRUSTWORTHY ON;
 GO
-use __json
+use PolyServiceDb
 
 ----------------------
 -- Install Assembly --
 ----------------------
-DROP ASSEMBLY IF  EXISTS PolyService
+DROP ASSEMBLY IF EXISTS PolyService
 GO
 
 CREATE ASSEMBLY PolyService
-FROM 'C:\Users\a-jovanp\Documents\GitHub\SqlServer.PolyService\SqlServer.PolyService\bin\Debug\SqlServer.PolyService.dll'
+FROM 'C:\Users\jovanpop\Documents\GitHub\SqlServer.PolyService\SqlServer.PolyService\bin\Release\SqlServer.PolyService.dll'
 WITH PERMISSION_SET = EXTERNAL_ACCESS
 GO
 

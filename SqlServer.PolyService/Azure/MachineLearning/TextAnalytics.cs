@@ -63,7 +63,7 @@ namespace PolyService.Azure
         /// <param name="aKey">Account Key</param>
         /// <returns>This object</returns>
         [SqlMethod(OnNullCall = false)]
-        public TextAnalytics SetAccountKey(SqlString aKey)
+        public new TextAnalytics SetAccountKey(SqlString aKey)
         {
             base.SetAccountKey(aKey);
             return this;
@@ -75,7 +75,7 @@ namespace PolyService.Azure
         /// <param name="uname">User Name</param>
         /// <returns>This object</returns>
         [SqlMethod(OnNullCall = false)]
-        public TextAnalytics SetUserName(SqlString uname)
+        public new TextAnalytics SetUserName(SqlString uname)
         {
             base.SetUserName(uname);
             return this;
@@ -88,14 +88,14 @@ namespace PolyService.Azure
         /// <param name="akey">Account Key</param>
         /// <returns>This object</returns>
         [SqlMethod(OnNullCall = false)]
-        public TextAnalytics SetNamePass(SqlString uname, SqlString akey)
+        public new TextAnalytics SetNamePass(SqlString uname, SqlString akey)
         {
             base.SetNamePass(uname, akey);
             return this;
         }
 
         [SqlMethod(OnNullCall = false)]
-        public static TextAnalytics Parse(SqlString s)
+        public new static TextAnalytics Parse(SqlString s)
         {
 
             return new TextAnalytics();
